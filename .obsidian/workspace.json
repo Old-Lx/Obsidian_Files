@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "4565958039c23a70",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed2c743d4edb4ff1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff1eda727bbc2037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mate 6/Matemática 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9932c5c9c08c0f8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c00dca864c5f7b1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a6893f65b1ee540",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "567c2eb7da2dcc33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f01971d50307f03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bcb93a0b9425d007",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe81b86382dc2f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec6bdca2a68d243f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mate 6/Matemática 6.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6a2362d14cfc44b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mate 6/Matemática 6.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "300392a53059716c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf99575b18147f9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mate 6/Matemática 6.md"
+              }
+            }
+          },
+          {
+            "id": "0b5e36c795e63b06",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ff1eda727bbc2037",
+  "lastOpenFiles": [
+    "Excalidraw/Excalidraw Apprentice note.md",
+    "Images/Pasted Image 20240928180742_339.png",
+    "Mate 6/Guía 1.md",
+    "Images/Pasted Image 20240928183951_347.png",
+    "Mate 6/Matemática 6.md",
+    "Señales y sistemas/Clase 1 - Introducción.md",
+    "Señales y sistemas/Clase 1 - Ejercicios.md",
+    "Señales y sistemas/Drawing 2024-09-28 07.47.24.excalidraw.md",
+    "Señales y sistemas",
+    "Images/Pasted Image 20240927100341_271.png",
+    "Images/Pasted Image 20240927095804_827.png",
+    "Images/Pasted Image 20240927092140_854.png",
+    "Images",
+    "Images/Pasted Image 20240927095434_265.png",
+    "Images/Pasted Image 20240927093221_862.png",
+    "Mate 6/Drawing 2024-09-27 09.18.40.excalidraw.md",
+    "Mate 6",
+    "Visión y Misión.md",
+    "Mate 6/Guía 1.canvas",
+    "Excalidraw",
+    "Mate 6",
+    "2024-09-27.md",
+    "Untitled 1.canvas",
+    "2024-05-14.md",
+    "Knowledge/Fisica/Transistores.md",
+    "Knowledge/Fisica",
+    "Knowledge",
+    "create a link.md"
+  ]
+}
