@@ -11,6 +11,16 @@
             "id": "aded51c789cb9b46",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mate 6/Guía 1.md"
+              }
+            }
+          },
+          {
+            "id": "b6deaafbf46ef784",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Mate 6/Matemática 6.md",
@@ -69,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mate 6/Matemática 6.md",
+                "file": "Mate 6/Guía 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mate 6/Matemática 6.md",
+                "file": "Mate 6/Guía 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mate 6/Matemática 6.md"
+                "file": "Mate 6/Guía 1.md"
               }
             }
           },
@@ -156,11 +167,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a6893f65b1ee540",
+  "active": "aded51c789cb9b46",
   "lastOpenFiles": [
+    "Mate 6/Matemática 6.md",
     "Mate 6/Guía 1.md",
     "Images/Pasted Image 20241001222348_761.png",
-    "Mate 6/Matemática 6.md",
     "Excalidraw/Excalidraw Apprentice note.md",
     "Images/Pasted Image 20240928180742_339.png",
     "Images/Pasted Image 20240928183951_347.png",

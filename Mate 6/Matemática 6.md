@@ -17,4 +17,9 @@ Si $$r:D \subseteq \mathbb{R}^2 \rightarrow\mathbb{R}^3$$ es una parametrizació
 $$
 A(S) = \int\int_{D} \sqrt{\Big(\frac{\partial g}{\partial u} \Big)^2 + \Big(\frac{\partial g}{\partial v} \Big)^2 + 1}\hspace{7px} dA
 $$ si S es el gráfico de una función $$z = g(x, y) \hspace 7px con \hspace 7px dominio \hspace 7px D = \mathbb R^3$$ 
+4- Jacobiano:
+$$\frac{\partial(x, y)}{\partial(y, v)} = \Bigg|\begin{array}{c}
+\frac{\partial x}{\partial v} \hspace 7px  \frac{\partial x}{\partial v} \\
+\frac{\partial y}{\partial v} \hspace 7px  \frac{\partial y}{\partial v}
+\end{array} \Bigg|$$
 [[Guía 1]]
