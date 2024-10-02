@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ed2c743d4edb4ff1",
+        "id": "2eeba134191eab28",
         "type": "tabs",
         "children": [
           {
-            "id": "ff1eda727bbc2037",
+            "id": "aded51c789cb9b46",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted Image 20241001222348_761.png"
+                "file": "Mate 6/Matemática 6.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted Image 20241001222348_761.png",
+                "file": "Mate 6/Matemática 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted Image 20241001222348_761.png",
+                "file": "Mate 6/Matemática 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted Image 20241001222348_761.png"
+                "file": "Mate 6/Matemática 6.md"
               }
             }
           },
