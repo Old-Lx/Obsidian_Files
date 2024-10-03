@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed2c743d4edb4ff1",
+        "id": "2eeba134191eab28",
         "type": "tabs",
         "children": [
           {
-            "id": "ff1eda727bbc2037",
+            "id": "aded51c789cb9b46",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "51f3bed18cd76fbe",
+            "id": "b6deaafbf46ef784",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mate 6/Matemática 6.md",
+                "file": "Mate 6/Guía 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mate 6/Matemática 6.md",
+                "file": "Mate 6/Guía 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mate 6/Matemática 6.md"
+                "file": "Mate 6/Guía 1.md"
               }
             }
           },
@@ -167,11 +167,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51f3bed18cd76fbe",
+  "active": "aded51c789cb9b46",
   "lastOpenFiles": [
-    "Mate 6/Guía 1.md",
-    "Images/Pasted Image 20241001222348_761.png",
     "Mate 6/Matemática 6.md",
+    "Mate 6/Guía 1.md",
+    "Mate 6/Matemática 6.md",
+    "Images/Pasted Image 20241001222348_761.png",
     "Excalidraw/Excalidraw Apprentice note.md",
     "Images/Pasted Image 20240928180742_339.png",
     "Images/Pasted Image 20240928183951_347.png",
@@ -187,7 +188,6 @@
     "Images/Pasted Image 20240927093221_862.png",
     "Mate 6/Drawing 2024-09-27 09.18.40.excalidraw.md",
     "Mate 6",
-    "Visión y Misión.md",
     "Mate 6/Guía 1.canvas",
     "Excalidraw",
     "Mate 6",
