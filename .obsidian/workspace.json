@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2eeba134191eab28",
+        "id": "ed2c743d4edb4ff1",
         "type": "tabs",
         "children": [
           {
-            "id": "aded51c789cb9b46",
+            "id": "ff1eda727bbc2037",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "b6deaafbf46ef784",
+            "id": "51f3bed18cd76fbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -167,12 +166,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aded51c789cb9b46",
+  "active": "ff1eda727bbc2037",
   "lastOpenFiles": [
-    "Mate 6/Matemática 6.md",
+    "Images/Pasted Image 20241001222348_761.png",
     "Mate 6/Guía 1.md",
     "Mate 6/Matemática 6.md",
-    "Images/Pasted Image 20241001222348_761.png",
+    "conflict-files-obsidian-git.md",
+    "Visión y Misión.md",
     "Excalidraw/Excalidraw Apprentice note.md",
     "Images/Pasted Image 20240928180742_339.png",
     "Images/Pasted Image 20240928183951_347.png",

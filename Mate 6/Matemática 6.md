@@ -2,7 +2,7 @@
 1- Para parametrizar debes expresar las todas tus variables en función de parámetros pseudo arbitrarios que permitan reducir la cantidad de variables, cabe a destacar que no todas las parametrizaciones son convenientes para un ejercicio dado.
 2- Ecuación del plano tangente:
 $$
-
+\big<\nabla f(x_{0}, y_{0}), \Bigg(\begin{array}{r} x - x_{0} \\ y-y_{0} \end{array}\Bigg)\big> = z-z_{p}
 $$
 o
 $$
