@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "c354bc94b6cb51e9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/Clase 2 - Aplicaciones especiales.md"
+              }
+            }
+          },
+          {
             "id": "51f3bed18cd76fbe",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mate 6/Guía 1.md",
+                "file": "Mecatrónica/Clase 2 - Aplicaciones especiales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mate 6/Guía 1.md",
+                "file": "Mecatrónica/Clase 2 - Aplicaciones especiales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mate 6/Guía 1.md"
+                "file": "Mecatrónica/Clase 2 - Aplicaciones especiales.md"
               }
             }
           },
@@ -166,10 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff1eda727bbc2037",
+  "active": "6a6893f65b1ee540",
   "lastOpenFiles": [
-    "Images/Pasted Image 20241001222348_761.png",
     "Mate 6/Guía 1.md",
+    "Mecatrónica/Clase 2 - Aplicaciones especiales.md",
+    "Mecatrónica/Excalidraw",
+    "Mecatrónica",
+    "Images/Pasted Image 20241001222348_761.png",
     "Mate 6/Matemática 6.md",
     "conflict-files-obsidian-git.md",
     "Visión y Misión.md",
@@ -189,7 +203,6 @@
     "Mate 6/Drawing 2024-09-27 09.18.40.excalidraw.md",
     "Mate 6",
     "Mate 6/Guía 1.canvas",
-    "Excalidraw",
     "Mate 6",
     "2024-09-27.md",
     "Untitled 1.canvas",
