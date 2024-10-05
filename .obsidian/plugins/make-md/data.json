@@ -44,7 +44,9 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Mecatrónica",
+    "//Excalidraw"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

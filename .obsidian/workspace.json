@@ -11,15 +11,24 @@
             "id": "51f3bed18cd76fbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Mate 6/Matemática 6.md",
-                "mode": "source",
-                "source": false
+                "path": "Mecatrónica"
+              }
+            }
+          },
+          {
+            "id": "9b6aa0efe35b96c0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/Clase 3 - Actuadores.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mate 6/Matemática 6.md",
+                "file": "Mecatrónica/Clase 3 - Actuadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mate 6/Matemática 6.md",
+                "file": "Mecatrónica/Clase 3 - Actuadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mate 6/Matemática 6.md"
+                "file": "Mecatrónica/Clase 3 - Actuadores.md"
               }
             }
           },
@@ -166,12 +176,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2e26b7c00295cbd",
+  "active": "9b6aa0efe35b96c0",
   "lastOpenFiles": [
+    "image.png",
+    "Pasted Image 20241005115254_272.png",
+    "Excalidraw/Excalidraw.md",
+    "Mecatrónica/Clase 3 - Actuadores.md",
+    "Excalidraw",
+    "Mate 6/Matemática 6.md",
     "Tags",
     "Images/Pasted Image 20241005105441_384.png",
     "Mecatrónica/Clase 1 - Intro.md",
-    "Mate 6/Matemática 6.md",
     "Images/Pasted Image 20241005111910_922.png",
     "Images/Pasted Image 20241005110822_798.png",
     "Images/Pasted Image 20241005105853_364.png",
@@ -181,7 +196,6 @@
     "Images/Pasted Image 20241004090226_687.png",
     "Images/Pasted Image 20241004091831_061.png",
     "Images/Pasted Image 20241004091812_342.png",
-    "Images/Pasted Image 20241004091730_563.png",
     "Mate 6/Guía 1.md",
     "Mecatrónica/Excalidraw",
     "Mecatrónica",
