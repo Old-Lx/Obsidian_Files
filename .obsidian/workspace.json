@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff1eda727bbc2037",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/Clase 1 - Intro.md"
-              }
-            }
-          },
-          {
             "id": "51f3bed18cd76fbe",
             "type": "leaf",
             "state": {
@@ -74,13 +64,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "c2e26b7c00295cbd",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecatrónica/Clase 1 - Intro.md",
+                "file": "Mate 6/Matemática 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecatrónica/Clase 1 - Intro.md",
+                "file": "Mate 6/Matemática 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecatrónica/Clase 1 - Intro.md"
+                "file": "Mate 6/Matemática 6.md"
               }
             }
           },
@@ -168,32 +166,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff1eda727bbc2037",
+  "active": "c2e26b7c00295cbd",
   "lastOpenFiles": [
-    "Pasted Image 20241005105853_364.png",
-    "Pasted Image 20241005105820_453.png",
-    "Pasted Image 20241005105505_283.png",
-    "Pasted Image 20241005105441_384.png",
-    "Mecatrónica/Clase 2 - Aplicaciones especiales.md",
-    "Mate 6/Matemática 6.md",
-    "Images/Pasted Image 20241004090226_687.png",
+    "Tags",
+    "Images/Pasted Image 20241005105441_384.png",
     "Mecatrónica/Clase 1 - Intro.md",
+    "Mate 6/Matemática 6.md",
+    "Images/Pasted Image 20241005111910_922.png",
+    "Images/Pasted Image 20241005110822_798.png",
+    "Images/Pasted Image 20241005105853_364.png",
+    "Images/Pasted Image 20241005105820_453.png",
+    "Images/Pasted Image 20241005105505_283.png",
+    "Mecatrónica/Clase 2 - Aplicaciones especiales.md",
+    "Images/Pasted Image 20241004090226_687.png",
     "Images/Pasted Image 20241004091831_061.png",
     "Images/Pasted Image 20241004091812_342.png",
     "Images/Pasted Image 20241004091730_563.png",
-    "Images/Pasted Image 20241004091722_478.png",
-    "Images/Pasted Image 20241004091638_390.png",
-    "Images/Pasted Image 20241004091552_560.png",
     "Mate 6/Guía 1.md",
     "Mecatrónica/Excalidraw",
     "Mecatrónica",
     "conflict-files-obsidian-git.md",
     "Visión y Misión.md",
     "Excalidraw/Excalidraw Apprentice note.md",
-    "Señales y sistemas/Clase 1 - Introducción.md",
-    "Señales y sistemas/Clase 1 - Ejercicios.md",
+    "Comunicaciones 1/Clase 1 - Introducción.md",
+    "Comunicaciones 1/Clase 1 - Ejercicios.md",
     "Señales y sistemas/Drawing 2024-09-28 07.47.24.excalidraw.md",
-    "Señales y sistemas",
+    "Comunicaciones 1",
     "Images",
     "Mate 6/Drawing 2024-09-27 09.18.40.excalidraw.md",
     "Mate 6",
