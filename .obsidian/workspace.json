@@ -13,16 +13,6 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mate 6/Guía 1.md"
-              }
-            }
-          },
-          {
-            "id": "c354bc94b6cb51e9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
                 "file": "Mecatrónica/Clase 2 - Aplicaciones especiales.md"
               }
             }
@@ -39,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,29 +167,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a6893f65b1ee540",
+  "active": "ff1eda727bbc2037",
   "lastOpenFiles": [
-    "Mate 6/Guía 1.md",
+    "Images/Pasted Image 20241004090226_687.png",
+    "Mecatrónica/Clase 1 - Intro.md",
+    "Images/Pasted Image 20241004091831_061.png",
+    "Images/Pasted Image 20241004091812_342.png",
+    "Images/Pasted Image 20241004091730_563.png",
+    "Images/Pasted Image 20241004091722_478.png",
+    "Images/Pasted Image 20241004091638_390.png",
+    "Images/Pasted Image 20241004091552_560.png",
+    "Images/Pasted Image 20241004091526_121.png",
+    "Images/Pasted Image 20241004091438_921.png",
+    "Images/Pasted Image 20241004091413_550.png",
+    "Images/Pasted Image 20241004091330_497.png",
     "Mecatrónica/Clase 2 - Aplicaciones especiales.md",
+    "Mate 6/Guía 1.md",
     "Mecatrónica/Excalidraw",
     "Mecatrónica",
-    "Images/Pasted Image 20241001222348_761.png",
     "Mate 6/Matemática 6.md",
     "conflict-files-obsidian-git.md",
     "Visión y Misión.md",
     "Excalidraw/Excalidraw Apprentice note.md",
-    "Images/Pasted Image 20240928180742_339.png",
-    "Images/Pasted Image 20240928183951_347.png",
     "Señales y sistemas/Clase 1 - Introducción.md",
     "Señales y sistemas/Clase 1 - Ejercicios.md",
     "Señales y sistemas/Drawing 2024-09-28 07.47.24.excalidraw.md",
     "Señales y sistemas",
-    "Images/Pasted Image 20240927100341_271.png",
-    "Images/Pasted Image 20240927095804_827.png",
-    "Images/Pasted Image 20240927092140_854.png",
     "Images",
-    "Images/Pasted Image 20240927095434_265.png",
-    "Images/Pasted Image 20240927093221_862.png",
     "Mate 6/Drawing 2024-09-27 09.18.40.excalidraw.md",
     "Mate 6",
     "Mate 6/Guía 1.canvas",
