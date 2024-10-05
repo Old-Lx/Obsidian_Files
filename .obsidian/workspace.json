@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -169,6 +170,8 @@
   },
   "active": "ff1eda727bbc2037",
   "lastOpenFiles": [
+    "Mate 6/Matemática 6.md",
+    "Mecatrónica/Clase 2 - Aplicaciones especiales.md",
     "Images/Pasted Image 20241004090226_687.png",
     "Mecatrónica/Clase 1 - Intro.md",
     "Images/Pasted Image 20241004091831_061.png",
@@ -180,12 +183,9 @@
     "Images/Pasted Image 20241004091526_121.png",
     "Images/Pasted Image 20241004091438_921.png",
     "Images/Pasted Image 20241004091413_550.png",
-    "Images/Pasted Image 20241004091330_497.png",
-    "Mecatrónica/Clase 2 - Aplicaciones especiales.md",
     "Mate 6/Guía 1.md",
     "Mecatrónica/Excalidraw",
     "Mecatrónica",
-    "Mate 6/Matemática 6.md",
     "conflict-files-obsidian-git.md",
     "Visión y Misión.md",
     "Excalidraw/Excalidraw Apprentice note.md",
