@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed2c743d4edb4ff1",
+        "id": "757b1299a6cde093",
         "type": "tabs",
         "children": [
           {
-            "id": "84193d5d49badaa2",
+            "id": "32a456fcc8678c8b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -165,22 +164,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84193d5d49badaa2",
+  "active": "32a456fcc8678c8b",
   "lastOpenFiles": [
-    "image_14.png",
-    "image_13.png",
-    "image_12.png",
-    "image_11.png",
-    "image_10.png",
-    "image_9.png",
-    "image_8.png",
-    "image_7.png",
-    "image_6.png",
-    "image_5.png",
-    "image_4.png",
-    "Mecatrónica/Mecatrónica.md",
     "Mecatrónica/Clase 3 - Actuadores, Transmisiones y Reductores.md",
     "Mecatrónica/Clase 3 Parte 2 - Matrices de rotación y comienzo de las mates de un robot.md",
+    "Attachments/img (1).png",
+    "Attachments/img (16).png",
+    "Attachments/img (15).png",
+    "Attachments/img (14).png",
+    "Attachments/img (13).png",
+    "Attachments/img (12).png",
+    "Attachments/img (11).png",
+    "Attachments/img (10).png",
+    "Attachments/img (9).png",
+    "Attachments/img (8).png",
+    "Mecatrónica/Mecatrónica.md",
     "Mecatrónica/Clase 1 - Intro.md",
     "Vault.md",
     "Excalidraw/Excalidraw.md",
@@ -198,7 +196,7 @@
     "Comunicaciones 1/Clase 1 - Ejercicios.md",
     "Señales y sistemas/Drawing 2024-09-28 07.47.24.excalidraw.md",
     "Comunicaciones 1",
-    "Images",
+    "Attachments",
     "Mate 6/Drawing 2024-09-27 09.18.40.excalidraw.md",
     "Mate 6",
     "Mate 6/Guía 1.canvas",

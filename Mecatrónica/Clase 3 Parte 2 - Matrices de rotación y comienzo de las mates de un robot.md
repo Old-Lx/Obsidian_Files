@@ -38,7 +38,7 @@ d3f6d32ed13a3984b015ef7dcbbbf89486a13ca8: [[image_12.png]]
 
 d307f9d919e2198205391cd53ec76a92e06e5298: [[image_13.png]]
 
-d24f7c511555ea8840a40ae5613be3b06e12b7a7: [[image_14.png]]
+d24f7c511555ea8840a40ae5613be3b06e12b7a7: [[img.png]]
 
 %%
 ## Drawing
