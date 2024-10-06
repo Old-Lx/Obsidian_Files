@@ -45,8 +45,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Mecatrónica",
-    "//Excalidraw"
+    "//Mecatrónica"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

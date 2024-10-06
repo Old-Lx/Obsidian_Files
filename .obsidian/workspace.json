@@ -21,9 +21,9 @@
             "id": "9b6aa0efe35b96c0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Mecatrónica/Clase 3 - Actuadores, Transmisiones y Reductores.md"
+                "file": "Images/image_2.png"
               }
             }
           }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecatrónica/Clase 3 - Actuadores, Transmisiones y Reductores.md",
+                "file": "Images/image_2.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecatrónica/Clase 3 - Actuadores, Transmisiones y Reductores.md",
+                "file": "Images/image_2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecatrónica/Clase 3 - Actuadores, Transmisiones y Reductores.md"
+                "file": "Images/image_2.png"
               }
             }
           },
@@ -161,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,21 +174,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b6aa0efe35b96c0",
+  "active": "0b5e36c795e63b06",
   "lastOpenFiles": [
-    "image_11.png",
-    "image_10.png",
-    "image_9.png",
-    "image_8.png",
-    "image_7.png",
-    "image_6.png",
-    "image_5.png",
-    "image_4.png",
-    "CP 2.jpg",
-    "image_3.png",
-    "image_2.png",
+    "Images/image_4.png",
+    "Vault.md",
     "Excalidraw/Excalidraw.md",
     "Mecatrónica/Clase 3 - Actuadores, Transmisiones y Reductores.md",
+    "Images/image_11.png",
+    "Images/image_10.png",
+    "Images/image_9.png",
+    "Images/image_8.png",
+    "Images/image_7.png",
+    "Images/image_6.png",
+    "Images/image_5.png",
+    "Images/CP 2.jpg",
+    "Images/image_3.png",
     "Excalidraw",
     "Mate 6/Matemática 6.md",
     "Tags",
