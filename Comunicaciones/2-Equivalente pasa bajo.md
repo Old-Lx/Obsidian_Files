@@ -39,3 +39,10 @@ $$
 ## Señales Analíticas y Equivalente Pasa Bajo
 
 ### Señales analíticas:
+
+Una señal real pasabanda $$x(t)$$ tiene su señal analítica $$g_a(t)$$ que es compleja y nula para frecuencias negativas, y proporcional a la señal real en los positivos, también existe $$g_a^*(t)$$ que cumple lo mismo que la señal analítica definida anteriormente pero cambiando los roles entre frecuencias negativas y positivas.
+
+A partir de ellas dos, se puede definir el espectro de la señal pasabanda como: $$X(f) = X_+(f) +X_-(f)$$ $$X_+(f) = \Bigg\{ \begin{array}{l} X(f): \hspace{1em} f > 0 \\ 0: \hspace{2.5em} f \leq 0 \end{array} \hspace{.5em}; \hspace{2em} X_-(f) = \Bigg\{ \begin{array}{l} X(f): \hspace{1em} f < 0 \\ 0: \hspace{2.5em} f \geq 0 \end{array}$$
+El Espectro de las Señales Analíticas poseen el doble de los espectros positivos y negativos respectivamente.
+$$G_a(f) = 2X_+(f)$$ $$G_a^*(f) = 2X_-(f)$$
+La señal analítica también puede ser obtenida a través de la transformada de Hilbert
