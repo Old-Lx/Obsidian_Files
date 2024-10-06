@@ -31,3 +31,7 @@ $$
 3. Ambas son ortogonales entre sí, es decir, $$\int_{-\infty}^{\infty} x(t) \hat x(t) dt = 0 $$
 4. No tiene función inversa, pero se puede usar la siguiente propiedad: $$\hat x(t) = \mathcal{H}\{x(t)\} \Rightarrow \mathcal{H}\{\hat x(t)\} = -x(t)$$
 5. Si $$x(t)$$ es par $$\hat x(t)$$ es impar y viceversa.
+
+## Tabla de la T.H.
+
+![[Pasted image 20241006123058.png]]
