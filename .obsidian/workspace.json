@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comunicaciones/2-Equivalente pasa bajo.md",
+                "file": "Mate/Matemática 6/Resumen.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f93b25a6a8f263a7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md"
+              }
+            }
+          },
+          {
+            "id": "e3beca4510f7e04f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -94,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comunicaciones/2-Equivalente pasa bajo.md",
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comunicaciones/2-Equivalente pasa bajo.md",
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comunicaciones/2-Equivalente pasa bajo.md"
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
               }
             }
           },
@@ -166,27 +188,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c6c2941aa06227e",
+  "active": "e3beca4510f7e04f",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20241006123058.png",
-    "Mate/Matemática 6/Resumen.md",
-    "Comunicaciones/2-Equivalente pasa bajo.md",
+    "Attachments/image_13.png",
+    "Attachments/image_12.png",
+    "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
+    "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
+    "Mecatrónica/Untitled.md",
+    "Vault.md",
+    "Mate/Matemática 6/1-Campos conservativos e integrales de línea y superficie.md",
     "Mate/Matemática 6/Matemática 6.md",
-    "Comunicaciones/1-Intro.md",
+    "Mate/Matemática 6/Resumen.md",
+    "Mate/Matemática 6/1-Campos conservativos.md",
+    "Mate/Matemática 6/Guía 1.md",
     "Mate/Mate.md",
+    "Comunicaciones/Comunicaciones.md",
+    "Comunicaciones/2-Equivalente pasa bajo.md",
+    "Comunicaciones/1-Ejercicios.md",
+    "Attachments/Pasted image 20241006123058.png",
+    "Comunicaciones/1-Intro.md",
     "Mate/Matemática VI/Drawing 2024-10-06 11.07.59.excalidraw.md",
     "Mate/Matemática 6.md",
     "Mate/Matemática 6",
     "Mate/Untitled.md",
     "Mecatrónica/Mecatrónica.md",
-    "Comunicaciones/Comunicaciones.md",
     "Comunicaciones/Comunicaciones 1.md",
     "Meca/Mecatrónica.md",
-    "Comunicaciones/1-Ejercicios.md",
-    "Mate/Matemática 6/Guía 1.md",
     "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
     "Mecatrónica/1-Intro.md",
-    "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
     "Attachments/Pasted Image 20241005115254_272.png",
     "Mecatrónica/2-Aplicaciones especiales.md",
     "Attachments/image_11.png",
@@ -196,21 +225,14 @@
     "Attachments/img (15).png",
     "Attachments/img (14).png",
     "Attachments/img (13).png",
-    "Attachments/img (12).png",
-    "Attachments/img (8).png",
-    "Vault.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw",
     "Tags",
     "Mecatrónica/Excalidraw",
     "Mecatrónica",
     "conflict-files-obsidian-git.md",
-    "Visión y Misión.md",
-    "Excalidraw/Excalidraw Apprentice note.md",
-    "Señales y sistemas/Drawing 2024-09-28 07.47.24.excalidraw.md",
     "Comunicaciones",
     "Attachments",
-    "Mate 6/Drawing 2024-09-27 09.18.40.excalidraw.md",
     "Mate",
     "Mate 6/Guía 1.canvas",
     "Mate",

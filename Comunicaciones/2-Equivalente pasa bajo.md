@@ -66,4 +66,9 @@ Perteneciendo ambos componentes a los reales, luego, la forma polar o representa
 
 $$x(t) = R(t)\cos[\omega_ct + \theta(t)]$$
 $$g(t) = x_i(t) + jx_q(t) = |g(t)| e^{j\angle{g(t)}} \equiv R(t)e^{j\theta(t)}$$
-$$x_i(t) = Re\{g(t)\} \equiv 
+$$x_i(t) = Re\{g(t)\} \equiv R(t)\cos\theta(t)$$
+$$x_q(t) = Im\{g(t)\} \equiv R(t)\sin\theta(t)$$
+$$R(t) \equiv |g(t)| \equiv \sqrt{x_i^2(t) + x_q^2(t)}$$
+$$\theta(t) \equiv \angle{g(t)} = \tan^{-1}\Big(\frac{x_q(t)}{x_i(t)} \Big)$$
+
+Donde $$R(t)$$ se conoce como la envolvente de la señal y $$\theta(t)$$ la fase de la señal. De allí $$g(t)$$ se conoce como envolvente compleja de $$x(t)$$

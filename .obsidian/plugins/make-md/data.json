@@ -42,17 +42,15 @@
   "folderNoteName": "",
   "sidebarTabs": true,
   "showRibbon": true,
-  "deleteFileOption": "trash",
+  "deleteFileOption": "permanent",
   "expandedSpaces": [
-    "/",
     "//Excalidraw",
     "//Mate 6",
     "//Comunicaciones 1",
-    "//Comunicaciones",
     "//Meca",
-    "//Mate",
     "//Mate/Mate/Matemática VI",
-    "//Mate/Mate/Matemática 6"
+    "/",
+    "//Mecatrónica"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
