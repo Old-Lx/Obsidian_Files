@@ -1,6 +1,3 @@
----
-sticker: emoji//1f1fb-1f1ee
----
 - Resumen de fórmulas y conceptos:
 1- Para parametrizar debes expresar las todas tus variables en función de parámetros pseudo arbitrarios que permitan reducir la cantidad de variables, cabe a destacar que no todas las parametrizaciones son convenientes para un ejercicio dado.
 2- Ecuación del plano tangente:
@@ -25,4 +22,3 @@ $$\frac{\partial(x, y)}{\partial(y, v)} = \Bigg|\begin{array}{c}
 \frac{\partial x}{\partial v} \hspace 7px  \frac{\partial x}{\partial v} \\
 \frac{\partial y}{\partial v} \hspace 7px  \frac{\partial y}{\partial v}
 \end{array} \Bigg|$$
-[[Guía 1]]

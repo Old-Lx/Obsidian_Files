@@ -46,9 +46,13 @@
   "expandedSpaces": [
     "/",
     "//Excalidraw",
-    "//Mecatrónica",
     "//Mate 6",
-    "//Comunicaciones 1"
+    "//Comunicaciones 1",
+    "//Comunicaciones",
+    "//Meca",
+    "//Mate",
+    "//Mate/Mate/Matemática VI",
+    "//Mate/Mate/Matemática 6"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -59,7 +63,8 @@
   "spaceSubFolder": ".space",
   "hiddenFiles": [
     "LICENSE",
-    "README.md"
+    "README.md",
+    "Meca/Mecatrónica.md"
   ],
   "hiddenExtensions": [
     ".mdb",

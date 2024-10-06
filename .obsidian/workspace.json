@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comunicaciones 1/Clase 1 - Introducción.md",
+                "file": "Comunicaciones/2-Equivalente pasa bajo.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comunicaciones 1/Clase 1 - Introducción.md",
+                "file": "Comunicaciones/2-Equivalente pasa bajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comunicaciones 1/Clase 1 - Introducción.md",
+                "file": "Comunicaciones/2-Equivalente pasa bajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comunicaciones 1/Clase 1 - Introducción.md"
+                "file": "Comunicaciones/2-Equivalente pasa bajo.md"
               }
             }
           },
@@ -168,17 +168,26 @@
   },
   "active": "6c6c2941aa06227e",
   "lastOpenFiles": [
-    "Comunicaciones 1/Clase 1 - Ejercicios.md",
-    "Meca/Meca.md",
+    "Mate/Matemática 6/Resumen.md",
+    "Comunicaciones/2-Equivalente pasa bajo.md",
+    "Mate/Matemática 6/Matemática 6.md",
+    "Comunicaciones/1-Intro.md",
     "Mate/Mate.md",
+    "Mate/Matemática VI/Drawing 2024-10-06 11.07.59.excalidraw.md",
     "Mate/Matemática 6.md",
-    "Mate/Guía 1.md",
+    "Mate/Matemática 6",
+    "Mate/Untitled.md",
+    "Mecatrónica/Mecatrónica.md",
+    "Comunicaciones/Comunicaciones.md",
+    "Comunicaciones/Comunicaciones 1.md",
     "Meca/Mecatrónica.md",
-    "Meca/3.1-Actuadores, Transmisiones y Reductores.md",
-    "Meca/1-Intro.md",
-    "Meca/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
+    "Comunicaciones/1-Ejercicios.md",
+    "Mate/Matemática 6/Guía 1.md",
+    "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
+    "Mecatrónica/1-Intro.md",
+    "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
     "Attachments/Pasted Image 20241005115254_272.png",
-    "Meca/2-Aplicaciones especiales.md",
+    "Mecatrónica/2-Aplicaciones especiales.md",
     "Attachments/image_11.png",
     "Attachments/Pasted Image 20241005111910_922.png",
     "Attachments/Pasted Image 20240927095434_265.png",
@@ -193,13 +202,12 @@
     "Excalidraw",
     "Tags",
     "Mecatrónica/Excalidraw",
-    "Meca",
+    "Mecatrónica",
     "conflict-files-obsidian-git.md",
     "Visión y Misión.md",
     "Excalidraw/Excalidraw Apprentice note.md",
-    "Comunicaciones 1/Clase 1 - Introducción.md",
     "Señales y sistemas/Drawing 2024-09-28 07.47.24.excalidraw.md",
-    "Comunicaciones 1",
+    "Comunicaciones",
     "Attachments",
     "Mate 6/Drawing 2024-09-27 09.18.40.excalidraw.md",
     "Mate",
@@ -207,10 +215,6 @@
     "Mate",
     "2024-09-27.md",
     "Untitled 1.canvas",
-    "2024-05-14.md",
-    "Knowledge/Fisica/Transistores.md",
-    "Knowledge/Fisica",
-    "Knowledge",
-    "create a link.md"
+    "Knowledge/Fisica"
   ]
 }
