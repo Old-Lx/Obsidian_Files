@@ -19,5 +19,15 @@ $$
 $$
 Y de allí se deduce:
 $$
-H_H(f) = \frac{\hat X(f)}{X(f)} = jSign(f) = j\big[u(-f)- u(f)\big] = \Bigg\{ \begin{array}{l} +j = e^{j\frac{\pi}{2}}: \hspace{7px}  \\ 0 \\ -j = e^{-j\frac{\pi}{2}}   \end{array}
+H_H(f) = \frac{\hat X(f)}{X(f)} = jSign(f) = j\big[u(-f)- u(f)\big] = \Bigg\{ \begin{array}{l} +j = e^{j\frac{\pi}{2}}: \hspace{7px} f < 0 \\ 0: \hspace{7px} f = 0 \\ -j = e^{-j\frac{\pi}{2}} \hspace{7px} f > 0   \end{array}
 $$
+
+## Propiedades de la T.H.
+
+1.  $$x(t)$$ y $$\hat x(t)$$ tienen la misma densidad espectral de potencia.
+	-  Si $$x(t)$$ es limitada en banda entonces $$\hat x(t)$$ también.
+	- Ambas tienen la misma energía o potencia.
+2. Tienen la misma función de autocorrelación $$R_x(\tau)$$
+3. Ambas son ortogonales entre sí, es decir, $$\int_{-\infty}^{\infty} x(t) \hat x(t) dt = 0 $$
+4. No tiene función inversa, pero se puede usar la siguiente propiedad: $$\hat x(t) = \mathcal{H}\{x(t)\} \Rightarrow \mathcal{H}\{\hat x(t)\} = -x(t)$$
+5. Si $$x(t)$$ es par $$\hat x(t)$$ es impar y viceversa.
