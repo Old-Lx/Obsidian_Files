@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "757b1299a6cde093",
+        "id": "caf6059890239f85",
         "type": "tabs",
         "children": [
           {
-            "id": "32a456fcc8678c8b",
+            "id": "6c6c2941aa06227e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Mecatrónica/Clase 3 Parte 2 - Matrices de rotación y comienzo de las mates de un robot.md"
+                "file": "Comunicaciones 1/Clase 1 - Introducción.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecatrónica/Clase 3 Parte 2 - Matrices de rotación y comienzo de las mates de un robot.md",
+                "file": "Comunicaciones 1/Clase 1 - Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecatrónica/Clase 3 Parte 2 - Matrices de rotación y comienzo de las mates de un robot.md",
+                "file": "Comunicaciones 1/Clase 1 - Introducción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecatrónica/Clase 3 Parte 2 - Matrices de rotación y comienzo de las mates de un robot.md"
+                "file": "Comunicaciones 1/Clase 1 - Introducción.md"
               }
             }
           },
@@ -164,43 +166,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32a456fcc8678c8b",
+  "active": "6c6c2941aa06227e",
   "lastOpenFiles": [
-    "Mecatrónica/Clase 3 - Actuadores, Transmisiones y Reductores.md",
-    "Mecatrónica/Clase 3 Parte 2 - Matrices de rotación y comienzo de las mates de un robot.md",
-    "Attachments/img (1).png",
+    "Comunicaciones 1/Clase 1 - Ejercicios.md",
+    "Meca/Meca.md",
+    "Mate/Mate.md",
+    "Mate/Matemática 6.md",
+    "Mate/Guía 1.md",
+    "Meca/Mecatrónica.md",
+    "Meca/3.1-Actuadores, Transmisiones y Reductores.md",
+    "Meca/1-Intro.md",
+    "Meca/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
+    "Attachments/Pasted Image 20241005115254_272.png",
+    "Meca/2-Aplicaciones especiales.md",
+    "Attachments/image_11.png",
+    "Attachments/Pasted Image 20241005111910_922.png",
+    "Attachments/Pasted Image 20240927095434_265.png",
     "Attachments/img (16).png",
     "Attachments/img (15).png",
     "Attachments/img (14).png",
     "Attachments/img (13).png",
     "Attachments/img (12).png",
-    "Attachments/img (11).png",
-    "Attachments/img (10).png",
-    "Attachments/img (9).png",
     "Attachments/img (8).png",
-    "Mecatrónica/Mecatrónica.md",
-    "Mecatrónica/Clase 1 - Intro.md",
     "Vault.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw",
-    "Mate 6/Matemática 6.md",
     "Tags",
-    "Mecatrónica/Clase 2 - Aplicaciones especiales.md",
-    "Mate 6/Guía 1.md",
     "Mecatrónica/Excalidraw",
-    "Mecatrónica",
+    "Meca",
     "conflict-files-obsidian-git.md",
     "Visión y Misión.md",
     "Excalidraw/Excalidraw Apprentice note.md",
     "Comunicaciones 1/Clase 1 - Introducción.md",
-    "Comunicaciones 1/Clase 1 - Ejercicios.md",
     "Señales y sistemas/Drawing 2024-09-28 07.47.24.excalidraw.md",
     "Comunicaciones 1",
     "Attachments",
     "Mate 6/Drawing 2024-09-27 09.18.40.excalidraw.md",
-    "Mate 6",
+    "Mate",
     "Mate 6/Guía 1.canvas",
-    "Mate 6",
+    "Mate",
     "2024-09-27.md",
     "Untitled 1.canvas",
     "2024-05-14.md",

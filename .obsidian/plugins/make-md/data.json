@@ -45,8 +45,10 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
+    "//Excalidraw",
     "//Mecatrónica",
-    "//Excalidraw"
+    "//Mate 6",
+    "//Comunicaciones 1"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -55,7 +57,10 @@
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "LICENSE",
+    "README.md"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
