@@ -11,7 +11,7 @@ x(t) = \frac{1}{\pi}\int_{-\infty}^{\infty}\frac{\hat x(\tau)}{t - \tau} d\tau
 $$
 Se le llama Transformador de Hilbert ó Filtro de Hilbert ó Filtro en Cuadratura.
 
-## Espectro de la Transformada de Hilbert:
+### Espectro de la Transformada de Hilbert:
 
 La transformada de Fourier de la transformadda de Hilbert es:
 $$
@@ -22,7 +22,7 @@ $$
 H_H(f) = \frac{\hat X(f)}{X(f)} = jSign(f) = j\big[u(-f)- u(f)\big] = \Bigg\{ \begin{array}{l} +j = e^{j\frac{\pi}{2}}: \hspace{7px} f < 0 \\ 0: \hspace{7px} f = 0 \\ -j = e^{-j\frac{\pi}{2}} \hspace{7px} f > 0   \end{array}
 $$
 
-## Propiedades de la T.H.
+### Propiedades de la T.H.
 
 1.  $$x(t)$$ y $$\hat x(t)$$ tienen la misma densidad espectral de potencia.
 	-  Si $$x(t)$$ es limitada en banda entonces $$\hat x(t)$$ también.
@@ -32,6 +32,10 @@ $$
 4. No tiene función inversa, pero se puede usar la siguiente propiedad: $$\hat x(t) = \mathcal{H}\{x(t)\} \Rightarrow \mathcal{H}\{\hat x(t)\} = -x(t)$$
 5. Si $$x(t)$$ es par $$\hat x(t)$$ es impar y viceversa.
 
-## Tabla de la T.H.
+### Tabla de la T.H.
 
 ![[Pasted image 20241006123058.png]]
+
+## Señales Analíticas y Equivalente Pasa Bajo
+
+### Señales analíticas:
