@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51f3bed18cd76fbe",
+            "id": "84193d5d49badaa2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/Clase 3 Parte 2 - Matrices de rotación y comienzo de las mates de un robot.md"
+              }
             }
           }
         ]
@@ -74,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mecatrónica/Clase 3 Parte 2 - Matrices de rotación y comienzo de las mates de un robot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mecatrónica/Clase 3 Parte 2 - Matrices de rotación y comienzo de las mates de un robot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mecatrónica/Clase 3 Parte 2 - Matrices de rotación y comienzo de las mates de un robot.md"
+              }
             }
           },
           {
@@ -158,14 +165,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51f3bed18cd76fbe",
+  "active": "84193d5d49badaa2",
   "lastOpenFiles": [
+    "image.png",
+    "Mecatrónica/Mecatrónica.md",
+    "Mecatrónica/Clase 3 - Actuadores, Transmisiones y Reductores.md",
+    "Mecatrónica/Clase 3 Parte 2 - Matrices de rotación y comienzo de las mates de un robot.md",
     "Mecatrónica/Clase 1 - Intro.md",
     "Images/image_2.png",
     "Images/image_4.png",
     "Vault.md",
     "Excalidraw/Excalidraw.md",
-    "Mecatrónica/Clase 3 - Actuadores, Transmisiones y Reductores.md",
     "Images/image_11.png",
     "Images/image_10.png",
     "Images/image_9.png",
