@@ -23,11 +23,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
+                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mate/Matemática 6/Guía 1.md",
+                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mate/Matemática 6/Guía 1.md",
+                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mate/Matemática 6/Guía 1.md"
+                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md"
               }
             }
           },
@@ -174,10 +175,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c6c2941aa06227e",
+  "active": "f93b25a6a8f263a7",
   "lastOpenFiles": [
-    "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
     "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
+    "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
+    "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
     "Mate/Matemática 6/Guía 1.md",
     "Mate/Matemática 6/Matemática 6.md",
     "Mate/Mate.md",
@@ -208,7 +210,6 @@
     "Mecatrónica/Mecatrónica.md",
     "Comunicaciones/Comunicaciones 1.md",
     "Meca/Mecatrónica.md",
-    "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
     "Mecatrónica/1-Intro.md",
     "Mecatrónica/2-Aplicaciones especiales.md",
     "Excalidraw/Excalidraw.md",
