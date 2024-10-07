@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c6c2941aa06227e",
+  "active": "0b5e36c795e63b06",
   "lastOpenFiles": [
     "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
     "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
