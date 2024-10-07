@@ -1,3 +1,0 @@
----
-sticker: emoji//1f1fb-1f1ee
----
