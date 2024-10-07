@@ -11,11 +11,9 @@
             "id": "6c6c2941aa06227e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Mate/Matemática 6/Resumen.md",
-                "mode": "source",
-                "source": false
+                "file": "Mate/Matemática 6/Guía 1.md"
               }
             }
           },
@@ -25,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md"
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
               }
             }
           }
@@ -104,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mate/Matemática 6/Resumen.md",
+                "file": "Mate/Matemática 6/Guía 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mate/Matemática 6/Resumen.md",
+                "file": "Mate/Matemática 6/Guía 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mate/Matemática 6/Resumen.md"
+                "file": "Mate/Matemática 6/Guía 1.md"
               }
             }
           },
@@ -178,9 +176,13 @@
   },
   "active": "6c6c2941aa06227e",
   "lastOpenFiles": [
-    "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
-    "Mecatrónica/Ejercicios.md",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
+    "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
+    "Mate/Matemática 6/Guía 1.md",
+    "Mate/Matemática 6/Matemática 6.md",
+    "Mate/Mate.md",
+    "Mate/Matemática 6/Resumen.md",
+    "Mecatrónica/Ejercicios.md",
     "Attachments/image_48.png",
     "Attachments/image_47.png",
     "Attachments/image_46.png",
@@ -194,11 +196,7 @@
     "Mecatrónica/Untitled.md",
     "Vault.md",
     "Mate/Matemática 6/1-Campos conservativos e integrales de línea y superficie.md",
-    "Mate/Matemática 6/Matemática 6.md",
-    "Mate/Matemática 6/Resumen.md",
     "Mate/Matemática 6/1-Campos conservativos.md",
-    "Mate/Matemática 6/Guía 1.md",
-    "Mate/Mate.md",
     "Comunicaciones/Comunicaciones.md",
     "Comunicaciones/2-Equivalente pasa bajo.md",
     "Comunicaciones/1-Ejercicios.md",
