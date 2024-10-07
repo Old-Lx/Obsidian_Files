@@ -28,29 +28,8 @@
                 "file": "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md"
               }
             }
-          },
-          {
-            "id": "e3beca4510f7e04f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
-              }
-            }
-          },
-          {
-            "id": "c30fdfd3957bb87e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/Ejercicios.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -126,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
+                "file": "Mate/Matemática 6/Resumen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
+                "file": "Mate/Matemática 6/Resumen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
+                "file": "Mate/Matemática 6/Resumen.md"
               }
             }
           },
@@ -198,22 +176,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3beca4510f7e04f",
+  "active": "6c6c2941aa06227e",
   "lastOpenFiles": [
-    "Attachments/image_39.png",
-    "Attachments/image_38.png",
-    "Attachments/image_37.png",
-    "Attachments/image_36.png",
-    "Attachments/image_35.png",
-    "Attachments/image_34.png",
-    "Attachments/image_33.png",
+    "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
     "Mecatrónica/Ejercicios.md",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
-    "Attachments/image_32.png",
-    "Attachments/image_31.png",
-    "Attachments/image_30.png",
-    "Attachments/image_29.png",
-    "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
+    "Attachments/image_48.png",
+    "Attachments/image_47.png",
+    "Attachments/image_46.png",
+    "Attachments/image_45.png",
+    "Attachments/image_44.png",
+    "Attachments/image_43.png",
+    "Attachments/image_42.png",
+    "Attachments/image_41.png",
+    "Attachments/image_40.png",
+    "Attachments/image_39.png",
     "Mecatrónica/Untitled.md",
     "Vault.md",
     "Mate/Matemática 6/1-Campos conservativos e integrales de línea y superficie.md",
