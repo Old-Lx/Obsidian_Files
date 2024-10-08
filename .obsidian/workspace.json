@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "caf6059890239f85",
+        "id": "242090a9d65fd1fe",
         "type": "tabs",
         "children": [
           {
-            "id": "6c6c2941aa06227e",
+            "id": "db1cb86ef4fa4a79",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mate/Matemática 6/Guía 1.md"
-              }
-            }
-          },
-          {
-            "id": "f93b25a6a8f263a7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -103,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mate/Matemática 6/Guía 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mate/Matemática 6/Guía 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mate/Matemática 6/Guía 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,10 +157,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c6c2941aa06227e",
+  "active": "db1cb86ef4fa4a79",
   "lastOpenFiles": [
     "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
     "Mate/Matemática 6/Guía 1.md",
+    "2024-10-07.md",
     "Attachments/image_49.png",
     "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
