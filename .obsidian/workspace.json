@@ -11,8 +11,10 @@
             "id": "db1cb86ef4fa4a79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/1-Intro.md"
+              }
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mecatrónica/1-Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mecatrónica/1-Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mecatrónica/1-Intro.md"
+              }
             }
           },
           {
@@ -160,10 +166,13 @@
   "active": "db1cb86ef4fa4a79",
   "lastOpenFiles": [
     "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
+    "Mecatrónica/1-Intro.md",
+    "Mecatrónica/2-Aplicaciones especiales.md",
+    "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
+    "2024-10-08.md",
     "Mate/Matemática 6/Guía 1.md",
     "2024-10-07.md",
     "Attachments/image_49.png",
-    "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
     "Mate/Matemática 6/Matemática 6.md",
     "Mate/Mate.md",
@@ -193,9 +202,6 @@
     "Mecatrónica/Mecatrónica.md",
     "Comunicaciones/Comunicaciones 1.md",
     "Meca/Mecatrónica.md",
-    "Mecatrónica/1-Intro.md",
-    "Mecatrónica/2-Aplicaciones especiales.md",
-    "Excalidraw/Excalidraw.md",
     "Excalidraw",
     "Tags",
     "Mecatrónica/Excalidraw",
