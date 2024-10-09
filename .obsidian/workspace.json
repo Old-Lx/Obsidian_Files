@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -167,10 +166,10 @@
   },
   "active": "db1cb86ef4fa4a79",
   "lastOpenFiles": [
-    "2024-10-09.md",
-    "Mate/Matemática 6/Guía 1.md",
-    "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
+    "Mate/Matemática 6/Guía 1.md",
+    "2024-10-09.md",
+    "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
     "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
     "Mecatrónica/1-Intro.md",
     "Mecatrónica/2-Aplicaciones especiales.md",
