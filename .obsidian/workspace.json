@@ -16,6 +16,26 @@
                 "file": "Mecatrónica/1-Intro.md"
               }
             }
+          },
+          {
+            "id": "65d2725b6e51edba",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/2-Aplicaciones especiales.md"
+              }
+            }
+          },
+          {
+            "id": "5065e2b854d33b6d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md"
+              }
+            }
           }
         ]
       }
@@ -165,9 +185,9 @@
   },
   "active": "db1cb86ef4fa4a79",
   "lastOpenFiles": [
+    "Mecatrónica/2-Aplicaciones especiales.md",
     "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
     "Mecatrónica/1-Intro.md",
-    "Mecatrónica/2-Aplicaciones especiales.md",
     "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
     "2024-10-08.md",
     "Mate/Matemática 6/Guía 1.md",
