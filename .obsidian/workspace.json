@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md"
+                "file": "Mate/Matemática 6/Guía 1.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
+                "file": "Mate/Matemática 6/Guía 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
+                "file": "Mate/Matemática 6/Guía 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md"
+                "file": "Mate/Matemática 6/Guía 1.md"
               }
             }
           },
@@ -165,11 +165,11 @@
   },
   "active": "db1cb86ef4fa4a79",
   "lastOpenFiles": [
+    "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
     "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
     "Mecatrónica/1-Intro.md",
     "Mecatrónica/2-Aplicaciones especiales.md",
-    "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
     "2024-10-08.md",
     "Mate/Matemática 6/Guía 1.md",
     "2024-10-07.md",
