@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -149,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,13 +167,14 @@
   },
   "active": "db1cb86ef4fa4a79",
   "lastOpenFiles": [
+    "2024-10-09.md",
+    "Mate/Matemática 6/Guía 1.md",
     "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
     "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
     "Mecatrónica/1-Intro.md",
     "Mecatrónica/2-Aplicaciones especiales.md",
     "2024-10-08.md",
-    "Mate/Matemática 6/Guía 1.md",
     "2024-10-07.md",
     "Attachments/image_49.png",
     "Mate/Matemática 6/Matemática 6.md",
@@ -201,7 +204,6 @@
     "Mate/Untitled.md",
     "Mecatrónica/Mecatrónica.md",
     "Comunicaciones/Comunicaciones 1.md",
-    "Meca/Mecatrónica.md",
     "Excalidraw",
     "Tags",
     "Mecatrónica/Excalidraw",
