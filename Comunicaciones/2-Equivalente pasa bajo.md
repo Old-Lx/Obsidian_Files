@@ -19,7 +19,7 @@ $$
 $$
 Y de allí se deduce:
 $$
-H_H(f) = \frac{\hat X(f)}{X(f)} = jSign(f) = j\big[u(-f)- u(f)\big] = \Bigg\{ \begin{array}{l} +j = e^{j\frac{\pi}{2}}: \hspace{7px} f < 0 \\ 0: \hspace{7px} f = 0 \\ -j = e^{-j\frac{\pi}{2}} \hspace{7px} f > 0   \end{array}
+H_H(f) = \frac{\hat X(f)}{X(f)} = -jSign(f) = j\big[u(-f)- u(f)\big] = \Bigg\{ \begin{array}{l} +j = e^{j\frac{\pi}{2}}: \hspace{7px} f < 0 \\ 0: \hspace{7px} f = 0 \\ -j = e^{-j\frac{\pi}{2}} \hspace{7px} f > 0   \end{array}
 $$
 
 ### Propiedades de la T.H.
