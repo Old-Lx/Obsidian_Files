@@ -21,11 +21,9 @@
             "id": "45fb9f061a6dbd87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Comunicaciones/2-Equivalente pasa bajo.md",
-                "mode": "source",
-                "source": false
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
               }
             }
           },
@@ -35,12 +33,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Comunicaciones/2-Equivalente Pasabajo notas de la clase.md"
+                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comunicaciones/2-Equivalente pasa bajo.md",
+                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comunicaciones/2-Equivalente pasa bajo.md",
+                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comunicaciones/2-Equivalente pasa bajo.md"
+                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md"
               }
             }
           },
@@ -187,16 +185,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45fb9f061a6dbd87",
+  "active": "4a54a6929d58cbdb",
   "lastOpenFiles": [
+    "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
+    "Comunicaciones/2-Equivalente Pasabajo notas de la clase.md",
+    "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
+    "Comunicaciones/Comunicaciones.md",
+    "Comunicaciones/2-Equivalente pasa bajo.md",
     "Comunicaciones/1-Ejercicios.md",
     "Comunicaciones/1-Intro.md",
-    "Comunicaciones/2-Equivalente pasa bajo.md",
-    "Comunicaciones/2-Equivalente Pasabajo notas de la clase.md",
     "Mate/Matemática 6/Matemática 6.md",
     "Mate/Matemática 6/Guía 2.md",
-    "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
-    "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
     "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
     "Mecatrónica/Mecatrónica.md",
     "Mate/Matemática 6/Guía 1.md",
@@ -224,7 +223,6 @@
     "Mecatrónica/Untitled.md",
     "Vault.md",
     "Mate/Matemática 6/1-Campos conservativos.md",
-    "Comunicaciones/Comunicaciones.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
