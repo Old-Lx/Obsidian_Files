@@ -18,16 +18,6 @@
             }
           },
           {
-            "id": "45fb9f061a6dbd87",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
-              }
-            }
-          },
-          {
             "id": "4a54a6929d58cbdb",
             "type": "leaf",
             "state": {
@@ -36,9 +26,29 @@
                 "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md"
               }
             }
+          },
+          {
+            "id": "8c6a7f3c64719921",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md"
+              }
+            }
+          },
+          {
+            "id": "45fb9f061a6dbd87",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md"
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
               }
             }
           },
@@ -185,18 +195,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a54a6929d58cbdb",
+  "active": "45fb9f061a6dbd87",
   "lastOpenFiles": [
     "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
-    "Comunicaciones/2-Equivalente Pasabajo notas de la clase.md",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
+    "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
+    "Comunicaciones/2-Equivalente Pasabajo notas de la clase.md",
     "Comunicaciones/Comunicaciones.md",
     "Comunicaciones/2-Equivalente pasa bajo.md",
     "Comunicaciones/1-Ejercicios.md",
     "Comunicaciones/1-Intro.md",
     "Mate/Matemática 6/Matemática 6.md",
     "Mate/Matemática 6/Guía 2.md",
-    "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
     "Mecatrónica/Mecatrónica.md",
     "Mate/Matemática 6/Guía 1.md",
     "Attachments/image_59.png",
