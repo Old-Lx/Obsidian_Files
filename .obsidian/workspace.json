@@ -18,37 +18,17 @@
             }
           },
           {
-            "id": "4a54a6929d58cbdb",
+            "id": "965d66b69655e5de",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md"
-              }
-            }
-          },
-          {
-            "id": "8c6a7f3c64719921",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md"
-              }
-            }
-          },
-          {
-            "id": "45fb9f061a6dbd87",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
+                "file": "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -123,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
+                "file": "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
+                "file": "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
+                "file": "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md"
               }
             }
           },
@@ -195,10 +176,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45fb9f061a6dbd87",
+  "active": "965d66b69655e5de",
   "lastOpenFiles": [
-    "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
+    "Attachments/image_64.png",
+    "Attachments/image_63.png",
+    "Attachments/image_62.png",
+    "Attachments/image_61.png",
+    "Attachments/image_60.png",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
+    "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md",
+    "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
     "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
     "Comunicaciones/2-Equivalente Pasabajo notas de la clase.md",
     "Comunicaciones/Comunicaciones.md",
@@ -215,14 +202,10 @@
     "Attachments/image_56.png",
     "Attachments/image_55.png",
     "Attachments/image_54.png",
-    "Attachments/image_53.png",
     "Mate/Matemática 6/Resumen.md",
     "Mate/Matemática 6/Untitled.md",
     "Mate/Matemática 6/1-Campos conservativos e integrales de línea y superficie.md",
-    "Attachments/image_52.png",
     "2024-10-10.md",
-    "Attachments/image_51.png",
-    "Attachments/image_50.png",
     "2024-10-09.md",
     "Mecatrónica/1-Intro.md",
     "Mecatrónica/2-Aplicaciones especiales.md",
@@ -231,8 +214,6 @@
     "Mate/Mate.md",
     "Mecatrónica/Ejercicios.md",
     "Mecatrónica/Untitled.md",
-    "Vault.md",
-    "Mate/Matemática 6/1-Campos conservativos.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
