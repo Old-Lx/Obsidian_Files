@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -177,6 +178,11 @@
   },
   "active": "965d66b69655e5de",
   "lastOpenFiles": [
+    "Attachments/image_72.png",
+    "Attachments/image_71.png",
+    "Attachments/image_70.png",
+    "Attachments/image_69.png",
+    "Attachments/image_68.png",
     "Attachments/image_67.png",
     "Attachments/image_66.png",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
@@ -186,8 +192,6 @@
     "Attachments/image_64.png",
     "Attachments/image_63.png",
     "Attachments/image_62.png",
-    "Attachments/image_61.png",
-    "Attachments/image_60.png",
     "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
     "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
     "Comunicaciones/2-Equivalente Pasabajo notas de la clase.md",
@@ -198,9 +202,6 @@
     "Mate/Matemática 6/Matemática 6.md",
     "Mecatrónica/Mecatrónica.md",
     "Mate/Matemática 6/Guía 1.md",
-    "Attachments/image_59.png",
-    "Attachments/image_58.png",
-    "Attachments/image_57.png",
     "Mate/Matemática 6/Resumen.md",
     "Mate/Matemática 6/Untitled.md",
     "Mate/Matemática 6/1-Campos conservativos e integrales de línea y superficie.md",
