@@ -14,7 +14,9 @@
               "type": "excalidraw",
               "state": {
                 "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "4-Representaciones eje-ángulo y transformaciones homogéneas"
             }
           },
           {
@@ -24,11 +26,25 @@
               "type": "excalidraw",
               "state": {
                 "file": "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "5-DH Ejemplos y Cinemática Inversa"
+            }
+          },
+          {
+            "id": "1e8fe17c9470e4c4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +64,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -63,7 +81,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -71,19 +91,23 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "c2e26b7c00295cbd",
+            "id": "865bbc6461af8b4b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -104,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +135,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -121,10 +146,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -135,7 +161,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -143,9 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -153,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -176,8 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "965d66b69655e5de",
+  "active": "1e8fe17c9470e4c4",
   "lastOpenFiles": [
+    "Attachments/image_87.png",
+    "Attachments/image_86.png",
+    "Attachments/image_85.png",
+    "Attachments/image_84.png",
     "Attachments/image_83.png",
     "Attachments/image_82.png",
     "Attachments/image_81.png",
@@ -185,10 +219,6 @@
     "Attachments/image_79.png",
     "Attachments/image_78.png",
     "Attachments/image_77.png",
-    "Attachments/image_76.png",
-    "Attachments/image_75.png",
-    "Attachments/image_74.png",
-    "Attachments/image_73.png",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
     "Mate/Matemática 6/Guía 2.md",
     "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md",
