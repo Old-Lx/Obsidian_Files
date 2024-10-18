@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db1cb86ef4fa4a79",
+            "id": "2396dab076edd265",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
+                "file": "Mecatrónica/6-Cinemática inversa y ejemplos.md"
               },
               "icon": "excalidraw-icon",
-              "title": "4-Representaciones eje-ángulo y transformaciones homogéneas"
-            }
-          },
-          {
-            "id": "965d66b69655e5de",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "5-DH Ejemplos y Cinemática Inversa"
-            }
-          },
-          {
-            "id": "1e8fe17c9470e4c4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "6-Cinemática inversa y ejemplos"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,13 +81,11 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -128,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -146,11 +120,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -171,9 +146,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "README.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -206,8 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e8fe17c9470e4c4",
+  "active": "6a6893f65b1ee540",
   "lastOpenFiles": [
+    "Mecatrónica/6-Cinemática inversa y ejemplos.md",
+    "Vault.md",
+    "Mecatrónica/Mecatrónica.md",
     "Attachments/image_87.png",
     "Attachments/image_86.png",
     "Attachments/image_85.png",
@@ -218,7 +198,6 @@
     "Attachments/image_80.png",
     "Attachments/image_79.png",
     "Attachments/image_78.png",
-    "Attachments/image_77.png",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
     "Mate/Matemática 6/Guía 2.md",
     "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md",
@@ -230,7 +209,6 @@
     "Comunicaciones/1-Ejercicios.md",
     "Comunicaciones/1-Intro.md",
     "Mate/Matemática 6/Matemática 6.md",
-    "Mecatrónica/Mecatrónica.md",
     "Mate/Matemática 6/Guía 1.md",
     "Mate/Matemática 6/Resumen.md",
     "Mate/Matemática 6/Untitled.md",
@@ -243,7 +221,6 @@
     "2024-10-07.md",
     "Mate/Mate.md",
     "Mecatrónica/Ejercicios.md",
-    "Mecatrónica/Untitled.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
