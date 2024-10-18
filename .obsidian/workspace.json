@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/6-Cinemática inversa y ejemplos.md"
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
               },
               "icon": "excalidraw-icon",
-              "title": "6-Cinemática inversa y ejemplos"
+              "title": "4-Representaciones eje-ángulo y transformaciones homogéneas"
             }
           },
           {
@@ -199,6 +199,8 @@
   },
   "active": "3fd94df3b4cb17fe",
   "lastOpenFiles": [
+    "Attachments/image_105.png",
+    "Attachments/image_104.png",
     "Attachments/image_103.png",
     "Attachments/image_102.png",
     "Attachments/image_101.png",
@@ -208,8 +210,6 @@
     "Attachments/image_97.png",
     "Attachments/image_96.png",
     "Attachments/image_95.png",
-    "Attachments/image_94.png",
-    "Attachments/image_93.png",
     "README.md",
     "Mecatrónica/6-Cinemática inversa y ejemplos.md",
     "Vault.md",
