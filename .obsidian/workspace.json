@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "6-Cinemática inversa y ejemplos"
             }
+          },
+          {
+            "id": "3fd94df3b4cb17fe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/6-Cinemática inversa y ejemplos.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "6-Cinemática inversa y ejemplos"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Mecatrónica/Mecatrónica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Mecatrónica"
             }
           },
           {
@@ -121,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Mecatrónica/Mecatrónica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Mecatrónica"
             }
           },
           {
@@ -148,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Mecatrónica/Mecatrónica.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Mecatrónica"
             }
           },
           {
@@ -184,8 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2396dab076edd265",
+  "active": "3fd94df3b4cb17fe",
   "lastOpenFiles": [
+    "Attachments/image_89.png",
+    "Attachments/image_88.png",
+    "README.md",
     "Mecatrónica/6-Cinemática inversa y ejemplos.md",
     "Vault.md",
     "Mecatrónica/Mecatrónica.md",
@@ -198,7 +214,6 @@
     "Attachments/image_81.png",
     "Attachments/image_80.png",
     "Attachments/image_79.png",
-    "Attachments/image_78.png",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
     "Mate/Matemática 6/Guía 2.md",
     "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md",
@@ -220,8 +235,6 @@
     "Mecatrónica/2-Aplicaciones especiales.md",
     "2024-10-08.md",
     "2024-10-07.md",
-    "Mate/Mate.md",
-    "Mecatrónica/Ejercicios.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
