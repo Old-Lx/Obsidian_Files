@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b5d295f283e2833d",
+        "id": "d731189e045805eb",
         "type": "tabs",
         "children": [
           {
-            "id": "2396dab076edd265",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/1-Intro.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "1-Intro"
-            }
-          },
-          {
-            "id": "3fd94df3b4cb17fe",
+            "id": "2ef4514f7bd7a0f1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -31,8 +19,7 @@
               "title": "6-Cinemática inversa y ejemplos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecatrónica/Mecatrónica.md",
+                "file": "Mate/Matemática 6/Matemática 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mecatrónica"
+              "title": "Backlinks for Matemática 6"
             }
           },
           {
@@ -134,12 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecatrónica/Mecatrónica.md",
+                "file": "Mate/Matemática 6/Matemática 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mecatrónica"
+              "title": "Outgoing links from Matemática 6"
             }
           },
           {
@@ -161,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecatrónica/Mecatrónica.md"
+                "file": "Mate/Matemática 6/Matemática 6.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mecatrónica"
+              "title": "Outline of Matemática 6"
             }
           },
           {
@@ -197,8 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fd94df3b4cb17fe",
+  "active": "2ef4514f7bd7a0f1",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw.md",
+    "Excalidraw/Drawing 2024-10-18 21.37.59.excalidraw.md",
+    "Mecatrónica/Mecatrónica.md",
     "Attachments/image_112.png",
     "Attachments/image_111.png",
     "Attachments/image_110.png",
@@ -209,11 +199,9 @@
     "Attachments/image_105.png",
     "Attachments/image_104.png",
     "Attachments/image_103.png",
-    "Attachments/image_102.png",
     "README.md",
     "Mecatrónica/6-Cinemática inversa y ejemplos.md",
     "Vault.md",
-    "Mecatrónica/Mecatrónica.md",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
     "Mate/Matemática 6/Guía 2.md",
     "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md",
@@ -234,7 +222,6 @@
     "Mecatrónica/1-Intro.md",
     "Mecatrónica/2-Aplicaciones especiales.md",
     "2024-10-08.md",
-    "2024-10-07.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
