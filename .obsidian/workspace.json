@@ -11,12 +11,14 @@
             "id": "f31f614d2027e0e7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Mate/Matemática 6/Guía 3.md"
+                "file": "Mate/Matemática 6/Resumen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Guía 3"
+              "icon": "lucide-file",
+              "title": "Resumen"
             }
           }
         ]
@@ -72,23 +74,20 @@
             }
           },
           {
-            "id": "a22b3d8e6cd5f646",
+            "id": "8b471d10961d3ce2",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
