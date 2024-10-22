@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Resumen"
             }
+          },
+          {
+            "id": "3be1149231f751f7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mate/Matemática 6/Guía 3.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Guía 3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -185,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f31f614d2027e0e7",
+  "active": "3be1149231f751f7",
   "lastOpenFiles": [
     "Mate/Matemática 6/1-Campos conservativos e integrales de línea y superficie.md",
     "Comunicaciones/2-Equivalente pasa bajo.md",

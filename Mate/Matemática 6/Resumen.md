@@ -46,7 +46,7 @@ Donde $$ \Phi(u,v) $$ es la parametrización y $$ ||\vec r_u \times \vec r_v|| =
 Con $$F = \Bigg(\begin{matrix}F_1\\ F_2\\ F_3 \end{matrix} \Bigg)$$
 Tenemos que su divergencia y su rotacional se definen como:
 $$Div(F) = \frac{\partial F_1}{\partial x} + \frac{\partial F_2}{\partial y} + \frac{\partial F_3}{\partial z}$$
-$$rot(F) = \Bigg(\begin{matrix}\frac{\partial F_3}{\partial y} - \frac{\partial F_2}{\partial z}\\ \frac{\partial F_3}{\partial x} - \frac{\partial F_1}{\partial z}\\ \frac{\partial F_3}{\partial y} - \frac{\partial F_2}{\partial z} \end{matrix} \Bigg)$$$$
+$$rot(F) = \Bigg(\begin{matrix}\frac{\partial F_3}{\partial y} - \frac{\partial F_2}{\partial z}\\ \frac{\partial F_1}{\partial z} - \frac{\partial F_3}{\partial x}\\ \frac{\partial F_2}{\partial x} - \frac{\partial F_1}{\partial y} \end{matrix} \Bigg)$$
 
 7- Teorema de Gauss:
 
