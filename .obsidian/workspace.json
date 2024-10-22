@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d731189e045805eb",
+        "id": "73de288c7dceb3aa",
         "type": "tabs",
         "children": [
           {
-            "id": "2ef4514f7bd7a0f1",
+            "id": "d946460f1a5ba6e9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-18 21.37.59.excalidraw.md"
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-18 21.37.59.excalidraw"
+              "title": "4-Representaciones eje-ángulo y transformaciones homogéneas"
+            }
+          },
+          {
+            "id": "4a0cc84bcad48093",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "5-DH Ejemplos y Cinemática Inversa"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +85,7 @@
             }
           },
           {
-            "id": "64f0d52e60ff0e1a",
+            "id": "a22b3d8e6cd5f646",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -184,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ef4514f7bd7a0f1",
+  "active": "4a0cc84bcad48093",
   "lastOpenFiles": [
     "Excalidraw/Excalidraw.md",
     "Excalidraw/Drawing 2024-10-18 21.37.59.excalidraw.md",
