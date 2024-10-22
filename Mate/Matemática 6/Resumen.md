@@ -22,6 +22,8 @@ $$\frac{\partial(x, y)}{\partial(u, v)} = \Bigg|\begin{array}{c}
 \frac{\partial x}{\partial v} \hspace 7px  \frac{\partial x}{\partial v} \\
 \frac{\partial y}{\partial v} \hspace 7px  \frac{\partial y}{\partial v}
 \end{array} \Bigg|$$
+## Primer parcial con Libuska
+
 5- Integrales de línea:
 - Campo escalar:
 $$
@@ -39,7 +41,17 @@ $$
 $$
 Donde $$ \Phi(u,v) $$ es la parametrización y $$ ||\vec r_u \times \vec r_v|| = ||\Phi'(u) \times \Phi'(v)|| $$ con cada derivada de siendo la derivada de la parametrización respecto a la variable indicada
 
+## Segundo parcial con Libuska
+
+Con $$F = \Bigg(\begin{matrix}F_1\\ F_2\\ F_3 \end{matrix} \Bigg)$$
+Tenemos que su divergencia y su rotacional se definen como:
+$$Div(F) = \frac{\partial F_1}{\partial x} + \frac{\partial F_2}{\partial y} + \frac{\partial F_3}{\partial z}$$
+$$rot(F) = \Bigg(\begin{matrix}\frac{\partial F_3}{\partial y} - \frac{\partial F_2}{\partial z}\\ \frac{\partial F_3}{\partial x} - \frac{\partial F_1}{\partial z}\\ \frac{\partial F_3}{\partial y} - \frac{\partial F_2}{\partial z} \end{matrix} \Bigg)$$$$
+
 7- Teorema de Gauss:
 
-Sean $$F: \mathbb R^3 \rightarrow \mathbb R^3$$ región $$\Omega$$
+Sean $$F: \mathbb R^3 \rightarrow \mathbb R^3$$ región cerrada $$\Omega\subset\mathbb R^3$$
+$$Si \hspace{0.5em}F \hspace{0.5em} es \hspace{0.5em} \mathcal C^1 \hspace{0.5em} en \hspace{0.5em} \Omega\hspace{0.3em}\cup\hspace{0.3em}front\hspace{0.3em}\Omega \Rightarrow \int\int_{front\hspace{0.3em}\Omega\uparrow}<F, ds> = \int\int\int_\Omega div(F)dxdydz$$
+8- Teorema de Stokes:
+ Sean $$F: \mathbb R^3 \rightarrow \mathbb R^3$$ superficie orientada $$S\uparrow$$ $$Si \hspace{0.5em}F \hspace{0.5em} es \hspace{0.5em} \mathcal C^1 \hspace{0.5em} en \hspace{0.5em} S\hspace{0.3em}\cup\hspace{0.3em}front\hspace{0.3em}S \Rightarrow \int_{front\hspace{0.3em}S\uparrow}<F, ds> = \int\int_S <rot(F), dS>$$ La orientación de $$S\uparrow$$ viene dada por la regal de la mano derecha
  
