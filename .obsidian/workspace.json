@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d946460f1a5ba6e9",
+            "id": "f31f614d2027e0e7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
+                "file": "Mate/Matemática 6/Guía 3.md"
               },
               "icon": "excalidraw-icon",
-              "title": "4-Representaciones eje-ángulo y transformaciones homogéneas"
-            }
-          },
-          {
-            "id": "4a0cc84bcad48093",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "5-DH Ejemplos y Cinemática Inversa"
+              "title": "Guía 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,10 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a0cc84bcad48093",
+  "active": "f31f614d2027e0e7",
   "lastOpenFiles": [
+    "Excalidraw/Test.md",
     "Excalidraw/Excalidraw.md",
-    "Excalidraw/Drawing 2024-10-18 21.37.59.excalidraw.md",
+    "Mate/Matemática 6/Guía 3.md",
     "Mecatrónica/Mecatrónica.md",
     "Attachments/image_112.png",
     "Attachments/image_111.png",
@@ -234,7 +222,6 @@
     "2024-10-09.md",
     "Mecatrónica/1-Intro.md",
     "Mecatrónica/2-Aplicaciones especiales.md",
-    "2024-10-08.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
