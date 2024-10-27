@@ -58,5 +58,5 @@ $$rot(F) = \Bigg(\begin{matrix}\frac{\partial F_3}{\partial y} - \frac{\partial 
 Sean $$F: \mathbb R^3 \rightarrow \mathbb R^3$$ región cerrada $$\Omega\subset\mathbb R^3$$
 $$Si \hspace{0.5em}F \hspace{0.5em} es \hspace{0.5em} \mathcal C^1 \hspace{0.5em} en \hspace{0.5em} \Omega\hspace{0.3em}\cup\hspace{0.3em}front\hspace{0.3em}\Omega \Rightarrow \int\int_{front\hspace{0.3em}\Omega\uparrow}<F, ds> = \int\int\int_\Omega div(F)dxdydz$$
 8- Teorema de Stokes:
- Sean $$F: \mathbb R^3 \rightarrow \mathbb R^3$$ superficie orientada $$S\uparrow$$ $$Si \hspace{0.5em}F \hspace{0.5em} es \hspace{0.5em} \mathcal C^1 \hspace{0.5em} en \hspace{0.5em} S\hspace{0.3em}\cup\hspace{0.3em}front\hspace{0.3em}S \Rightarrow \int_{front\hspace{0.3em}S\uparrow}<F, ds> = \int\int_S <rot(F), dS>$$ La orientación de $$S\uparrow$$ viene dada por la regal de la mano derecha
+ Sean $$F: \mathbb R^3 \rightarrow \mathbb R^3$$ superficie orientada $$S\uparrow$$ $$Si \hspace{0.5em}F \hspace{0.5em} es \hspace{0.5em} \mathcal C^1 \hspace{0.5em} en \hspace{0.5em} S\hspace{0.3em}\cup\hspace{0.3em}front\hspace{0.3em}S \Rightarrow \int_{front\hspace{0.3em}S\uparrow}<F, ds> = \int\int_S <rot(F), dS>$$ La orientación de $$S\uparrow$$ viene dada por la regla de la mano derecha
  
