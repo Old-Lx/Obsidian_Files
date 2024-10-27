@@ -41,6 +41,11 @@ $$
 $$
 Donde $$ \Phi(u,v) $$ es la parametrización y $$ ||\vec r_u \times \vec r_v|| = ||\Phi'(u) \times \Phi'(v)|| $$ con cada derivada de siendo la derivada de la parametrización respecto a la variable indicada
 
+- De campos vectoriales a superficies:
+$$
+\int\int_SF(x,y,z)\hat ndS = \int\int_D F(\Phi(u, v))\cdot(\vec r_u \times \vec r_v) dudv
+$$
+
 ## Segundo parcial con Libuska
 
 Con $$F = \Bigg(\begin{matrix}F_1\\ F_2\\ F_3 \end{matrix} \Bigg)$$
