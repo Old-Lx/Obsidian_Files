@@ -32,9 +32,21 @@
               "icon": "excalidraw-icon",
               "title": "Guía 4"
             }
+          },
+          {
+            "id": "66c2d0f686077595",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/6-Cinemática inversa y ejemplos.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "6-Cinemática inversa y ejemplos"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +99,7 @@
             }
           },
           {
-            "id": "7281f17cb647f403",
+            "id": "0ee64d31cc98d447",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -100,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -199,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "089863aa7a667ab4",
+  "active": "66c2d0f686077595",
   "lastOpenFiles": [
     "Attachments/image_119.png",
     "Attachments/image_118.png",
