@@ -45,8 +45,7 @@
               "title": "6-Cinemática inversa y ejemplos"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             }
           },
           {
-            "id": "0ee64d31cc98d447",
+            "id": "f0fe1c24cd7df0f8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -108,7 +107,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -210,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66c2d0f686077595",
+  "active": "f31f614d2027e0e7",
   "lastOpenFiles": [
     "Attachments/image_119.png",
     "Attachments/image_118.png",
