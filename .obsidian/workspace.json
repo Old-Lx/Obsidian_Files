@@ -32,9 +32,21 @@
               "icon": "excalidraw-icon",
               "title": "6-Cinemática inversa y ejemplos"
             }
+          },
+          {
+            "id": "af2742b76a749cb1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mate/Matemática 6/Guía 2.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Guía 2"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,8 +211,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acddeb1cce7e7ff3",
+  "active": "af2742b76a749cb1",
   "lastOpenFiles": [
+    "Mecatrónica/8-Velocidad cinemática-Jacobiano.md",
     "Mecatrónica/Drawing 2024-11-01 15.11.23.excalidraw.md",
     "Attachments/image_119.png",
     "Attachments/image_118.png",
@@ -235,7 +249,6 @@
     "Mate/Matemática 6/Guía 1.md",
     "Mate/Matemática 6/Untitled.md",
     "2024-10-10.md",
-    "2024-10-09.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
