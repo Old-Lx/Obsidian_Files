@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "66c2d0f686077595",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/6-Cinemática inversa y ejemplos.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "6-Cinemática inversa y ejemplos"
-            }
-          },
-          {
             "id": "af2742b76a749cb1",
             "type": "leaf",
             "state": {
@@ -45,8 +33,7 @@
               "title": "Guía 2"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af2742b76a749cb1",
+  "active": "f31f614d2027e0e7",
   "lastOpenFiles": [
     "Mecatrónica/8-Velocidad cinemática-Jacobiano.md",
     "Mecatrónica/Drawing 2024-11-01 15.11.23.excalidraw.md",
