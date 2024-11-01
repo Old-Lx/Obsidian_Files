@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "089863aa7a667ab4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mate/Matemática 6/Guía 4.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Guía 4"
-            }
-          },
-          {
             "id": "66c2d0f686077595",
             "type": "leaf",
             "state": {
@@ -45,7 +33,8 @@
               "title": "6-Cinemática inversa y ejemplos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,7 @@
             }
           },
           {
-            "id": "818703f523a9fd60",
+            "id": "acddeb1cce7e7ff3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -195,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +198,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f31f614d2027e0e7",
+  "active": "acddeb1cce7e7ff3",
   "lastOpenFiles": [
+    "Mecatrónica/Drawing 2024-11-01 15.11.23.excalidraw.md",
     "Attachments/image_119.png",
     "Attachments/image_118.png",
     "Mate/Matemática 6/Guía 4.md",
@@ -230,7 +219,6 @@
     "Attachments/image_112.png",
     "Attachments/image_111.png",
     "Attachments/image_110.png",
-    "Attachments/image_109.png",
     "README.md",
     "Mecatrónica/6-Cinemática inversa y ejemplos.md",
     "Vault.md",
