@@ -27,6 +27,18 @@
             "state": {
               "type": "excalidraw",
               "state": {
+                "file": "Mecatrónica/Ejercicios.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Ejercicios"
+            }
+          },
+          {
+            "id": "3704ecd6a4457b6f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
                 "file": "Mate/Matemática 6/Guía 2.md"
               },
               "icon": "excalidraw-icon",
@@ -96,8 +108,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,6 +213,8 @@
   },
   "active": "af2742b76a749cb1",
   "lastOpenFiles": [
+    "Attachments/image_121.png",
+    "Attachments/image_120.png",
     "Mecatrónica/8-Velocidad cinemática-Jacobiano.md",
     "Mecatrónica/Drawing 2024-11-01 15.11.23.excalidraw.md",
     "Attachments/image_119.png",
@@ -221,7 +234,6 @@
     "Mecatrónica/Mecatrónica.md",
     "Attachments/image_112.png",
     "Attachments/image_111.png",
-    "Attachments/image_110.png",
     "README.md",
     "Mecatrónica/6-Cinemática inversa y ejemplos.md",
     "Vault.md",
@@ -237,7 +249,6 @@
     "Mate/Matemática 6/Matemática 6.md",
     "Mate/Matemática 6/Guía 1.md",
     "Mate/Matemática 6/Untitled.md",
-    "2024-10-10.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
