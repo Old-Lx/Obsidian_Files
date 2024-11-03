@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "ea81a21bcdbb3c97",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/8-Velocidad cinemática-Jacobiano.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "8-Velocidad cinemática-Jacobiano"
+            }
+          },
+          {
             "id": "3704ecd6a4457b6f",
             "type": "leaf",
             "state": {
@@ -46,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             }
           },
           {
-            "id": "5e1078d7b0284ab8",
+            "id": "ddc431d375f96f6f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -112,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -211,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af2742b76a749cb1",
+  "active": "ea81a21bcdbb3c97",
   "lastOpenFiles": [
     "Attachments/image_121.png",
     "Attachments/image_120.png",
