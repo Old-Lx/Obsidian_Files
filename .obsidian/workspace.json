@@ -22,15 +22,27 @@
             }
           },
           {
-            "id": "af2742b76a749cb1",
+            "id": "58304b2d870d2857",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Test.md"
+                "file": "Mecatrónica/9-Dinámica de un manipulador.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Test"
+              "title": "9-Dinámica de un manipulador"
+            }
+          },
+          {
+            "id": "a5f9e8651a4421af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/8-Velocidad cinemática-Jacobiano.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "8-Velocidad cinemática-Jacobiano"
             }
           },
           {
@@ -113,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -211,8 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af2742b76a749cb1",
+  "active": "58304b2d870d2857",
   "lastOpenFiles": [
+    "Attachments/image_168.png",
+    "Attachments/image_167.png",
+    "Mecatrónica/9-Dinámica de un manipulador.md",
     "Attachments/image_166.png",
     "Attachments/image_165.png",
     "Attachments/image_164.png",
@@ -222,8 +238,6 @@
     "Attachments/image_160.png",
     "Attachments/image_159.png",
     "Attachments/image_158.png",
-    "Attachments/image_157.png",
-    "Attachments/image_156.png",
     "Mecatrónica/8-Velocidad cinemática-Jacobiano.md",
     "Mecatrónica/Drawing 2024-11-01 15.11.23.excalidraw.md",
     "Mate/Matemática 6/Guía 4.md",
@@ -248,7 +262,6 @@
     "Comunicaciones/1-Intro.md",
     "Mate/Matemática 6/Matemática 6.md",
     "Mate/Matemática 6/Guía 1.md",
-    "Mate/Matemática 6/Untitled.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
