@@ -39,10 +39,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/8-Velocidad cinemática-Jacobiano.md"
+                "file": "Excalidraw/Test.md"
               },
               "icon": "excalidraw-icon",
-              "title": "8-Velocidad cinemática-Jacobiano"
+              "title": "Test"
             }
           },
           {
@@ -124,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -225,6 +224,7 @@
   },
   "active": "a5f9e8651a4421af",
   "lastOpenFiles": [
+    "Attachments/image_185.png",
     "Attachments/image_184.png",
     "Attachments/image_183.png",
     "Attachments/image_182.png",
@@ -235,7 +235,6 @@
     "Attachments/image_177.png",
     "Attachments/image_176.png",
     "Attachments/image_175.png",
-    "Attachments/image_174.png",
     "Mecatrónica/9-Dinámica de un manipulador.md",
     "Mecatrónica/8-Velocidad cinemática-Jacobiano.md",
     "Mecatrónica/Drawing 2024-11-01 15.11.23.excalidraw.md",
