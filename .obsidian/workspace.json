@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "58304b2d870d2857",
+            "id": "3704ecd6a4457b6f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/9-Dinámica de un manipulador.md"
+                "file": "Mecatrónica/6-Cinemática inversa y ejemplos.md"
               },
               "icon": "excalidraw-icon",
-              "title": "9-Dinámica de un manipulador"
+              "title": "6-Cinemática inversa y ejemplos"
             }
           },
           {
@@ -46,19 +46,19 @@
             }
           },
           {
-            "id": "3704ecd6a4457b6f",
+            "id": "58304b2d870d2857",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mate/Matemática 6/Guía 2.md"
+                "file": "Mecatrónica/9-Dinámica de un manipulador.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Guía 2"
+              "title": "9-Dinámica de un manipulador"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             }
           },
           {
-            "id": "d49d7d29cbf18ff2",
+            "id": "81bca49653e14095",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -120,8 +120,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58304b2d870d2857",
+  "active": "a5f9e8651a4421af",
   "lastOpenFiles": [
     "Attachments/image_184.png",
     "Attachments/image_183.png",
