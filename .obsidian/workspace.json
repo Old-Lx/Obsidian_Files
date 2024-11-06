@@ -34,15 +34,15 @@
             }
           },
           {
-            "id": "a5f9e8651a4421af",
+            "id": "760f9088b4f91e18",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Test.md"
+                "file": "Mecatrónica/8-Velocidad cinemática-Jacobiano.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Test"
+              "title": "8-Velocidad cinemática-Jacobiano"
             }
           },
           {
@@ -111,7 +111,7 @@
             }
           },
           {
-            "id": "81bca49653e14095",
+            "id": "d785e4241000f4d3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -120,7 +120,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -222,8 +223,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5f9e8651a4421af",
+  "active": "760f9088b4f91e18",
   "lastOpenFiles": [
+    "Mecatrónica/8-Velocidad cinemática-Jacobiano.svg",
     "Attachments/image_185.png",
     "Attachments/image_184.png",
     "Attachments/image_183.png",
@@ -234,7 +236,6 @@
     "Attachments/image_178.png",
     "Attachments/image_177.png",
     "Attachments/image_176.png",
-    "Attachments/image_175.png",
     "Mecatrónica/9-Dinámica de un manipulador.md",
     "Mecatrónica/8-Velocidad cinemática-Jacobiano.md",
     "Mecatrónica/Drawing 2024-11-01 15.11.23.excalidraw.md",
