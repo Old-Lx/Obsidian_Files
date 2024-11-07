@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "760f9088b4f91e18",
+  "active": "58304b2d870d2857",
   "lastOpenFiles": [
     "Mecatrónica/8-Velocidad cinemática-Jacobiano.svg",
     "Attachments/image_185.png",
