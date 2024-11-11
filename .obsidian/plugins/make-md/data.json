@@ -50,7 +50,8 @@
     "//Meca",
     "//Mate/Mate/Matemática VI",
     "/",
-    "//Mecatrónica"
+    "//Mate",
+    "//Mate/Mate/Matemática 6"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
