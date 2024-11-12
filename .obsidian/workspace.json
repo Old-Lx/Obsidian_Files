@@ -18,33 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "Prepa 5 de Marquina"
             }
-          },
-          {
-            "id": "e069c10a19325310",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/8-Velocidad cinemática-Jacobiano.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "8-Velocidad cinemática-Jacobiano"
-            }
-          },
-          {
-            "id": "19aa28d44c48599a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/9-Dinámica de un manipulador.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "9-Dinámica de un manipulador"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +72,7 @@
             }
           },
           {
-            "id": "012e6ded289dbea6",
+            "id": "0ab84ef451a40e45",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -111,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -209,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19aa28d44c48599a",
+  "active": "5f54eeb83039f2e2",
   "lastOpenFiles": [
     "Mate/Matemática 6/Prepa 5 de Marquina.md",
     "Mate/Matemática 6/Prepa 5 de Marquina.md",
