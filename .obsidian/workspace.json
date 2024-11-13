@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Prepa 5 de Marquina"
             }
+          },
+          {
+            "id": "7b5f1aabe36ad932",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mate/Matemática 6/Guía 5.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Guía 5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,8 +198,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f54eeb83039f2e2",
+  "active": "7b5f1aabe36ad932",
   "lastOpenFiles": [
+    "Attachments/image_186.png",
     "Mate/Matemática 6/Prepa 5 de Marquina.md",
     "Mate/Matemática 6/Prepa 5 de Marquina.md",
     "Mate/Matemática 6/Guía 5.md",
@@ -222,7 +236,6 @@
     "Comunicaciones/2-Equivalente Pasabajo notas de la clase.md",
     "Comunicaciones/Comunicaciones.md",
     "Comunicaciones/1-Ejercicios.md",
-    "Comunicaciones/1-Intro.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
