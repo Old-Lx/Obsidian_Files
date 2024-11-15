@@ -51,14 +51,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mate/Matemática 6/Guía 6.md"
+                "file": "Mecatrónica/6-Cinemática inversa y ejemplos.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Guía 6"
+              "title": "6-Cinemática inversa y ejemplos"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3073c0813c7de73",
+  "active": "ef4f38848159ad46",
   "lastOpenFiles": [
     "Mate/Matemática 6/Guía 6.md",
     "Attachments/image_189.png",
