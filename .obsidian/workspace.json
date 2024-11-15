@@ -45,7 +45,8 @@
               "title": "Guía 5"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f54eeb83039f2e2",
+  "active": "f3073c0813c7de73",
   "lastOpenFiles": [
     "Attachments/image_188.png",
     "Attachments/image_187.png",
