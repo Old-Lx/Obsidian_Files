@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f54eeb83039f2e2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mate/Matemática 6/Prepa 5 de Marquina.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Prepa 5 de Marquina"
-            }
-          },
-          {
             "id": "7b5f1aabe36ad932",
             "type": "leaf",
             "state": {
@@ -37,28 +25,18 @@
             "id": "f3073c0813c7de73",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Mate/Matemática 6/Guía 5.md"
+                "file": "Comunicaciones/3-Equivalente Pasabajo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Guía 5"
-            }
-          },
-          {
-            "id": "ef4f38848159ad46",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/6-Cinemática inversa y ejemplos.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "6-Cinemática inversa y ejemplos"
+              "icon": "lucide-file",
+              "title": "3-Equivalente Pasabajo"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,8 +200,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef4f38848159ad46",
+  "active": "f3073c0813c7de73",
   "lastOpenFiles": [
+    "Comunicaciones/2-Transformada de Hilbert.md",
+    "Comunicaciones/1-Intro.md",
+    "Comunicaciones/3-Equivalente Pasabajo.md",
+    "Vault.md",
+    "Excalidraw/Drawing 2024-11-16 06.26.15.excalidraw.md",
+    "Comunicaciones/Comunicaciones.md",
+    "Mate/Matemática 6/Resumen.md",
     "Mate/Matemática 6/Guía 6.md",
     "Attachments/image_189.png",
     "Attachments/image_188.png",
@@ -232,7 +217,6 @@
     "Mate/Matemática 6/Prepa 5 de Marquina.md",
     "Mate/Matemática 6/Prepa 5 de Marquina.md",
     "Mate/Matemática 6/Guía 5.md",
-    "Mate/Matemática 6/Resumen.md",
     "Mecatrónica/8-Velocidad cinemática-Jacobiano.svg",
     "Attachments/image_185.png",
     "Attachments/image_184.png",
@@ -244,22 +228,16 @@
     "Mecatrónica/Drawing 2024-11-01 15.11.23.excalidraw.md",
     "Mate/Matemática 6/Guía 4.md",
     "Mate/Matemática 6/1-Campos conservativos e integrales de línea y superficie.md",
-    "Comunicaciones/2-Equivalente pasa bajo.md",
     "Excalidraw/Test.md",
     "Excalidraw/Excalidraw.md",
     "Mate/Matemática 6/Guía 3.md",
     "Mecatrónica/Mecatrónica.md",
     "README.md",
     "Mecatrónica/6-Cinemática inversa y ejemplos.md",
-    "Vault.md",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
     "Mate/Matemática 6/Guía 2.md",
     "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md",
     "Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
-    "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
-    "Comunicaciones/2-Equivalente Pasabajo notas de la clase.md",
-    "Comunicaciones/Comunicaciones.md",
-    "Comunicaciones/1-Ejercicios.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
