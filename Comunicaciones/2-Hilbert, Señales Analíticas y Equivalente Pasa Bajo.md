@@ -1,5 +1,5 @@
 ## Transformada de Hilbert:
-Operador lineal en forma de Transformada Integral. Se puede empleaar para calcular el contenido de frecuencia de una señal de energía o potencia.
+Operador lineal en forma de Transformada Integral. Se puede emplear para calcular el contenido de frecuencia de una señal de energía o potencia.
 
 Su análisis es:
 $$
