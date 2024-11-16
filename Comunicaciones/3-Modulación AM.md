@@ -21,3 +21,23 @@ $$m \in \mathbb{R}, \hspace{1em} 0\leq m \leq 1$$
 En el tiempo $$x_{AM}(t)$$ toma la siguiente forma: ![[Pasted image 20241116072229.png]] 
 Como el mensaje $$|x(t)| \leq 1 \Rightarrow -1 \leq x(t) \leq 1$$ $$\begin{array}{l}x_{AM_{max}}(t) = A_c (1 + m) \\ x_{AM_{min}}(t) = A_c (1 - m) \end{array} \Bigg\} \begin{array}{c} x_{AM_{max}}(t) + x_{AM_{min}}(t) = 2A_c \\ \hspace{1em} x_{AM_{max}}(t) - x_{AM_{min}}(t) = 2mA_c \end{array}$$ Dividiendo:
 $$m = \frac{x_{AM_{max}}(t) - x_{AM_{min}}(t)}{x_{AM_{max}}(t) + x_{AM_{min}}(t)} = \frac{Q}{P}$$
+
+El índice de modulación da una idea de qué tan separada está la envolvente positiva de la negativa.
+
+A veces también se muestra en porcentaje $$m = 30\% = 0,3$$ También se puede escribir la señal AM como:
+$$ x_{AM}(t) = A_c(1 + 1 + mx(t))\cos(\omega_c t)$$
+$$ x_{AM} = A_c m x(t) \cos(\omega_c t) + A_c \cos(\omega_c t)$$
+donde $$A_c m x(t) \cos(\omega_c t) $$ es el mensaje modulado y $$A_c \cos(\omega_c t)$$ es la portadora.
+
+### Espectro de la señal AM:
+
+Supongamos que el mensaje $$x(t)$$ ocupa un ancho de banda B como se muestra:
+![[Pasted image 20241116075020.png]]
+siendo la señal AM $$x_{AM}(t) = A_c m x(t) \cos(\omega_c t) + A_c\cos(\omega_c t)$$ tal que al aplicar la transformada de Fourier:
+$$ X_{AM}(f) = m\frac{A_c}{2} X(f - f_c) + m \frac{A_c}{2} X(f+f_c) + \frac{A_c}{2} \delta(f-f_c) + \frac{A_c}{2}\delta(f+f_c)$$ Graficando: ![[Pasted image 20241116074821.png]] 
+Se observa cómo se desplazó el mensaje a $$f_c \hspace{1em} y \hspace{1em} -f_c$$Con un delta en cada una que representa la presencia de la portadora.
+
+La señal AM presenta un **espectro pasabanda** con un ancho de banda $$BW = 2B$$ por definición $$BW = f_{max} - f_{min}, \hspace{1em} f > 0$$ donde $$f_{max} = f_c + B, \hspace{1em} f_{min} = f_c - B$$
+**La señal AM ocupa el doble del Ancho de Banda que el mensaje original**. A la parte superior $$f > f_c$$ se le llama **Banda Lateral Superior (Upper Side Band, USB)** y para la parte inferior $$f < f_c$$ se le llama **Banda Lateral Inferior (Lower Side Band, LSB)**.
+
+### Potencia de una señal AM
