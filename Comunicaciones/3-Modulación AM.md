@@ -41,3 +41,7 @@ La señal AM presenta un **espectro pasabanda** con un ancho de banda $$BW = 2B$
 **La señal AM ocupa el doble del Ancho de Banda que el mensaje original**. A la parte superior $$f > f_c$$ se le llama **Banda Lateral Superior (Upper Side Band, USB)** y para la parte inferior $$f < f_c$$ se le llama **Banda Lateral Inferior (Lower Side Band, LSB)**.
 
 ### Potencia de una señal AM
+
+Recondemos que la potencia promedio de una señal aleatoria coincide con $$P = E[x^2(t)]$$ tal que $$P = E[x^2_{AM}(t)] = \overline{x^2_{AM}(t)}$$
+$$\begin{array}{c}P = \overline{[A_c \cos(\omega_c t) + A_c m x(t) \cos(\omega_c t)]^2} = \overline{A_c^2cos^2(\omega_ct) + 2A_c^2 m x(t) \cos(\omega_c t) + m^2 A_c^2 x^2(t) cos^2(\omega_c t)} \\= A_c^2\overline{cos^2(\omega_c t)} + 2m A_c^2 \overline{x(t)\cos(\omega_c t)} + m^2 A_c^2 \overline{x^2(t)cos^2(\omega_c t)}\end{array}$$ evaluando cada término:
+$$\overline cos^2(\omega_c t)} = \overline{\frac{1}{2}(1 + \cos(2\omega_c t))} = \frac{1}{2} + \overline{\frac{1}{2}cos(2\omega_c t)}
