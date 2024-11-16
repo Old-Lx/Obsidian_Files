@@ -11,26 +11,26 @@
             "id": "7b5f1aabe36ad932",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mate/Matemática 6/Resumen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resumen"
-            }
-          },
-          {
-            "id": "f3073c0813c7de73",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Test.md"
               },
               "icon": "excalidraw-icon",
               "title": "Test"
+            }
+          },
+          {
+            "id": "f3073c0813c7de73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comunicaciones/3-Modulación AM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-Modulación AM"
             }
           }
         ],
@@ -200,16 +200,19 @@
   },
   "active": "f3073c0813c7de73",
   "lastOpenFiles": [
-    "Attachments/image_190.png",
-    "Comunicaciones/3-Modulación AM.md",
-    "Attachments/Pasted image 20241116065801.png",
+    "Attachments/Pasted image 20241116072229.png",
     "Comunicaciones/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
+    "Comunicaciones/3-Modulación AM.md",
+    "Mate/Matemática 6/Resumen.md",
+    "Attachments/Pasted image 20241116070226.png",
+    "Excalidraw/Excalidraw.md",
+    "Attachments/image_190.png",
+    "Attachments/Pasted image 20241116065801.png",
     "Comunicaciones/3-Equivalente Pasabajo.md",
     "Comunicaciones/1-Intro.md",
     "Vault.md",
     "Excalidraw/Drawing 2024-11-16 06.26.15.excalidraw.md",
     "Comunicaciones/Comunicaciones.md",
-    "Mate/Matemática 6/Resumen.md",
     "Mate/Matemática 6/Guía 6.md",
     "Attachments/image_189.png",
     "Attachments/image_188.png",
@@ -221,15 +224,12 @@
     "Mecatrónica/8-Velocidad cinemática-Jacobiano.svg",
     "Attachments/image_185.png",
     "Attachments/image_184.png",
-    "Attachments/image_183.png",
-    "Attachments/image_182.png",
     "Mecatrónica/9-Dinámica de un manipulador.md",
     "Mecatrónica/8-Velocidad cinemática-Jacobiano.md",
     "Mecatrónica/Drawing 2024-11-01 15.11.23.excalidraw.md",
     "Mate/Matemática 6/Guía 4.md",
     "Mate/Matemática 6/1-Campos conservativos e integrales de línea y superficie.md",
     "Excalidraw/Test.md",
-    "Excalidraw/Excalidraw.md",
     "Mate/Matemática 6/Guía 3.md",
     "Mecatrónica/Mecatrónica.md",
     "README.md",
