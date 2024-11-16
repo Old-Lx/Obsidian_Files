@@ -44,4 +44,23 @@ La señal AM presenta un **espectro pasabanda** con un ancho de banda $$BW = 2B$
 
 Recondemos que la potencia promedio de una señal aleatoria coincide con $$P = E[x^2(t)]$$ tal que $$P = E[x^2_{AM}(t)] = \overline{x^2_{AM}(t)}$$
 $$\begin{array}{c}P = \overline{[A_c \cos(\omega_c t) + A_c m x(t) \cos(\omega_c t)]^2} = \overline{A_c^2cos^2(\omega_ct) + 2A_c^2 m x(t) \cos(\omega_c t) + m^2 A_c^2 x^2(t) cos^2(\omega_c t)} \\= A_c^2\overline{cos^2(\omega_c t)} + 2m A_c^2 \overline{x(t)\cos(\omega_c t)} + m^2 A_c^2 \overline{x^2(t)cos^2(\omega_c t)}\end{array}$$ evaluando cada término:
-$$\overline cos^2(\omega_c t)} = \overline{\frac{1}{2}(1 + \cos(2\omega_c t))} = \frac{1}{2} + \overline{\frac{1}{2}cos(2\omega_c t)}
+$$\overline{cos^2(\omega_c t)} = \overline{\frac{1}{2}(1 + \cos(2\omega_c t))} = \frac{1}{2} + \overline{\frac{1}{2}cos(2\omega_c t)} = \frac{1}{2}$$ debido a que el valos promedio de un coseno es cero.
+
+$$\overline{x(t)\cos(\omega_c t)} = ?$$ No se conoce este valor promedio, pero se sabe que dos señales son ortogonales si:
+$$<x(t), y(t)> = \int_{-\infty}^{+\infty}x(t)y(t)dt = 0$$ lo cual es cierto si $$x(t) \hspace{1em} y \hspace{1em} y(t)$$
+1. No coinciden en el tiempo
+2. No coinciden en frecuencia
+3. Tienen simetrías opuestas (par/ impar)
+
+En este caso $$x(t)$$ no coincide en frecuencia con $$\cos(\omega_c t)$$ por lo que al ser ortogonales ek promeduo de su producto se anula.
+
+$$\overline{x(t)\cos(\omega_c t)} = 0$$
+de igual forma $$\begin{array}{c}\overline{x^2(t)cos^2(\omega_c t)} = \overline{x^2(t)}\cdot\overline{cos^2(\omega_c t)} = \frac{1}{2}\overline{x^2(t)} \Rightarrow P_{AM} = \overline{x^2_{AM}(t)} = \frac{A_c^2}{2} + m^2 \frac{A_c^2}{2}\overline{x^2(t)}, \\\hspace{1em} \overline{x^2(t)}=P_{mensaje}, \hspace{1em} \frac{A_c^2}{2} = P_c = Pot. \hspace{1em} de \hspace{1em} potadora\end{array}$$ Luego:
+$$P_{AM} = P_c + \frac{m^2A_c^2}{2}P_m$$
+Podemos llamar a $$\frac{m^2A_c^2}{2}P_m = 2PSB$$ donde **PSB = Potencia de cada banda lateral**.
+
+Recordando que en frecuencia:
+$$P = \int_{-\infty}^{+\infty}|x(t)|^2df = \int_{-\infty}^{+\infty} S_{xx}(f)df$$
+Donde x(t) es aleatoria del lado derecho y no aleatoria en el lado izquierdo.
+
+![[Pasted image 20241116092500.png]]
