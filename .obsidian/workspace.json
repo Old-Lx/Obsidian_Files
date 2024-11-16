@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7b33626ca2e4d289",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mate/Matemática 6/Prepa 6 de Marquina.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Prepa 6 de Marquina"
+            }
+          },
+          {
             "id": "f3073c0813c7de73",
             "type": "leaf",
             "state": {
@@ -32,19 +44,18 @@
             }
           },
           {
-            "id": "7b33626ca2e4d289",
+            "id": "ae93348657881148",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mate/Matemática 6/Prepa 6 de Marquina.md"
+                "file": "Mate/Matemática 6/Guía 5.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Prepa 6 de Marquina"
+              "title": "Guía 5"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -210,6 +222,7 @@
   },
   "active": "7b33626ca2e4d289",
   "lastOpenFiles": [
+    "Attachments/image_191.png",
     "Mate/Matemática 6/Prepa 6 de Marquina.md",
     "Attachments/Pasted image 20241116092500.png",
     "Attachments/Pasted image 20241116092143.png",
@@ -245,7 +258,6 @@
     "README.md",
     "Mecatrónica/6-Cinemática inversa y ejemplos.md",
     "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
-    "Mate/Matemática 6/Guía 2.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
