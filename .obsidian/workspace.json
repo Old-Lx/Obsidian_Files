@@ -33,8 +33,7 @@
               "title": "3-Modulación AM"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3073c0813c7de73",
+  "active": "7b5f1aabe36ad932",
   "lastOpenFiles": [
     "Attachments/Pasted image 20241116092500.png",
     "Attachments/Pasted image 20241116092143.png",
