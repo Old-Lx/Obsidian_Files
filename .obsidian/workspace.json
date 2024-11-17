@@ -43,8 +43,7 @@
               "title": "Test"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2221aee1cdfd2346",
+  "active": "7b33626ca2e4d289",
   "lastOpenFiles": [
     "Attachments/Pasted image 20241117125630.png",
     "Attachments/Pasted image 20241117125319.png",
