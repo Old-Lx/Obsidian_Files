@@ -47,16 +47,28 @@
             "id": "ae93348657881148",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Mecatrónica"
+              },
+              "icon": "lucide-file",
+              "title": "Mecatrónica"
+            }
+          },
+          {
+            "id": "0e3607f84cf33544",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mate/Matemática 6/Guía 5.md"
+                "file": "Mecatrónica/10-Formulación de Newton-Euler.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Guía 5"
+              "title": "10-Formulación de Newton-Euler"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             }
           },
           {
-            "id": "3031e8fef6c566fb",
+            "id": "e5d123b3667d8cf2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -118,11 +130,13 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -220,8 +234,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "841cb43bcbbc7a65",
+  "active": "0e3607f84cf33544",
   "lastOpenFiles": [
+    "Attachments/image_196.png",
+    "Mecatrónica/10-Formulación de Newton-Euler.md",
     "Attachments/image_195.png",
     "Attachments/image_194.png",
     "Attachments/image_193.png",
@@ -233,7 +249,6 @@
     "Attachments/Pasted image 20241116075020.png",
     "Attachments/Pasted image 20241116074821.png",
     "Attachments/Pasted image 20241116074440.png",
-    "Attachments/Pasted image 20241116072229.png",
     "Comunicaciones/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
     "Comunicaciones/3-Modulación AM.md",
     "Mate/Matemática 6/Resumen.md",
@@ -257,7 +272,6 @@
     "Mecatrónica/Mecatrónica.md",
     "README.md",
     "Mecatrónica/6-Cinemática inversa y ejemplos.md",
-    "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
