@@ -93,4 +93,23 @@ Veamos los términos que nos sobran para que $x_{out}(t)$ sea una señal AM:
 
 - $a_1x(t)$ y $a_2x^2(t)$ están entre $f = 0$ y $f = B$, es decir, fuera de la banda de AM.
 - $a_2 A_c^2 cos^2(\omega(\omega_c t)) = \frac{a_2 A_c^2}{2}(1 + \cos(2\omega_c t))$ , está en $f = 0 (DC)$ y $f_c = 2f_c$ 
-Tal que al filtrar con $f_{min} = f_c - B$ y $f_{max} = f_c + B$ nos quedará:$$ x_{AM}(t) = a_1 A_c\cos(\omega_c t) + 2 a_2 A_c x(t)\cos(\omega_c t)$$
+Tal que al filtrar con $f_{min} = f_c - B$ y $f_{max} = f_c + B$ nos quedará:$$ x_{AM}(t) = a_1 A_c\cos(\omega_c t) + 2 a_2 A_c x(t)\cos(\omega_c t)$$ ![[Pasted image 20241117114733.png]]
+
+$$x_{AM} = a_1A_c\cos(\omega_c t)\Big(1 + \frac{2a_2}{a_1}x(t)\Big)$$
+
+Se observa que $m = {2a_2}{a_1}$, lo que constituye una desventaja ya que en general $a_2 << a_1$ y esto implica que la profundidad de modulación será baja (m pequeñas).
+
+![[Pasted image 20241117115435.png]]
+
+#### Modulador por conmutación (switched)
+![[Pasted image 20241117115537.png]]
+Cuando el switch esté cerrado sobre R habrá un $v_R \neq 0$, cuando esté abierto $v_R = 0$.
+
+Su ibjetivo fundamental es trasladar el espectro del mensaje a la frecuencia portadora, lo cual se hace mediante $v_i(t) = x(t) + A_c\cos(\omega_c t)$. Se multiplica $v_i$ por una señal periódica de periodo $T = \frac{1}{f_c}$ que cierra y abre el switch cada $T$. MAtemáticamente se puede expresar como: $$v_R = v_i(t)\cdot \sum_{k = -\infty}^{+\infty} \pi(\frac{t - k}{T})$$
+donde: $$\sum_{k = -\infty}^{+\infty} \pi(\frac{t - k}{T}) = a_0 + \sum_{n = 1}^{+\infty} a_n\cos(n\omega_c t)$$
+siendo la parte derecha la serie de Fourier con $n$ impar.
+
+Suponiendo que para los ciclos positivos de $v_i(t)$, el switch está cerrado $v_R = v_i$ y los ciclos negaticos de $v_i(t < 0)$, el switch está abierto $v_R = 0$, entonces, si $A_c >> x(t)$, no habrá cruces por cero en un $T= \frac{1}{f_c}$. 
+
+Se puede modelar como:
+
