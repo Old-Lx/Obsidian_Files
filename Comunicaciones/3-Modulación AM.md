@@ -77,3 +77,20 @@ Podemos concluir que A< es un sistema que produce:
 
 ### Moduladores AM
 
+Se requiere un sumador y un multiplicador. El multiplicador podría realizarse con multiplicadores analógicos o con dispositivos no lineales.
+
+#### Modulador de ley de potencias o modulador de ley cuadrática:
+
+Requiere un sumador, un elemento no lineal y un filtro pasabanda.
+
+![[Pasted image 20241117112425.png]] 
+Se pueden usar diodos o transistores en las regiones donde $x_{out}(t) = a_1x_{in}(t) + a_2x^2_{in}(t)$ 
+
+si $x_{in}(t) = A_c\cos(\omega_c t)) + x(t)\Rightarrow x_{out}(t) = a_1(A_c\cos(\omega_c t) + x(t)) + a_2(A_c\cos(\omega_c t) + x(t))^2$ luego:
+$$x_{out} = a_1 A_c\cos(\omega_c t) + a_1x(t) + a_2A_c^2cos^2(\omega_c t) + 2a_2 A_c x(t)\cos(\omega_c t) + a_2 x^2(t)$$
+
+Veamos los términos que nos sobran para que $x_{out}(t)$ sea una señal AM:
+
+- $a_1x(t)$ y $a_2x^2(t)$ están entre $f = 0$ y $f = B$, es decir, fuera de la banda de AM.
+- $a_2 A_c^2 cos^2(\omega(\omega_c t)) = \frac{a_2 A_c^2}{2}(1 + \cos(2\omega_c t))$ , está en $f = 0 (DC)$ y $f_c = 2f_c$ 
+Tal que al filtrar con $f_{min} = f_c - B$ y $f_{max} = f_c + B$ nos quedará:$$ x_{AM}(t) = a_1 A_c\cos(\omega_c t) + 2 a_2 A_c x(t)\cos(\omega_c t)$$

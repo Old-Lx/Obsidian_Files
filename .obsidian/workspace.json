@@ -44,9 +44,21 @@
               "icon": "lucide-file",
               "title": "3-Modulación AM"
             }
+          },
+          {
+            "id": "2221aee1cdfd2346",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Test.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Test"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -211,8 +224,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8675b82d2fc5ad77",
+  "active": "2221aee1cdfd2346",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20241117112425.png",
     "Attachments/image_208.png",
     "Attachments/image_207.png",
     "Attachments/image_206.png",
@@ -223,7 +237,6 @@
     "Attachments/image_201.png",
     "Attachments/image_200.png",
     "Attachments/image_199.png",
-    "Attachments/image_198.png",
     "Mecatrónica/10-Formulación de Newton-Euler.md",
     "Mate/Matemática 6/Prepa 6 de Marquina.md",
     "Comunicaciones/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
