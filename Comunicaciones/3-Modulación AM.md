@@ -113,3 +113,33 @@ Suponiendo que para los ciclos positivos de $v_i(t)$, el switch está cerrado $v
 
 Se puede modelar como:
 
+![[Pasted image 20241117121310.png]]
+
+$$v_R(t) = \Big(A_c\cos(\omega_c t) + x(t)\Big)\Big(a_0 + \sum_{n = 1}^{+\infty} a_n\cos(n\omega_c t)\Big)$$ con $n$ impar, luego:
+$$v_R(t) = A_c\cdot a_0\cos(\omega_c t) + a_0 x(t) + \sum_{n = 1}^{+\infty} A_c a_n\cos(\omega_c t)\cdot\cos(n\omega_c t) + \sum_{n = 1}^{+\infty}a_n x(t)\cos(n\omega_c t)$$
+donde el último término desplaza el mensaje a todos los múltiplos impares de $f_c$, por lo que sobran términos.
+![[Pasted image 20241117122212.png]]
+
+- sobran los términos $a_0x(t)$, es decir, la banda base
+- los múltiplos de $f_c$, es decir:$$\sum_{n = 1}^{+\infty} A_c a_n\cos(\omega_c t)\cdot\cos(n\omega_c t)$$ donde $f > f_c$, es decir, deltas fuera de la banda de AM
+- $$\sum_{n = 1}^{+\infty}a_n x(t)\cos(n\omega_c t)$$
+sobran los términos con $\{n = 2k+1/ k \geq1 \}$, por lo que sólo nos sirve $k=0 \Rightarrow n =1$ de donde se obtiene el término $a_1x(t)\cos(\omega_c t)$ 
+
+Luego del filtro, tendremos:
+
+$$x_{AM}(t) = a_0 A_c\cos(\omega_c t) + a_1 x(t)\cos(\omega_c t)$$
+agrupando para obtener m:
+$$x_{AM}(t) = a_0 A_c\cos(\omega_c t)\Big(1 + \frac{a_1}{a_0 A_c} x(t)\Big)$$
+y se observa que $m = \frac{a_1}{a_0 A_c}$, si el pulso rectangular es:
+
+![[Pasted image 20241117123722.png]]
+
+### Receptores de AM
+
+En el caso de AM, también llamada DSB+carry o doble banda lateral con portadora, se tiene el mensaje $x(t)$ en la envolvente de la señal AM.
+
+El método más sencillo es la detección directa de la envolvente de $x_{AM}(t)$.
+
+#### Detector de Envolvente
+$v_i(t) = x_{AM}(t)$ 
+
