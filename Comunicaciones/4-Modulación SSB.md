@@ -30,4 +30,8 @@ Entonces, si queremos obtener una señal SSB-USB, siendo el mensaje $x(t)$:
 $$S_{USB}(f) = \frac{A_c}{2}X_+(f - f_c) + \frac{A_c}{2}X_-(f + f_c)$$
 viéndolo en el tiempo $\mathcal{F}^{-1}[S_{USB}(f)] = S_{USB}(t)$, es decir:
 $$\begin{array}{c}S_{USB}(t) = \frac{A_c}{2}\Big(x_+(t)e^{j2\pi f_c t} + x_-(t)e^{-j2\pi f_c t}\Big) \\= \frac{A_c}{2} \Big(x_+(t)\cos(2\pi f_c t) + j x_+\sin(2\pi f_c t) + x_-(t)\cos(2\pi f_c t) - j x_-(t)\sin(2\pi f_c t)\Big)\\ = \frac{A_c}{2}\Big[\big[x_+(t) + x_-(t)\big]\cos(2\pi f_c t) + j\big[x_+(t) - x_-(t)\big] \sin(2\pi f_c t) \Big] \end{array}$$ Dado a las   [[4-Modulación SSB#^ede2bc]] dos ecuaciones planteadas en la referencia, tendremos que de $S_{USB}$ al final $x_+(t) - x_-(t) = j\hat{x}(t)$ y $x_+(t) + x_-(t) = x(t)$ por lo que se puede obtener:
-$$S_{USB}(t) = \frac{A_c}{2}\Big[ x(t)\cos(2\pi f_c t) - \hat{x}(t)\sin(2\pi f_c t)\Big]
+$$S_{USB}(t) = \frac{A_c}{2}\Big[ x(t)\cos(2\pi f_c t) - \hat{x}(t)\sin(2\pi f_c t)\Big]$$
+Se puede desarrollar un análogo para LSB donde al final se obtendrá:
+$$S_{LSB}(t) = \frac{A_c}{2}\Big[ x(t)\cos(2\pi f_c t) + \hat{x}(t)\sin(2\pi f_c t)\Big]$$
+en general, un SSB:
+$$x_{SSB}(t) = \frac{A_c}{2}\Big[ x(t)\cos(2\pi f_c t) \mp \hat{x}(t)\sin(2\pi f_c t)\Big]$$
