@@ -142,4 +142,28 @@ El método más sencillo es la detección directa de la envolvente de $x_{AM}(t)
 
 #### Detector de Envolvente
 $v_i(t) = x_{AM}(t)$ 
+![[Pasted image 20241117124250.png]]
+![[Pasted image 20241117124537.png]]
+![[Pasted image 20241117124914.png]]
+![[Pasted image 20241117125106.png]]
+![[Pasted image 20241117125319.png]]
+
+La sencillez dew este demodulador permite aplicaciones masivas, como radiodifusión comercial, ya que es muy barato.
+
+#### Detector síncrono
+
+![[Pasted image 20241117125630.png]]
+Al multiplicar $x_{AM}(t)$ por la portadora:
+$$\begin{array}{c}x_i(t) = x_{AM}(t)\cdot\cos(\omega_c t) = A_c \Big(1 + mx(t)\Big)\cos(\omega_c t)\cdot cos(\omega_c t) \Rightarrow x_i(t) = A_c\Big(1 + mx(t)cos^2(\omega_c t)\Big)\\ = \frac{A_c}{2} \Big(1 + mx(t)\Big)\Big(1 + \cos(2\omega_c t)\Big)\end{array}$$
+Agrupando:
+$$x_i(t) = \frac{A_c}{2}\Big(1 + mx(t)\Big) + \frac{A_c}{2}\Big(1 + mx(t)\Big)\cos(2\omega_c t)$$
+donde el término sin $\cos(2\omega_c t)$ es el término en $f = 0$ y el otro es el término en $2f_c$
+
+Al filtrar $x_i(t)$ por un pasabajo con $f_{max} << f_c$, pero $f_{max} > B$, recuperamos el mensaje, obteniendo en la salida: $$x_{out}(t) = \frac{A_c}{2} + \frac{A_c}{2} m x(t)$$
+
+El condensador elimina la parte DC, entonces, quedaremos con:$$x_{salida} = kx(t) = \frac{A_c}{2}mx(t)$$ tal que $k = \frac{A_c}{2}m$ .
+
+En este caso la portadora por la que se multiplica debe estar **en fase** con la señal modulada $x_{AM}(t)$, de otra forma, se generan armónicos que contaminan la recuperación del mensaje.
+
+Para implementar esta demodulación, se debe utilizar un detector de fase y este a su vez enganche la fase del oscilador local con la de $x_{AM}(t)$. El circuito que realiza esto se conoce como **Phase Look Loop** (PLL) o lazo de enganche de fase, como se estudió en electro 3.
 
