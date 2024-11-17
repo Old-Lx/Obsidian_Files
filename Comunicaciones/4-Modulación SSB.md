@@ -35,3 +35,8 @@ Se puede desarrollar un análogo para LSB donde al final se obtendrá:
 $$S_{LSB}(t) = \frac{A_c}{2}\Big[ x(t)\cos(2\pi f_c t) + \hat{x}(t)\sin(2\pi f_c t)\Big]$$
 en general, un SSB:
 $$x_{SSB}(t) = \frac{A_c}{2}\Big[ x(t)\cos(2\pi f_c t) \mp \hat{x}(t)\sin(2\pi f_c t)\Big]$$
+
+### Modulador SSB
+#### Método por discriminación de frecuencia:
+![[Pasted image 20241117180259.png]]
+Si la señal $x(t)$ posee muchas componentes de baja frecuencia, este filtro debería ser ideal, lo cual no es físicamente posible. Por lo tanto, esta modulación se hace en dos etapas, primero modulando a una frecuencia intermedia $f_i < f_c$, de manera que separemos los contenidos de baja frecuencia y se utilice un filtro de alto $Q$, $Q = \frac{f_c}{BW}>> 1$ 
