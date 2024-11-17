@@ -61,4 +61,5 @@ $$A(t) = \sqrt{\Big(A + \frac{A_c}{2}x(t)\Big)^2 + \Big( \frac{A_c}{2} \hat{x}(t
 Si $A >> A_c$ entonces los dos últimos términos serán despreciables, y se podrá desarrollar:
 $$A(t) \approx \sqrt{A^2 + AA_cx(t)} = A\sqrt{1+\frac{A_c}{A}x(t)}$$
 El profesor acá usó $\sqrt{1 + x} = 1 + \frac{1}{2} x$ **(tengo que averiguar por qué)** luego desarrolla que:
-$$A(t) 
+$$A(t) \equiv A\Big(1 + \frac{A_c}{2A}x(t)\Big) \cong A + \frac{A_c}{2}x(t)$$
+Al pasar eso por el condensador, queda $\frac{A_c}{2}x(t)$ 
