@@ -57,10 +57,23 @@ En este caso $$x(t)$$ no coincide en frecuencia con $$\cos(\omega_c t)$$ por lo 
 $$\overline{x(t)\cos(\omega_c t)} = 0$$
 de igual forma $$\begin{array}{c}\overline{x^2(t)cos^2(\omega_c t)} = \overline{x^2(t)}\cdot\overline{cos^2(\omega_c t)} = \frac{1}{2}\overline{x^2(t)} \Rightarrow P_{AM} = \overline{x^2_{AM}(t)} = \frac{A_c^2}{2} + m^2 \frac{A_c^2}{2}\overline{x^2(t)}, \\\hspace{1em} \overline{x^2(t)}=P_{mensaje}, \hspace{1em} \frac{A_c^2}{2} = P_c = Pot. \hspace{1em} de \hspace{1em} potadora\end{array}$$ Luego:
 $$P_{AM} = P_c + \frac{m^2A_c^2}{2}P_m$$
-Podemos llamar a $$\frac{m^2A_c^2}{2}P_m = 2PSB$$ donde **PSB = Potencia de cada banda lateral**.
+Podemos llamar a $\frac{m^2A_c^2}{2}P_m = 2PSB$ donde **$PSB$ = Potencia de cada banda lateral** y **$P_c$ = potencia de la portadora** tal que $P_c = \frac{A_c^2}{2}$.
 
 Recordando que en frecuencia:
 $$P = \int_{-\infty}^{+\infty}|x(t)|^2df = \int_{-\infty}^{+\infty} S_{xx}(f)df$$
 Donde x(t) es aleatoria del lado derecho y no aleatoria en el lado izquierdo.
 
 ![[Pasted image 20241116092500.png]]
+
+tal que la potencia de cada banda lateral por separado es $$PSB = \frac{m^2}{4}A_c^2 P_m$$
+Podemos definir la eficiencia de potencia de una señal como $$P_{total} = P_c + P_s$$
+donde $P_s$ es la potencia contenida en las bandas con $P_s = 2PSB$, $P_c$ es la potencia de la portadora, la eficiencia será: $$\mu = \frac{P_s}{P_{total}}\times 100\% = \frac{2PSB}{P_c + 2PSB}\times 100\%$$
+Luego sustituyendo de las relaciones obtenida para $P_c$ y $PSB$ y desarrollando:
+$$\mu = \frac{m^2 P_m}{1 + m^2 P_m}\times 100\%$$ Recordando que $0 \leq m \leq 1$ y $x(t)$ está normalizado ($|x(t)| \leq 1$), entonces, $\mu_{max} = 50\%$ cuando $m^2\cdot P_m = 1$
+
+Podemos concluir que A< es un sistema que produce:
+- Un ancho de banda de transmisión igual al doble de ancho de banda del mensaje.
+- Un gasto de potencia en la portadora que se refleja en que la eficiencia máxima que se puede lograr es del $50\%$.
+
+### Moduladores AM
+
