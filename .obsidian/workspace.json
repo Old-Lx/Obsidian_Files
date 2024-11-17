@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,8 +226,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3073c0813c7de73",
+  "active": "b8c69f25ff252ae7",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20241117183341.png",
+    "Attachments/Pasted image 20241117182237.png",
+    "Attachments/Pasted image 20241117182003.png",
+    "Attachments/Pasted image 20241117181540.png",
     "Attachments/Pasted image 20241117180259.png",
     "Attachments/Pasted image 20241117165427.png",
     "Attachments/Pasted image 20241117163214.png",
@@ -237,10 +241,6 @@
     "Attachments/Pasted image 20241117161447.png",
     "Attachments/Pasted image 20241117161332.png",
     "Attachments/Pasted image 20241117125630.png",
-    "Attachments/Pasted image 20241117125319.png",
-    "Attachments/Pasted image 20241117125106.png",
-    "Attachments/Pasted image 20241117124914.png",
-    "Attachments/Pasted image 20241117124537.png",
     "Mecatrónica/10-Formulación de Newton-Euler.md",
     "Mate/Matemática 6/Prepa 6 de Marquina.md",
     "Comunicaciones/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",

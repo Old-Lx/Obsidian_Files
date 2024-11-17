@@ -40,3 +40,25 @@ $$x_{SSB}(t) = \frac{A_c}{2}\Big[ x(t)\cos(2\pi f_c t) \mp \hat{x}(t)\sin(2\pi f
 #### Método por discriminación de frecuencia:
 ![[Pasted image 20241117180259.png]]
 Si la señal $x(t)$ posee muchas componentes de baja frecuencia, este filtro debería ser ideal, lo cual no es físicamente posible. Por lo tanto, esta modulación se hace en dos etapas, primero modulando a una frecuencia intermedia $f_i < f_c$, de manera que separemos los contenidos de baja frecuencia y se utilice un filtro de alto $Q$, $Q = \frac{f_c}{BW}>> 1$ 
+
+El gráfico de esta lo entendí a medias, por lo que decidí copiar el dibujo del profesor
+![[Pasted image 20241117181540.png]]
+
+#### Modulador Hartley o por discriminación de fase
+![[Pasted image 20241117182003.png]]
+
+#### Demodulador SSB
+![[Pasted image 20241117182237.png]]
+$$\begin{array}{c} x_{SSB}(t)\cos(\omega_c t) = \frac{A_c}{2}\Big[ x(t)\cos(2\pi f_c t) \mp \hat{x}(t)\sin(\omega_c t)\Big]\cos(\omega_c t)\\ = \frac{A_c}{2}x(t)\cos^2(2\pi f_c t) \mp \frac{A_c}{2}\hat{x}(t)\sin(\omega_c t)\cos(\omega_c t)\\ = \frac{A_c}{4}x(t) + \frac{A_c}{4}x(t)\cos(2\omega_c t) \mp \frac{A_c}{4}\hat{x}(t)\sin(2\omega_c t) \end{array}$$
+los términos $\frac{A_c}{4}x(t)\cos(2\omega_c t) \mp \frac{A_c}{4}\hat{x}(t)\sin(2\omega_c t)$ son eliminados por el filtro pasabajos y $x_R(t) = \frac{A_c}{2}x(t)$ 
+
+#### Detección de SSB con detector de envolvente
+Supongamos que se envía un **tono piloto** y al llegar lo amplificamos y sumamos a la señal de entrada.
+![[Pasted image 20241117183341.png]]
+$$x_1(t) = \frac{A_c}{2}\Big[ x(t)\cos(\omega_c t) \mp \hat{x}(t)\sin(\omega_c t)\Big] + A\cos(\omega_c t) = \Big(A + \frac{A_c}{2}x(t)\Big)\cos(\omega_c t) \mp \frac{A_c}{2}\hat{x}(t)\sin(\omega_c t)$$
+La envolvente $A(t)$ será:
+$$A(t) = \sqrt{\Big(A + \frac{A_c}{2}x(t)\Big)^2 + \Big( \frac{A_c}{2} \hat{x}(t)\Big)^2} \Rightarrow A(t) = \sqrt{A^2 + AA_cx(t) + \frac{A_c^2}{4}x^2(t) + \frac{A_c}{4}\hat{x}^2(t)}$$
+Si $A >> A_c$ entonces los dos últimos términos serán despreciables, y se podrá desarrollar:
+$$A(t) \approx \sqrt{A^2 + AA_cx(t)} = A\sqrt{1+\frac{A_c}{A}x(t)}$$
+El profesor acá usó $\sqrt{1 + x} = 1 + \frac{1}{2} x$ **(tengo que averiguar por qué)** luego desarrolla que:
+$$A(t) 
