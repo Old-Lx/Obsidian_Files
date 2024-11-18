@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2eeba134191eab28",
+        "id": "f3f9edbe312988ae",
         "type": "tabs",
         "children": [
           {
-            "id": "b6deaafbf46ef784",
+            "id": "da3349b5f67ec1ab",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/6-Cinemática inversa y ejemplos.md"
+                "file": "Mate/Matemática 6/Prepa 6 de Marquina.md"
               },
               "icon": "excalidraw-icon",
-              "title": "6-Cinemática inversa y ejemplos"
-            }
-          },
-          {
-            "id": "70e295f76e5530d5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "5-DH Ejemplos y Cinemática Inversa"
+              "title": "Prepa 6 de Marquina"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,8 +70,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "a1ba9d58b1480639",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,12 +165,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +183,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70e295f76e5530d5",
+  "active": "da3349b5f67ec1ab",
   "lastOpenFiles": [
+    "Mate/Matemática 6/Prepa 5 de Marquina.svg",
+    "conflict-files-obsidian-git.md",
+    "Mecatrónica/9-Dinámica de un manipulador.md",
+    "Mecatrónica/8-Velocidad cinemática-Jacobiano.md",
+    "Mecatrónica/10-Formulación de Newton-Euler.md",
+    "Mate/Matemática 6/Prepa 6 de Marquina.md",
+    "Mate/Matemática 6/Prepa 5 de Marquina.md",
+    "Mate/Matemática 6/Guía 6.md",
+    "Mate/Matemática 6/Guía 5.md",
+    "Mate/Matemática 6/Guía 4.md",
+    "Comunicaciones/4-Modulación SSB.md",
+    "Comunicaciones/3-Modulación AM.md",
+    "Comunicaciones/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
+    "Attachments/image_208.png",
+    "Attachments/image_207.png",
+    "Attachments/image_206.png",
+    "Attachments/image_205.png",
+    "Attachments/image_204.png",
+    "Attachments/image_203.png",
+    "Attachments/image_202.png",
+    "Attachments/image_201.png",
+    "Attachments/image_200.png",
+    "Attachments/image_199.png",
+    "Tags",
     "Mecatrónica/6-Cinemática inversa y ejemplos.md",
     "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md",
     "Vault.md",
@@ -202,39 +223,15 @@
     "Mate/Matemática 6/Resumen.md",
     "Mate/Matemática 6/Matemática 6.md",
     "Mate/Matemática 6/Guía 3.md",
-    "Mate/Matemática 6/Guía 2.md",
-    "Mate/Matemática 6/Guía 1.md",
-    "Mate/Matemática 6/1-Campos conservativos e integrales de línea y superficie.md",
     "Mate/Matemática 6",
-    "Mate/Mate.md",
     "Mate",
-    "Excalidraw/Test.md",
-    "Excalidraw/Excalidraw.md",
     "Excalidraw",
-    "Comunicaciones/Comunicaciones.md",
-    "Comunicaciones/2-Equivalente pasa bajo.md",
-    "Comunicaciones/2-Equivalente Pasabajo notas de la clase.md",
-    "Comunicaciones/1-Intro.md",
-    "Comunicaciones/1-Ejercicios.md",
     "Comunicaciones",
-    "Attachments/img (9).png",
-    "Attachments/img (8).png",
-    "Attachments/img (7).png",
-    "Attachments/img (6).png",
-    "Attachments/img (5).png",
-    "Attachments/img (4).png",
-    "Attachments/img (3).png",
-    "Attachments/img (2).png",
-    "Attachments/img (16).png",
-    "Attachments/img (15).png",
     "Attachments",
-    "Mate 6/Guía 1.md",
-    "Mate 6/Matemática 6.md",
     "Señales y sistemas",
     "Images",
     "Mate 6",
     "Mate 6/Guía 1.canvas",
-    "Mate 6",
     "Untitled 1.canvas"
   ]
 }

@@ -41,6 +41,11 @@ $$
 $$
 Donde $$ \Phi(u,v) $$ es la parametrización y $$ ||\vec r_u \times \vec r_v|| = ||\Phi'(u) \times \Phi'(v)|| $$ con cada derivada de siendo la derivada de la parametrización respecto a la variable indicada
 
+- De campos vectoriales a superficies:
+$$
+\int\int_SF(x,y,z)\hat ndS = \int\int_D F(\Phi(u, v))\cdot(\vec r_u \times \vec r_v) dudv
+$$
+
 ## Segundo parcial con Libuska
 
 Con $$F = \Bigg(\begin{matrix}F_1\\ F_2\\ F_3 \end{matrix} \Bigg)$$
@@ -53,5 +58,8 @@ $$rot(F) = \Bigg(\begin{matrix}\frac{\partial F_3}{\partial y} - \frac{\partial 
 Sean $$F: \mathbb R^3 \rightarrow \mathbb R^3$$ región cerrada $$\Omega\subset\mathbb R^3$$
 $$Si \hspace{0.5em}F \hspace{0.5em} es \hspace{0.5em} \mathcal C^1 \hspace{0.5em} en \hspace{0.5em} \Omega\hspace{0.3em}\cup\hspace{0.3em}front\hspace{0.3em}\Omega \Rightarrow \int\int_{front\hspace{0.3em}\Omega\uparrow}<F, ds> = \int\int\int_\Omega div(F)dxdydz$$
 8- Teorema de Stokes:
- Sean $$F: \mathbb R^3 \rightarrow \mathbb R^3$$ superficie orientada $$S\uparrow$$ $$Si \hspace{0.5em}F \hspace{0.5em} es \hspace{0.5em} \mathcal C^1 \hspace{0.5em} en \hspace{0.5em} S\hspace{0.3em}\cup\hspace{0.3em}front\hspace{0.3em}S \Rightarrow \int_{front\hspace{0.3em}S\uparrow}<F, ds> = \int\int_S <rot(F), dS>$$ La orientación de $$S\uparrow$$ viene dada por la regal de la mano derecha
- 
+ Sean $$F: \mathbb R^3 \rightarrow \mathbb R^3$$ superficie orientada $$S\uparrow$$ $$Si \hspace{0.5em}F \hspace{0.5em} es \hspace{0.5em} \mathcal C^1 \hspace{0.5em} en \hspace{0.5em} S\hspace{0.3em}\cup\hspace{0.3em}front\hspace{0.3em}S \Rightarrow \int_{front\hspace{0.3em}S\uparrow}<F, ds> = \int\int_S <rot(F), dS>$$ La orientación de $$S\uparrow$$ viene dada por la regla de la mano derecha
+
+## Tercer parcial con Libuska
+
+https://complex-analysis.com/contenido/diferenciacion_compleja.html
