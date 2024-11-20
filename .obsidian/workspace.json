@@ -112,7 +112,7 @@
             }
           },
           {
-            "id": "dd3cc93341b61e5b",
+            "id": "0039ef7913689ec9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -210,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,8 +224,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b33626ca2e4d289",
+  "active": "0b5e36c795e63b06",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Comunicaciones/4-Modulación SSB.md",
     "Attachments/Pasted image 20241117183341.png",
     "Attachments/Pasted image 20241117182237.png",
