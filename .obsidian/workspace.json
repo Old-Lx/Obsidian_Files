@@ -59,8 +59,7 @@
               "title": "3-Modulación AM"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             }
           },
           {
-            "id": "e5d123b3667d8cf2",
+            "id": "dd3cc93341b61e5b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -123,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -226,7 +225,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8910bfa2669a7a0",
+  "active": "7b33626ca2e4d289",
   "lastOpenFiles": [
     "Comunicaciones/4-Modulación SSB.md",
     "Attachments/Pasted image 20241117183341.png",
