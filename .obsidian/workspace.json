@@ -59,7 +59,8 @@
               "title": "3-Modulación AM"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,7 +225,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b33626ca2e4d289",
+  "active": "d8910bfa2669a7a0",
   "lastOpenFiles": [
     "Mate/Matemática 6/Prepa 6 de Marquina.md.orig",
     "Mate/Matemática 6/Prepa 6 de Marquina_REMOTE_1646.md",
