@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,8 +226,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8910bfa2669a7a0",
+  "active": "b8c69f25ff252ae7",
   "lastOpenFiles": [
+    "Comunicaciones/3-Modulación AM.md",
     "Mate/Matemática 6/Prepa 6 de Marquina.md.orig",
     "Mate/Matemática 6/Prepa 6 de Marquina_REMOTE_1646.md",
     "Mate/Matemática 6/Prepa 6 de Marquina_LOCAL_1646.md",
@@ -244,7 +245,6 @@
     "Attachments/Pasted image 20241117165427.png",
     "Attachments/Pasted image 20241117163214.png",
     "Attachments/Pasted image 20241117163129.png",
-    "Comunicaciones/3-Modulación AM.md",
     "Attachments/Pasted image 20241117161447.png",
     "Attachments/Pasted image 20241117161332.png",
     "Mecatrónica/10-Formulación de Newton-Euler.md",
@@ -274,7 +274,6 @@
     "Attachments",
     "Mate",
     "Mate 6/Guía 1.canvas",
-    "Mate",
     "Untitled 1.canvas"
   ]
 }
