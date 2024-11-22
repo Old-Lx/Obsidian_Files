@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -226,7 +226,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3073c0813c7de73",
+  "active": "d8910bfa2669a7a0",
   "lastOpenFiles": [
     "Comunicaciones/4-Modulación SSB.md",
     "Comunicaciones/3-Modulación AM.md",
