@@ -10,14 +10,14 @@ Durante el análisis de este caso es más sencillo partir de su espectro y luego
 
 como $|X_-(f)|$ y $|X_+(f)|$ no son funciones pares, $x_-(t)$ y $x_+(t)$ son funciones complejas.
 
-Para que la fase de $X(f)$ sea impar $X_-(f)$ y $X_+(f)$ deben ser complejas conjugadas $X_-(f) = x_+^*(f)$ y por lo tanto $x_-(t) = x_+^*(t)$ tal que:
+Para que la fase de $X(f)$ sea impar $X_-(f)$ y $X_+(f)$ deben ser complejas conjugadas $X_-(f) = x_+^*(f)$ y por lo tanto $x_-(t) = x_+^*(t)$ tal que:Tant
 $$\Bigg\{\begin{array}{c} x_+(t) = \frac{1}{2}(x(t) + j\hat{x}(t)) \\ x_-(t) = \frac{1}{2}(x(t) - j\hat{x}(t))\end{array}$$ donde $\hat{x}(t)$ es la transformada de Hilbert de $x(t)$. ^ede2bc
 
 Si $X_+(f) = X(f)\cdot U(f)$ y $U(f)$ lo escribimos como $U(f) = \frac{1 + sign(f)}{2} \Rightarrow X_+(f) = X(f)\cdot \frac{1 + sign(f)}{2}$ y de allí, obtenemos que:
 $$X_+(f) = \frac{1}{2} X(f) + \frac{1}{2}X(f)sign(f)$$
 Luego comparando $x_+(t) = \frac{1}{2}x(t) + j\hat{x}(t)$ con $X_+(f) = \frac{1}{2}X(F) + \frac{1}{2}X(f)sign(f)$ rendremos:
 $$X_+(f) = \frac{1}{2}X(f) + \frac{j}{2} X_h(f) \Rightarrow X_h(f) = X(f)\Big[-jsign(f)\Big]$$
-donde $X_h(f)$ es la transformada de Fourier de la transformada de Hilbert de $x(t)$, se puede decir entonces:
+donde $X_h(f)$ es la transformada de Fourier de la transformada de Hilbert de $x(t)$, se  faltapuede decir entonces:
 $$X_h(f) = X(f)\cdot H_Q(f)$$
 donde $H_Q(f)$ se conoce como **filtro en cuadratura** o **transformador de Hilbert** , definido como:
 $$H_Q(f) = -jsign(f) = e^{-j\frac{\pi}{2}}sign(f)$$

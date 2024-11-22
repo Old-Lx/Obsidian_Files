@@ -31,6 +31,7 @@ donde $$A_c m x(t) \cos(\omega_c t) $$ es el mensaje modulado y $$A_c \cos(\omeg
 
 ### Espectro de la señal AM:
 
+
 Supongamos que el mensaje $$x(t)$$ ocupa un ancho de banda B como se muestra:
 ![[Pasted image 20241116075020.png]]
 siendo la señal AM $$x_{AM}(t) = A_c m x(t) \cos(\omega_c t) + A_c\cos(\omega_c t)$$ tal que al aplicar la transformada de Fourier:

@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -226,10 +226,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8c69f25ff252ae7",
+  "active": "d8910bfa2669a7a0",
   "lastOpenFiles": [
-    "Comunicaciones/3-Modulación AM.md",
     "Comunicaciones/4-Modulación SSB.md",
+    "Comunicaciones/3-Modulación AM.md",
     "Mate/Matemática 6/Prepa 6 de Marquina.md.orig",
     "Mate/Matemática 6/Prepa 6 de Marquina_REMOTE_1646.md",
     "Mate/Matemática 6/Prepa 6 de Marquina_LOCAL_1646.md",
