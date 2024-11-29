@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -185,6 +186,7 @@
   },
   "active": "c6d749ba95a85517",
   "lastOpenFiles": [
+    "Attachments/maxresdefault.jpg",
     "Attachments/Mecanum_wheel_control_principle.svg.png",
     "Mecatrónica/Diseño de Robot.md",
     "Mecatrónica/11-Problema de las trayectorias.md",
@@ -206,7 +208,6 @@
     "Attachments/Pasted image 20241117163214.png",
     "Attachments/Pasted image 20241117163129.png",
     "Attachments/Pasted image 20241117161447.png",
-    "Attachments/Pasted image 20241117161332.png",
     "Mecatrónica/10-Formulación de Newton-Euler.md",
     "Mate/Matemática 6/Prepa 6 de Marquina.md",
     "Comunicaciones/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
