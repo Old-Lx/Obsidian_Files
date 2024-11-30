@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "53073622adf96fae",
+        "id": "10d5129095e757a7",
         "type": "tabs",
         "children": [
           {
-            "id": "c6d749ba95a85517",
+            "id": "6177f5566df62f38",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/11-Problema de las trayectorias.md"
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
               },
               "icon": "excalidraw-icon",
-              "title": "11-Problema de las trayectorias"
+              "title": "4-Representaciones eje-ángulo y transformaciones homogéneas"
             }
           },
           {
-            "id": "1190083e4cf5adfc",
+            "id": "bd23f318a3a65a93",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/11-Problema de las trayectorias.md"
+                "file": "Excalidraw/Test.md"
               },
               "icon": "excalidraw-icon",
-              "title": "11-Problema de las trayectorias"
+              "title": "Test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6d749ba95a85517",
+  "active": "bd23f318a3a65a93",
   "lastOpenFiles": [
+    "Attachments/dentificacion-de-juntas-y-ejes-de-rotacion-del-robot-PUMA-761-1.png",
     "Attachments/image_230.png",
     "Attachments/image_229.png",
     "Attachments/image_228.png",
@@ -209,7 +211,6 @@
     "Attachments/image_223.png",
     "Attachments/image_222.png",
     "Attachments/image_221.png",
-    "Attachments/image_220.png",
     "Mecatrónica/Diseño de Robot.md",
     "Mecatrónica/11-Problema de las trayectorias.md",
     "Comunicaciones/4-Modulación SSB.md",
