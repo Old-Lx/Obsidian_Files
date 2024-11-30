@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9deafaadb50bf0ef",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "4-Representaciones eje-ángulo y transformaciones homogéneas"
+            }
+          },
+          {
             "id": "bd23f318a3a65a93",
             "type": "leaf",
             "state": {
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
