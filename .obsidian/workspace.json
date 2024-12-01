@@ -42,9 +42,21 @@
               "icon": "excalidraw-icon",
               "title": "Test"
             }
+          },
+          {
+            "id": "97f52b54616cb1e3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-30 21.04.41.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-30 21.04.41.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -209,20 +220,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd23f318a3a65a93",
+  "active": "97f52b54616cb1e3",
   "lastOpenFiles": [
-    "Attachments/dentificacion-de-juntas-y-ejes-de-rotacion-del-robot-PUMA-761-1.png",
-    "Attachments/image_230.png",
-    "Attachments/image_229.png",
-    "Attachments/image_228.png",
+    "Attachments/image_242.png",
+    "Attachments/image_241.png",
+    "Attachments/image_240.png",
+    "Attachments/image_239.png",
+    "Attachments/image_238.png",
+    "Attachments/image_237.png",
+    "Attachments/image_236.png",
+    "Attachments/image_235.png",
+    "Attachments/image_234.png",
+    "Attachments/image_233.png",
+    "Attachments/image_232.png",
+    "Excalidraw/Drawing 2024-11-30 21.04.41.excalidraw.md",
     "Mecatrónica/11-Problema de las trayectorias.md",
-    "Attachments/image_227.png",
-    "Attachments/image_226.png",
-    "Attachments/image_225.png",
-    "Attachments/image_224.png",
-    "Attachments/image_223.png",
-    "Attachments/image_222.png",
-    "Attachments/image_221.png",
     "Mecatrónica/Diseño de Robot.md",
     "Mecatrónica/11-Problema de las trayectorias.md",
     "Comunicaciones/4-Modulación SSB.md",
@@ -248,7 +260,6 @@
     "Mate/Matemática 6/Prepa 5 de Marquina.md",
     "Mate/Matemática 6/Prepa 5 de Marquina.md",
     "Mate/Matemática 6/Guía 5.md",
-    "Mecatrónica/9-Dinámica de un manipulador.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
