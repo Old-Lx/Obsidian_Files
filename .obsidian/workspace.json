@@ -42,21 +42,9 @@
               "icon": "excalidraw-icon",
               "title": "Test"
             }
-          },
-          {
-            "id": "97f52b54616cb1e3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-11-30 21.04.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-30 21.04.41.excalidraw"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +97,7 @@
             }
           },
           {
-            "id": "96684b8e5e6f1767",
+            "id": "da2316a06bfff3fe",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -221,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97f52b54616cb1e3",
+  "active": "bd23f318a3a65a93",
   "lastOpenFiles": [
     "Attachments/image_242.png",
     "Attachments/image_241.png",
