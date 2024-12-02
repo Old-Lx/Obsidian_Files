@@ -25,26 +25,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
+                "file": "Excalidraw/Drawing 2024-11-30 21.04.41.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "4-Representaciones eje-ángulo y transformaciones homogéneas"
-            }
-          },
-          {
-            "id": "bd23f318a3a65a93",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Test.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Test"
+              "title": "Drawing 2024-11-30 21.04.41.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,7 @@
             }
           },
           {
-            "id": "da2316a06bfff3fe",
+            "id": "5f0c75c704356e33",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -110,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -209,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd23f318a3a65a93",
+  "active": "9deafaadb50bf0ef",
   "lastOpenFiles": [
     "Attachments/image_246.png",
     "Attachments/image_245.png",
