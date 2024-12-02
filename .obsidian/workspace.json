@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "10d5129095e757a7",
+        "id": "c3d9572936225038",
         "type": "tabs",
         "children": [
           {
-            "id": "6177f5566df62f38",
+            "id": "d4005b06988f6cfe",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md"
+                "file": "Mecatrónica/12-Planificación de Trayectorias.md"
               },
               "icon": "excalidraw-icon",
-              "title": "5-DH Ejemplos y Cinemática Inversa"
-            }
-          },
-          {
-            "id": "9deafaadb50bf0ef",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-11-30 21.04.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-30 21.04.41.excalidraw"
+              "title": "12-Planificación de Trayectorias"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,7 @@
             }
           },
           {
-            "id": "5f0c75c704356e33",
+            "id": "06dd0dd2815cbfd7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -94,11 +81,13 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -196,8 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9deafaadb50bf0ef",
+  "active": "d4005b06988f6cfe",
   "lastOpenFiles": [
+    "Attachments/image_248.png",
+    "Attachments/image_247.png",
+    "Mecatrónica/12-Planificación de Trayectorias.md",
     "Attachments/image_246.png",
     "Attachments/image_245.png",
     "Attachments/image_244.png",
@@ -207,9 +199,7 @@
     "Attachments/image_240.png",
     "Attachments/image_239.png",
     "Attachments/image_238.png",
-    "Attachments/image_237.png",
-    "Attachments/image_236.png",
-    "Excalidraw/Drawing 2024-11-30 21.04.41.excalidraw.md",
+    "Excalidraw/Lol builds.md",
     "Mecatrónica/11-Problema de las trayectorias.md",
     "Mecatrónica/Diseño de Robot.md",
     "Mecatrónica/11-Problema de las trayectorias.md",
@@ -235,7 +225,6 @@
     "Mate/Matemática 6/Guía 6.md",
     "Mate/Matemática 6/Prepa 5 de Marquina.md",
     "Mate/Matemática 6/Prepa 5 de Marquina.md",
-    "Mate/Matemática 6/Guía 5.md",
     "Mate/Matemática 6",
     "Excalidraw",
     "Tags",
