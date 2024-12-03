@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/12-Planificación de Trayectorias.md"
+                "file": "Excalidraw/Lol builds.md"
               },
               "icon": "excalidraw-icon",
-              "title": "12-Planificación de Trayectorias"
+              "title": "Lol builds"
             }
           },
           {
@@ -84,7 +84,7 @@
             }
           },
           {
-            "id": "06dd0dd2815cbfd7",
+            "id": "138a322cd05721ed",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -93,13 +93,11 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
