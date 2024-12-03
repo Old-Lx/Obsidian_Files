@@ -18,6 +18,18 @@
               "icon": "excalidraw-icon",
               "title": "12-Planificación de Trayectorias"
             }
+          },
+          {
+            "id": "de52bce3564cdcc7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/11-Problema de las trayectorias.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "11-Problema de las trayectorias"
+            }
           }
         ]
       }
