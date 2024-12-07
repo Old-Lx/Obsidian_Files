@@ -8,27 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4005b06988f6cfe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Lol builds.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Lol builds"
-            }
-          },
-          {
             "id": "de52bce3564cdcc7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/11-Problema de las trayectorias.md"
+                "file": "Mecatrónica/Diseño de Robot.md"
               },
               "icon": "excalidraw-icon",
-              "title": "11-Problema de las trayectorias"
+              "title": "Diseño de Robot"
+            }
+          },
+          {
+            "id": "786b1ce6c4e8a6fe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "4-Representaciones eje-ángulo y transformaciones homogéneas"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -196,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4005b06988f6cfe",
+  "active": "de52bce3564cdcc7",
   "lastOpenFiles": [
+    "Attachments/image_281.png",
     "Attachments/image_280.png",
     "Attachments/image_279.png",
     "Attachments/image_278.png",
@@ -208,7 +210,6 @@
     "Attachments/image_273.png",
     "Attachments/image_272.png",
     "Attachments/image_271.png",
-    "Attachments/image_270.png",
     "Mecatrónica/12-Planificación de Trayectorias.md",
     "Excalidraw/Lol builds.md",
     "Mecatrónica/11-Problema de las trayectorias.md",
