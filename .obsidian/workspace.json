@@ -30,6 +30,18 @@
               "icon": "excalidraw-icon",
               "title": "4-Representaciones eje-ángulo y transformaciones homogéneas"
             }
+          },
+          {
+            "id": "e1c522d2b93d079e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "5-DH Ejemplos y Cinemática Inversa"
+            }
           }
         ]
       }
