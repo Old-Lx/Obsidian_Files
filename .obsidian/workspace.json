@@ -91,8 +91,7 @@
               "title": "12-Planificación de Trayectorias"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +144,7 @@
             }
           },
           {
-            "id": "c4ad0964d5be6305",
+            "id": "0b8eb7593d5e22ca",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -257,7 +256,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1c522d2b93d079e",
+  "active": "de52bce3564cdcc7",
   "lastOpenFiles": [
     "Attachments/image_281.png",
     "Attachments/image_280.png",
