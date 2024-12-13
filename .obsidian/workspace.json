@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "786b1ce6c4e8a6fe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "4-Representaciones eje-ángulo y transformaciones homogéneas"
-            }
-          },
-          {
             "id": "e1c522d2b93d079e",
             "type": "leaf",
             "state": {
@@ -90,8 +78,21 @@
               "icon": "excalidraw-icon",
               "title": "12-Planificación de Trayectorias"
             }
+          },
+          {
+            "id": "8c18b3f943b124e5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "3.1-Actuadores, Transmisiones y Reductores"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -257,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de52bce3564cdcc7",
+  "active": "e1c522d2b93d079e",
   "lastOpenFiles": [
     "Attachments/what-is-meant-by-robotic-arm-design.jpg",
     "Attachments/6-axis-robot-ur-blog.jpg",
