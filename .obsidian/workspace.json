@@ -25,73 +25,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Mecatrónica/8-Velocidad cinemática-Jacobiano.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "8-Velocidad cinemática-Jacobiano"
-            }
-          },
-          {
-            "id": "3e422964aafbae07",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/9-Dinámica de un manipulador.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "9-Dinámica de un manipulador"
-            }
-          },
-          {
-            "id": "f281ff829d563bbd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/10-Formulación de Newton-Euler.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "10-Formulación de Newton-Euler"
-            }
-          },
-          {
-            "id": "ddb3834fd61871eb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/11-Problema de las trayectorias.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "11-Problema de las trayectorias"
-            }
-          },
-          {
-            "id": "a5c33ec9b7b65c6c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
                 "file": "Mecatrónica/12-Planificación de Trayectorias.md"
               },
               "icon": "excalidraw-icon",
               "title": "12-Planificación de Trayectorias"
             }
-          },
-          {
-            "id": "8c18b3f943b124e5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "3.1-Actuadores, Transmisiones y Reductores"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +85,7 @@
             }
           },
           {
-            "id": "d1b6a2bd8e5c8f95",
+            "id": "7a0ed95f6f308133",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -256,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de52bce3564cdcc7",
+  "active": "e1c522d2b93d079e",
   "lastOpenFiles": [
     "Attachments/what-is-meant-by-robotic-arm-design.jpg",
     "Attachments/6-axis-robot-ur-blog.jpg",
