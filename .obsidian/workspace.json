@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -258,6 +259,8 @@
   },
   "active": "de52bce3564cdcc7",
   "lastOpenFiles": [
+    "Attachments/what-is-meant-by-robotic-arm-design.jpg",
+    "Attachments/6-axis-robot-ur-blog.jpg",
     "Attachments/image_281.png",
     "Attachments/image_280.png",
     "Attachments/image_279.png",
@@ -267,8 +270,6 @@
     "Attachments/image_275.png",
     "Attachments/image_274.png",
     "Attachments/image_273.png",
-    "Attachments/image_272.png",
-    "Attachments/image_271.png",
     "Mecatrónica/12-Planificación de Trayectorias.md",
     "Excalidraw/Lol builds.md",
     "Mecatrónica/11-Problema de las trayectorias.md",
