@@ -13,13 +13,26 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Ingeniería Electrónica"
+                "path": "Ingeniería Electrónica/Comunicaciones/Comu II"
               },
               "icon": "lucide-file",
-              "title": "Ingeniería Electrónica"
+              "title": "Comu II"
+            }
+          },
+          {
+            "id": "8e83188683cbf049",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 1 - Gram Schmidt.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Clase 1 - Gram Schmidt"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -183,12 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af5843a2939bbcbd",
+  "active": "8e83188683cbf049",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 1 - Gram Schmidt.md",
+    "Ingeniería Electrónica/Ingeniería Electrónica.md",
+    "Ingeniería Electrónica/Comunicaciones/Comu II/Untitled.md",
     "Ingeniería Electrónica/Mate/Mate.md",
     "1-Campos conservativos e integrales de línea y superficie.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/1-Intro.md",
-    "Ingeniería Electrónica/Ingeniería Electrónica.md",
     "Ingeniería Electrónica",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Comu II.md",
     "Ingeniería Electrónica/Comunicaciones/Comu II",
@@ -224,8 +240,6 @@
     "Ingeniería Electrónica/Comunicaciones/Comu I/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
     "Ingeniería Electrónica/Mate/Matemática 6/Resumen.md",
     "Excalidraw/Excalidraw.md",
-    "Comunicaciones/3-Equivalente Pasabajo.md",
-    "Vault.md",
     "Ingeniería Electrónica/Mate/Matemática 6",
     "Excalidraw",
     "Tags",
