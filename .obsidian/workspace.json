@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c3d9572936225038",
+        "id": "282418f5b511168e",
         "type": "tabs",
         "children": [
           {
-            "id": "de52bce3564cdcc7",
+            "id": "70b1462204f9d109",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "mk-space",
               "state": {
-                "file": "Mecatrónica/Diseño de Robot.md"
+                "path": "Ingeniería Electrónica"
               },
-              "icon": "excalidraw-icon",
-              "title": "Diseño de Robot"
-            }
-          },
-          {
-            "id": "e1c522d2b93d079e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mecatrónica/12-Planificación de Trayectorias.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "12-Planificación de Trayectorias"
+              "icon": "lucide-file",
+              "title": "Ingeniería Electrónica"
             }
           }
         ]
@@ -195,8 +183,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de52bce3564cdcc7",
+  "active": "af5843a2939bbcbd",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Mate/Mate.md",
+    "1-Campos conservativos e integrales de línea y superficie.md",
+    "Ingeniería Electrónica/Comunicaciones/Comu I/1-Intro.md",
+    "Ingeniería Electrónica/Ingeniería Electrónica.md",
+    "Ingeniería Electrónica",
+    "Ingeniería Electrónica/Comunicaciones/Comu II/Comu II.md",
+    "Ingeniería Electrónica/Comunicaciones/Comu II",
+    "Comunicaciones/Untitled.md",
+    "Ingeniería Electrónica/Comunicaciones/Comu I/Comu I.md",
+    "Ingeniería Electrónica/Comunicaciones/Comu I",
     "Attachments/what-is-meant-by-robotic-arm-design.jpg",
     "Attachments/6-axis-robot-ur-blog.jpg",
     "Attachments/image_281.png",
@@ -207,42 +205,32 @@
     "Attachments/image_276.png",
     "Attachments/image_275.png",
     "Attachments/image_274.png",
-    "Attachments/image_273.png",
-    "Mecatrónica/12-Planificación de Trayectorias.md",
+    "Ingeniería Electrónica/Mecatrónica/12-Planificación de Trayectorias.md",
     "Excalidraw/Lol builds.md",
-    "Mecatrónica/11-Problema de las trayectorias.md",
-    "Mecatrónica/Diseño de Robot.md",
-    "Mecatrónica/11-Problema de las trayectorias.md",
-    "Comunicaciones/4-Modulación SSB.md",
-    "Comunicaciones/3-Modulación AM.md",
-    "Mate/Matemática 6/Prepa 6 de Marquina.md.orig",
+    "Ingeniería Electrónica/Mecatrónica/11-Problema de las trayectorias.md",
+    "Ingeniería Electrónica/Mecatrónica/Diseño de Robot.md",
+    "Ingeniería Electrónica/Mecatrónica/11-Problema de las trayectorias.md",
+    "Ingeniería Electrónica/Comunicaciones/Comu I/4-Modulación SSB.md",
+    "Ingeniería Electrónica/Comunicaciones/Comu I/3-Modulación AM.md",
+    "Ingeniería Electrónica/Mate/Matemática 6/Prepa 6 de Marquina.md.orig",
     "Mate/Matemática 6/Prepa 6 de Marquina_REMOTE_1646.md",
     "Mate/Matemática 6/Prepa 6 de Marquina_LOCAL_1646.md",
     "Mate/Matemática 6/Prepa 6 de Marquina_BASE_1646.md",
     "Mate/Matemática 6/Prepa 6 de Marquina_BACKUP_1646.md",
     "mintty.exe.stackdump",
     "conflict-files-obsidian-git.md",
-    "Mecatrónica/10-Formulación de Newton-Euler.md",
-    "Mate/Matemática 6/Prepa 6 de Marquina.md",
-    "Comunicaciones/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
-    "Mate/Matemática 6/Resumen.md",
+    "Ingeniería Electrónica/Mecatrónica/10-Formulación de Newton-Euler.md",
+    "Ingeniería Electrónica/Mate/Matemática 6/Prepa 6 de Marquina.md",
+    "Ingeniería Electrónica/Comunicaciones/Comu I/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
+    "Ingeniería Electrónica/Mate/Matemática 6/Resumen.md",
     "Excalidraw/Excalidraw.md",
     "Comunicaciones/3-Equivalente Pasabajo.md",
-    "Comunicaciones/1-Intro.md",
     "Vault.md",
-    "Excalidraw/Drawing 2024-11-16 06.26.15.excalidraw.md",
-    "Comunicaciones/Comunicaciones.md",
-    "Mate/Matemática 6/Guía 6.md",
-    "Mate/Matemática 6/Prepa 5 de Marquina.md",
-    "Mate/Matemática 6/Prepa 5 de Marquina.md",
-    "Mate/Matemática 6",
+    "Ingeniería Electrónica/Mate/Matemática 6",
     "Excalidraw",
     "Tags",
     "Mecatrónica/Excalidraw",
-    "Mecatrónica",
-    "Comunicaciones",
-    "Attachments",
-    "Mate",
+    "Ingeniería Electrónica/Mecatrónica",
     "Mate 6/Guía 1.canvas",
     "Untitled 1.canvas"
   ]
