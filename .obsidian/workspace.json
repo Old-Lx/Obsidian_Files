@@ -23,12 +23,14 @@
             "id": "8e83188683cbf049",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 1 - Gram Schmidt.md"
+                "file": "Notas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Clase 1 - Gram Schmidt"
+              "icon": "lucide-file",
+              "title": "Notas"
             }
           }
         ],
@@ -99,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -199,9 +200,10 @@
   },
   "active": "8e83188683cbf049",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Comunicaciones/Comu II/Untitled.md",
+    "Notas.md",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 1 - Gram Schmidt.md",
     "Ingeniería Electrónica/Ingeniería Electrónica.md",
-    "Ingeniería Electrónica/Comunicaciones/Comu II/Untitled.md",
     "Ingeniería Electrónica/Mate/Mate.md",
     "1-Campos conservativos e integrales de línea y superficie.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/1-Intro.md",
@@ -239,7 +241,6 @@
     "Ingeniería Electrónica/Mate/Matemática 6/Prepa 6 de Marquina.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
     "Ingeniería Electrónica/Mate/Matemática 6/Resumen.md",
-    "Excalidraw/Excalidraw.md",
     "Ingeniería Electrónica/Mate/Matemática 6",
     "Excalidraw",
     "Tags",
