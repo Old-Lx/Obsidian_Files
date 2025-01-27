@@ -13,13 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 4/Cálculos Informe I.md"
+                "file": "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 1 - Gram Schmidt.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Cálculos Informe I"
+              "title": "Clase 1 - Gram Schmidt"
+            }
+          },
+          {
+            "id": "c21ada8cf998c9b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 2 - Continuación GS.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Clase 2 - Continuación GS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -183,10 +197,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ce3e046f51ab190",
+  "active": "c21ada8cf998c9b7",
   "lastOpenFiles": [
+    "Attachments/image_298.png",
+    "Attachments/image_297.png",
+    "Attachments/image_296.png",
+    "Attachments/image_295.png",
+    "Attachments/image_294.png",
     "Ingeniería Electrónica/Electrónica/Electro 4/Cálculos Informe I.svg",
-    "Excalidraw/Drawing 2025-01-26 20.19.52.excalidraw.md",
+    "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 2 - Continuación GS.md",
     "Attachments/image_293.png",
     "Ingeniería Electrónica/Electrónica/Electro 4/Cálculos Informe I.md",
     "Ingeniería Electrónica/Electrónica/Electro 4",
@@ -195,11 +214,6 @@
     "Attachments/image_291.png",
     "Attachments/image_290.png",
     "Attachments/image_289.png",
-    "Attachments/image_288.png",
-    "Attachments/image_287.png",
-    "Attachments/image_286.png",
-    "Attachments/image_285.png",
-    "Attachments/image_284.png",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Untitled.md",
     "Notas.md",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 1 - Gram Schmidt.md",
