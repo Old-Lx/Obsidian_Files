@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -186,6 +185,8 @@
   },
   "active": "7ce3e046f51ab190",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Electrónica/Electro 4/Cálculos Informe I.svg",
+    "Excalidraw/Drawing 2025-01-26 20.19.52.excalidraw.md",
     "Attachments/image_293.png",
     "Ingeniería Electrónica/Electrónica/Electro 4/Cálculos Informe I.md",
     "Ingeniería Electrónica/Electrónica/Electro 4",
@@ -199,7 +200,6 @@
     "Attachments/image_286.png",
     "Attachments/image_285.png",
     "Attachments/image_284.png",
-    "Attachments/image_283.png",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Untitled.md",
     "Notas.md",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 1 - Gram Schmidt.md",
@@ -228,7 +228,6 @@
     "mintty.exe.stackdump",
     "conflict-files-obsidian-git.md",
     "Ingeniería Electrónica/Mecatrónica/10-Formulación de Newton-Euler.md",
-    "Ingeniería Electrónica/Mate/Matemática 6/Prepa 6 de Marquina.md",
     "Ingeniería Electrónica/Mate/Matemática 6",
     "Excalidraw",
     "Tags",
