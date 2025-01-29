@@ -8,15 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ce3e046f51ab190",
+            "id": "96ef7086e31aea5e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 1 - Gram Schmidt.md"
+                "file": "Ingeniería Electrónica/Mate/Matemática 5/Práctica parcial 1 Manuel Gómez.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Clase 1 - Gram Schmidt"
+              "title": "Práctica parcial 1 Manuel Gómez"
+            }
+          },
+          {
+            "id": "266ad008fc30a553",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 3 - Continuación de códigos de línea y DEP.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Clase 3 - Continuación de códigos de línea y DEP"
             }
           },
           {
@@ -31,8 +43,7 @@
               "title": "Clase 2 - Continuación GS y Códigos de Línea"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             }
           },
           {
-            "id": "6698c51066789092",
+            "id": "404ac7f7ba2bde39",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -197,8 +208,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c21ada8cf998c9b7",
+  "active": "96ef7086e31aea5e",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 3 - Continuación de códigos de línea y DEP.md",
+    "Ingeniería Electrónica/Mate/Matemática 5/Práctica parcial 1 Manuel Gómez.md",
+    "Ingeniería Electrónica/Mate/Matemática 5/Untitled.md",
+    "Ingeniería Electrónica/Mate/Matemática 5",
+    "Attachments/image_315.png",
+    "Attachments/image_314.png",
     "Attachments/image_313.png",
     "Attachments/image_312.png",
     "Attachments/image_311.png",
@@ -207,9 +224,6 @@
     "Attachments/image_308.png",
     "Attachments/image_307.png",
     "Attachments/image_306.png",
-    "Attachments/image_305.png",
-    "Attachments/image_304.png",
-    "Attachments/image_303.png",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 2 - Continuación GS y Códigos de Línea.md",
     "Ingeniería Electrónica/Electrónica/Electro 4/Cálculos Informe I.md",
     "Ingeniería Electrónica/Electrónica/Electro 4",
@@ -240,11 +254,8 @@
     "Mate/Matemática 6/Prepa 6 de Marquina_BASE_1646.md",
     "Mate/Matemática 6/Prepa 6 de Marquina_BACKUP_1646.md",
     "mintty.exe.stackdump",
-    "conflict-files-obsidian-git.md",
-    "Ingeniería Electrónica/Mecatrónica/10-Formulación de Newton-Euler.md",
     "Ingeniería Electrónica/Mate/Matemática 6",
     "Excalidraw",
-    "Tags",
     "Mate 6/Guía 1.canvas",
     "Untitled 1.canvas"
   ]
