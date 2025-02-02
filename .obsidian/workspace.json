@@ -37,14 +37,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 2 - Continuación GS y Códigos de Línea.md"
+                "file": "Ingeniería Electrónica/Electrónica/Electro 4/Cálculos Informe I.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Clase 2 - Continuación GS y Códigos de Línea"
+              "title": "Cálculos Informe I"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "266ad008fc30a553",
+  "active": "c21ada8cf998c9b7",
   "lastOpenFiles": [
     "Attachments/image_318.png",
     "Attachments/image_317.png",
