@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "bfabcbc8427f5058",
+            "id": "d3546b47a3324580",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -209,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c21ada8cf998c9b7",
+  "active": "266ad008fc30a553",
   "lastOpenFiles": [
     "Attachments/image_318.png",
     "Attachments/image_317.png",
