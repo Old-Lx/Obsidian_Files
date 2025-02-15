@@ -42,9 +42,21 @@
               "icon": "excalidraw-icon",
               "title": "Cálculos Informe I"
             }
+          },
+          {
+            "id": "5f0b918906517c75",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ingeniería Electrónica/Mate/Matemática 5/Parcial 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Parcial 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             }
           },
           {
-            "id": "2a613119705f1817",
+            "id": "8cebd67417b80c0f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -209,8 +221,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "266ad008fc30a553",
+  "active": "5f0b918906517c75",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Mate/Matemática 5/Parcial 1.md",
     "Attachments/image_343.png",
     "Attachments/image_342.png",
     "Attachments/image_341.png",
@@ -221,7 +234,6 @@
     "Attachments/image_336.png",
     "Attachments/image_335.png",
     "Attachments/image_334.png",
-    "Attachments/image_333.png",
     "Ingeniería Electrónica/Comunicaciones/Comu I/3-Modulación AM.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/1-Intro.md",
