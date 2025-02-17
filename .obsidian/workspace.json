@@ -42,21 +42,9 @@
               "icon": "excalidraw-icon",
               "title": "Cálculos Informe I"
             }
-          },
-          {
-            "id": "5f0b918906517c75",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Ingeniería Electrónica/Mate/Matemática 5/Parcial 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Parcial 1"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +97,7 @@
             }
           },
           {
-            "id": "8cebd67417b80c0f",
+            "id": "e513b74c80bd5e8a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -122,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -221,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f0b918906517c75",
+  "active": "c21ada8cf998c9b7",
   "lastOpenFiles": [
     "Attachments/image_349.png",
     "Attachments/image_348.png",
