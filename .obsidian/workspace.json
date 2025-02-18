@@ -37,14 +37,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Test.md"
+                "file": "Ingeniería Electrónica/Electrónica/Electro 4/Cálculos Informe I.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Test"
+              "title": "Cálculos Informe I"
+            }
+          },
+          {
+            "id": "37bfb485539cfe1c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ingeniería Electrónica/Electrónica/Electro 4/3.2 - Configuración reductor-elevador inversor (buck-boost).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "3.2 - Configuración reductor-elevador inversor (buck-boost)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,8 +221,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c21ada8cf998c9b7",
+  "active": "37bfb485539cfe1c",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Electrónica/Electro 4/3.2 - Configuración reductor-elevador inversor (buck-boost).md",
     "Attachments/image_352.png",
     "Attachments/image_351.png",
     "Attachments/image_350.png",
@@ -222,7 +235,6 @@
     "Attachments/image_344.png",
     "Ingeniería Electrónica/Mate/Matemática 5/Parcial 1.md",
     "Attachments/image_343.png",
-    "Attachments/image_342.png",
     "Ingeniería Electrónica/Comunicaciones/Comu I/3-Modulación AM.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/1-Intro.md",
