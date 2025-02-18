@@ -37,10 +37,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 4/Cálculos Informe I.md"
+                "file": "Excalidraw/Test.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Cálculos Informe I"
+              "title": "Test"
             }
           }
         ],
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "e513b74c80bd5e8a",
+            "id": "512c1e0701381688",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -210,6 +211,9 @@
   },
   "active": "c21ada8cf998c9b7",
   "lastOpenFiles": [
+    "Attachments/image_352.png",
+    "Attachments/image_351.png",
+    "Attachments/image_350.png",
     "Attachments/image_349.png",
     "Attachments/image_348.png",
     "Attachments/image_347.png",
@@ -219,9 +223,6 @@
     "Ingeniería Electrónica/Mate/Matemática 5/Parcial 1.md",
     "Attachments/image_343.png",
     "Attachments/image_342.png",
-    "Attachments/image_341.png",
-    "Attachments/image_340.png",
-    "Attachments/image_339.png",
     "Ingeniería Electrónica/Comunicaciones/Comu I/3-Modulación AM.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/1-Intro.md",
