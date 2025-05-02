@@ -30,33 +30,9 @@
               "icon": "excalidraw-icon",
               "title": "1E- Definiciones"
             }
-          },
-          {
-            "id": "c21ada8cf998c9b7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 4/Cálculos Informe I.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Cálculos Informe I"
-            }
-          },
-          {
-            "id": "37bfb485539cfe1c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 4/3.2 - Configuración reductor-elevador inversor (buck-boost).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "3.2 - Configuración reductor-elevador inversor (buck-boost)"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +85,7 @@
             }
           },
           {
-            "id": "f4d5f3fbb49725b6",
+            "id": "30bcdd7ebb19189f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -122,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -221,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37bfb485539cfe1c",
+  "active": "266ad008fc30a553",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Electrónica/Electro 6",
     "Ingeniería Electrónica/Electrónica/Electro 4/3.2 - Configuración reductor-elevador inversor (buck-boost).md",
     "Attachments/image_352.png",
     "Attachments/image_351.png",
@@ -265,7 +241,6 @@
     "Ingeniería Electrónica/Mecatrónica/11-Problema de las trayectorias.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/4-Modulación SSB.md",
     "Ingeniería Electrónica/Mate/Matemática 6/Prepa 6 de Marquina.md.orig",
-    "Mate/Matemática 6/Prepa 6 de Marquina_REMOTE_1646.md",
     "mintty.exe.stackdump",
     "Ingeniería Electrónica/Mate/Matemática 6",
     "Excalidraw",
