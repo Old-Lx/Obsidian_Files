@@ -21,5 +21,8 @@ Es una red de computadoras autónomas conectadas entre sí mediante diversos med
 - Destino: Recibe los datos.
 
 ## Unidades de medición
-- Transmisión: Se usan potencias de 10 para tasas de transferencia, es decir, 1Mbps = 1.000.000bps (10^6)
-- Almacenamiento o memoria: Se usan potencias de 2, es decir, 1KB = 1024 Bytes (2^10 )
+- Transmisión: Se usan potencias de 10 para tasas de transferencia, es decir, 1Mbps = 1.000.000bps ($10^6$)
+- Almacenamiento o memoria: Se usan potencias de 2, es decir, 1KB = 1024 Bytes ($2^{10}$)
+
+### Importante: 
+"B"es para bytes y "b" para bits, donde 1Byte = 8bits

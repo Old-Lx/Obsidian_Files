@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/1 - Conceptos Básicos.md",
+                "file": "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/2 - Clasificación de redes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Conceptos Básicos"
+              "title": "2 - Clasificación de redes"
             }
           }
         ]
@@ -188,9 +188,18 @@
   },
   "active": "266ad008fc30a553",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250503075225.png",
+    "Attachments/Pasted image 20250503075044.png",
+    "Attachments/Pasted image 20250503074400.png",
+    "Attachments/Pasted image 20250503073558.png",
+    "Attachments/Pasted image 20250503073250.png",
+    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/1 - Conceptos Básicos.md",
+    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/2 - Clasificación de redes.md",
+    "Ingeniería Electrónica/Comunicaciones/Comu I/4-Modulación SSB.md",
+    "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 1 - Gram Schmidt.md",
+    "Ingeniería Electrónica/Comunicaciones/Comu I/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
     "Attachments/Pasted image 20250503071538.png",
     "Ingeniería Electrónica/Comunicaciones/Untitled.md",
-    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/1 - Conceptos Básicos.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/Redes de Computadoras.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras",
     "Ingeniería Electrónica/Comunicaciones/Redes.md",
@@ -201,14 +210,8 @@
     "Attachments/image_350.png",
     "Attachments/image_349.png",
     "Attachments/image_348.png",
-    "Attachments/image_347.png",
-    "Attachments/image_346.png",
-    "Attachments/image_345.png",
-    "Attachments/image_344.png",
     "Ingeniería Electrónica/Mate/Matemática 5/Parcial 1.md",
-    "Attachments/image_343.png",
     "Ingeniería Electrónica/Comunicaciones/Comu I/3-Modulación AM.md",
-    "Ingeniería Electrónica/Comunicaciones/Comu I/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/1-Intro.md",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 3 - Continuación de códigos de línea y DEP.md",
     "Ingeniería Electrónica/Mate/Matemática 5/Práctica parcial 1 Manuel Gómez.md",
@@ -220,7 +223,6 @@
     "Ingeniería Electrónica/Electrónica",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Untitled.md",
     "Notas.md",
-    "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 1 - Gram Schmidt.md",
     "Ingeniería Electrónica/Ingeniería Electrónica.md",
     "Ingeniería Electrónica/Mate/Mate.md",
     "1-Campos conservativos e integrales de línea y superficie.md",
@@ -230,8 +232,6 @@
     "Comunicaciones/Untitled.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/Comu I.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I",
-    "Ingeniería Electrónica/Mecatrónica/12-Planificación de Trayectorias.md",
-    "Excalidraw/Lol builds.md",
     "Ingeniería Electrónica/Mate/Matemática 6/Prepa 6 de Marquina.md.orig",
     "mintty.exe.stackdump",
     "Mate 6/Guía 1.canvas",
