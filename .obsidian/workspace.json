@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96ef7086e31aea5e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Ingeniería Electrónica/Mate/Matemática 5/Práctica parcial 1 Manuel Gómez.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Práctica parcial 1 Manuel Gómez"
-            }
-          },
-          {
             "id": "266ad008fc30a553",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Comunicaciones/Comu I/1E- Definiciones.md"
+                "file": "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/1 - Conceptos Básicos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "1E- Definiciones"
+              "icon": "lucide-file",
+              "title": "1 - Conceptos Básicos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +74,7 @@
             }
           },
           {
-            "id": "30bcdd7ebb19189f",
+            "id": "3bc065ac80eb8a62",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -94,7 +83,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -198,6 +188,12 @@
   },
   "active": "266ad008fc30a553",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250503071538.png",
+    "Ingeniería Electrónica/Comunicaciones/Untitled.md",
+    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/1 - Conceptos Básicos.md",
+    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/Redes de Computadoras.md",
+    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras",
+    "Ingeniería Electrónica/Comunicaciones/Redes.md",
     "Ingeniería Electrónica/Electrónica/Electro 6",
     "Ingeniería Electrónica/Electrónica/Electro 4/3.2 - Configuración reductor-elevador inversor (buck-boost).md",
     "Attachments/image_352.png",
@@ -236,14 +232,8 @@
     "Ingeniería Electrónica/Comunicaciones/Comu I",
     "Ingeniería Electrónica/Mecatrónica/12-Planificación de Trayectorias.md",
     "Excalidraw/Lol builds.md",
-    "Ingeniería Electrónica/Mecatrónica/11-Problema de las trayectorias.md",
-    "Ingeniería Electrónica/Mecatrónica/Diseño de Robot.md",
-    "Ingeniería Electrónica/Mecatrónica/11-Problema de las trayectorias.md",
-    "Ingeniería Electrónica/Comunicaciones/Comu I/4-Modulación SSB.md",
     "Ingeniería Electrónica/Mate/Matemática 6/Prepa 6 de Marquina.md.orig",
     "mintty.exe.stackdump",
-    "Ingeniería Electrónica/Mate/Matemática 6",
-    "Excalidraw",
     "Mate 6/Guía 1.canvas",
     "Untitled 1.canvas"
   ]

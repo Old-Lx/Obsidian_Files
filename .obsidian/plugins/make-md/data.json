@@ -49,7 +49,9 @@
     "//Meca",
     "//Mate/Mate/Matemática VI",
     "/",
-    "//Ingeniería Electrónica/Ingeniería Electrónica/Comunicaciones"
+    "//Ingeniería Electrónica",
+    "//Ingeniería Electrónica/Ingeniería Electrónica/Comunicaciones",
+    "//Ingeniería Electrónica/Ingeniería Electrónica/Comunicaciones/Ingeniería Electrónica/Comunicaciones/Redes de Computadoras"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
