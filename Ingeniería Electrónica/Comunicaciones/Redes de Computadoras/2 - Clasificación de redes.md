@@ -84,4 +84,24 @@ Mezcla varios tipos de redes
 Es la que llevamos encima: teléfonos dispositivos inalámbricos como bluetooth, wifi o cableado punto a punto/
 
 ### CAN
-Red de control para automóviles, barcos, aviones, o incluso edificios (aunque esta última suele ser considerada LAN)
+Red de control para automóviles, barcos, aviones, o incluso edificios (aunque esta última suele ser considerada LAN). Se trata de la interconexión de los dispositivos en los sistemas mencionados.
+
+### SAN
+Es una tipo de LAN pero usada para almacenamiento de datos exclusivamente/
+
+### LAN
+Redes de casa, compañias, edificios, ocupan desde unas pocas a cientos de computadoras.
+
+### MAN
+Múltiples LAN, se puede considerar como una red LAN muy grande, por ejemplo, el campus de la USB se considera una red MAN, o la red de una ciudad entera.
+
+### WAN
+Varias ciudades, uno o varios países o el mundo entero (ejemplo: internet)
+
+### IAN
+Reemplaza WAN, LAN o alguna otra en la infraestructura de la red
+
+![[Pasted image 20250503080201.png]]
+
+
+
