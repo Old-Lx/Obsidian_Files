@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/3 - Protocolos.md",
+                "file": "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4 - Capa física.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Protocolos"
+              "title": "4 - Capa física"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "3bc065ac80eb8a62",
+            "id": "0933d22db08771eb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -188,9 +188,10 @@
   },
   "active": "266ad008fc30a553",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/3 - Protocolos.md",
+    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4 - Capa física.md",
     "Attachments/Pasted image 20250503080312.png",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/1 - Conceptos Básicos.md",
-    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/3 - Protocolos.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/2 - Clasificación de redes.md",
     "Attachments/Pasted image 20250503080201.png",
     "Attachments/Pasted image 20250503075225.png",
@@ -210,7 +211,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 4/3.2 - Configuración reductor-elevador inversor (buck-boost).md",
     "Attachments/image_352.png",
     "Attachments/image_351.png",
-    "Attachments/image_350.png",
     "Ingeniería Electrónica/Mate/Matemática 5/Parcial 1.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/3-Modulación AM.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/1-Intro.md",
