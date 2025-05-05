@@ -40,3 +40,14 @@ Para transmitir es necesario codificar los datos en señales
 
 ![[Pasted image 20250505182355.png]]
 
+### Scrambling:
+Se usa para decodificar el código bipolar AMI
+
+### Código 4B/5B (Coding
+Se usa en Giga Ethernet. Garantiza al menos una transición por cada 4 bits.
+![[Pasted image 20250505183518.png]]
+
+Es eficiente en ancho de banda y tiene códigos extra para control, sin embargo, requiere mayor circuitería para recuperar el reloj
+
+### Datos digitales, señales analógicas
+Se modula por amplitud, frecuencia, fase o amplitud y fase 
