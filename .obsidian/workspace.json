@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4 - Capa física.md",
+                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1a.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Capa física"
+              "title": "Clase 1a"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "0933d22db08771eb",
+            "id": "8b173bc9ffe2c92a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -188,12 +188,15 @@
   },
   "active": "266ad008fc30a553",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250508185007.png",
+    "Attachments/Pasted image 20250508184658.png",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1a.md",
+    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4 - Capa física.md",
     "Attachments/Pasted image 20250505183518.png",
     "Attachments/Pasted image 20250505182355.png",
     "Attachments/Pasted image 20250505181801.png",
     "Attachments/Pasted image 20250505181605.png",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/3 - Protocolos.md",
-    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4 - Capa física.md",
     "Attachments/Pasted image 20250503080312.png",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/1 - Conceptos Básicos.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/2 - Clasificación de redes.md",
@@ -201,8 +204,6 @@
     "Attachments/Pasted image 20250503075225.png",
     "Attachments/Pasted image 20250503075044.png",
     "Attachments/Pasted image 20250503074400.png",
-    "Attachments/Pasted image 20250503073558.png",
-    "Attachments/Pasted image 20250503073250.png",
     "Ingeniería Electrónica/Comunicaciones/Comu I/4-Modulación SSB.md",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 1 - Gram Schmidt.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
@@ -229,7 +230,6 @@
     "Ingeniería Electrónica/Mate/Mate.md",
     "1-Campos conservativos e integrales de línea y superficie.md",
     "Ingeniería Electrónica",
-    "Ingeniería Electrónica/Comunicaciones/Comu II/Comu II.md",
     "Ingeniería Electrónica/Comunicaciones/Comu II",
     "Ingeniería Electrónica/Comunicaciones/Comu I",
     "Ingeniería Electrónica/Mate/Matemática 6/Prepa 6 de Marquina.md.orig",
