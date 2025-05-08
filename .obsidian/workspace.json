@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1a.md",
+                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1a - Introducción.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 1a"
+              "title": "Clase 1a - Introducción"
+            }
+          },
+          {
+            "id": "0ca1e10f6be5cd92",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2b - Cristales.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Clase 2b - Cristales"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -186,24 +200,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "266ad008fc30a553",
+  "active": "0ca1e10f6be5cd92",
   "lastOpenFiles": [
+    "Attachments/image_359.png",
+    "Attachments/image_358.png",
+    "Attachments/image_357.png",
+    "Attachments/image_356.png",
+    "Attachments/image_355.png",
+    "Attachments/image_354.png",
+    "Attachments/image_353.png",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2b - Cristales.md",
     "Attachments/Pasted image 20250508185007.png",
     "Attachments/Pasted image 20250508184658.png",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1a.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1a - Introducción.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4 - Capa física.md",
     "Attachments/Pasted image 20250505183518.png",
     "Attachments/Pasted image 20250505182355.png",
-    "Attachments/Pasted image 20250505181801.png",
-    "Attachments/Pasted image 20250505181605.png",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/3 - Protocolos.md",
-    "Attachments/Pasted image 20250503080312.png",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/1 - Conceptos Básicos.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/2 - Clasificación de redes.md",
-    "Attachments/Pasted image 20250503080201.png",
-    "Attachments/Pasted image 20250503075225.png",
-    "Attachments/Pasted image 20250503075044.png",
-    "Attachments/Pasted image 20250503074400.png",
     "Ingeniería Electrónica/Comunicaciones/Comu I/4-Modulación SSB.md",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 1 - Gram Schmidt.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
@@ -228,7 +243,6 @@
     "Notas.md",
     "Ingeniería Electrónica/Ingeniería Electrónica.md",
     "Ingeniería Electrónica/Mate/Mate.md",
-    "1-Campos conservativos e integrales de línea y superficie.md",
     "Ingeniería Electrónica",
     "Ingeniería Electrónica/Comunicaciones/Comu II",
     "Ingeniería Electrónica/Comunicaciones/Comu I",
