@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Clase 1a - Introducción"
             }
+          },
+          {
+            "id": "241c71cda43db0e1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2c - Ejemplos de índice de Miller.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Clase 2c - Ejemplos de índice de Miller"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -171,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,22 +200,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "266ad008fc30a553",
+  "active": "241c71cda43db0e1",
   "lastOpenFiles": [
+    "Attachments/image_368.png",
+    "Attachments/image_367.png",
+    "Attachments/image_366.png",
+    "Attachments/image_365.png",
+    "Attachments/image_364.png",
+    "Attachments/image_363.png",
+    "Attachments/image_362.png",
+    "Attachments/image_361.png",
+    "Attachments/image_360.png",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2c - Ejemplos de índice de Miller.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Electro 6.md",
     "Attachments/image_359.png",
     "Attachments/image_358.png",
-    "Attachments/image_357.png",
-    "Attachments/image_356.png",
-    "Attachments/image_355.png",
-    "Attachments/image_354.png",
-    "Attachments/image_353.png",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2b - Cristales.md",
-    "Attachments/Pasted image 20250508185007.png",
-    "Attachments/Pasted image 20250508184658.png",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2b - Cristales e índice de Miller.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1a - Introducción.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4 - Capa física.md",
-    "Attachments/Pasted image 20250505183518.png",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/3 - Protocolos.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/1 - Conceptos Básicos.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/2 - Clasificación de redes.md",
@@ -226,8 +243,6 @@
     "Ingeniería Electrónica/Electrónica",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Untitled.md",
     "Notas.md",
-    "Ingeniería Electrónica/Ingeniería Electrónica.md",
-    "Ingeniería Electrónica/Mate/Mate.md",
     "Ingeniería Electrónica",
     "Ingeniería Electrónica/Comunicaciones/Comu II",
     "Ingeniería Electrónica/Comunicaciones/Comu I",
