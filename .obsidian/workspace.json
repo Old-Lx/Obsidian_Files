@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Clase 1a - Introducción"
             }
-          },
-          {
-            "id": "0ca1e10f6be5cd92",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2b - Cristales.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Clase 2b - Cristales"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -185,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ca1e10f6be5cd92",
+  "active": "266ad008fc30a553",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Electrónica/Electro 6/Electro 6.md",
     "Attachments/image_359.png",
     "Attachments/image_358.png",
     "Attachments/image_357.png",
@@ -215,7 +201,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1a - Introducción.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4 - Capa física.md",
     "Attachments/Pasted image 20250505183518.png",
-    "Attachments/Pasted image 20250505182355.png",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/3 - Protocolos.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/1 - Conceptos Básicos.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/2 - Clasificación de redes.md",
