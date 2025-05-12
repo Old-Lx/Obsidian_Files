@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0db5c945c71a3e8b",
+        "id": "8c490cb5010b4457",
         "type": "tabs",
         "children": [
           {
-            "id": "266ad008fc30a553",
+            "id": "dd07993e282805c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1a - Introducción.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Clase 1a - Introducción"
-            }
-          },
-          {
-            "id": "241c71cda43db0e1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2c - Ejemplos de índice de Miller.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Clase 2c - Ejemplos de índice de Miller"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "241c71cda43db0e1",
+  "active": "dd07993e282805c1",
   "lastOpenFiles": [
     "Attachments/image_368.png",
     "Attachments/image_367.png",
