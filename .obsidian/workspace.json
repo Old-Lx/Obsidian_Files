@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8c490cb5010b4457",
+        "id": "d99518ade734ac66",
         "type": "tabs",
         "children": [
           {
-            "id": "dd07993e282805c1",
+            "id": "a949f316f11f31b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4 - Capa física.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4 - Capa física"
             }
           }
         ]
@@ -70,7 +74,7 @@
             }
           },
           {
-            "id": "8b173bc9ffe2c92a",
+            "id": "1d6b2c7d68a3e1c0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -79,13 +83,11 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -183,8 +185,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd07993e282805c1",
+  "active": "a949f316f11f31b7",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4.3 - Capa física III.md",
+    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4.1 - Capa física II.md",
+    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4 - Capa física.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 1a - Introducción.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Electro 6.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1",
     "Attachments/image_368.png",
     "Attachments/image_367.png",
     "Attachments/image_366.png",
@@ -194,13 +203,9 @@
     "Attachments/image_362.png",
     "Attachments/image_361.png",
     "Attachments/image_360.png",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2c - Ejemplos de índice de Miller.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Electro 6.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2c - Ejemplos de índice de Miller.md",
     "Attachments/image_359.png",
-    "Attachments/image_358.png",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2b - Cristales e índice de Miller.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1a - Introducción.md",
-    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4 - Capa física.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2b - Cristales e índice de Miller.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/3 - Protocolos.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/1 - Conceptos Básicos.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/2 - Clasificación de redes.md",
@@ -225,12 +230,9 @@
     "Ingeniería Electrónica/Electrónica/Electro 4",
     "Ingeniería Electrónica/Electrónica",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Untitled.md",
-    "Notas.md",
     "Ingeniería Electrónica",
     "Ingeniería Electrónica/Comunicaciones/Comu II",
     "Ingeniería Electrónica/Comunicaciones/Comu I",
-    "Ingeniería Electrónica/Mate/Matemática 6/Prepa 6 de Marquina.md.orig",
-    "mintty.exe.stackdump",
     "Mate 6/Guía 1.canvas",
     "Untitled 1.canvas"
   ]
