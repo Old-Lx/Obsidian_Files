@@ -11,6 +11,20 @@
             "id": "2c76c03ad00e9bfd",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/1 - Conceptos Básicos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Conceptos Básicos"
+            }
+          },
+          {
+            "id": "2fa737510f806644",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/Tarea 2.md"
@@ -19,7 +33,8 @@
               "title": "Tarea 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,8 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c76c03ad00e9bfd",
+  "active": "2fa737510f806644",
   "lastOpenFiles": [
+    "Attachments/image_370.png",
+    "Attachments/image_369.png",
+    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/Redes de Computadoras.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4.2 - Capa física III.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/Tarea 2.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/4 - Capa física.md",
@@ -204,7 +222,6 @@
     "Attachments/image_361.png",
     "Attachments/image_360.png",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2c - Ejemplos de índice de Miller.md",
-    "Attachments/image_359.png",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2b - Cristales e índice de Miller.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/3 - Protocolos.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/1 - Conceptos Básicos.md",
@@ -213,7 +230,6 @@
     "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 1 - Gram Schmidt.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
     "Ingeniería Electrónica/Comunicaciones/Untitled.md",
-    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/Redes de Computadoras.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras",
     "Ingeniería Electrónica/Comunicaciones/Redes.md",
     "Ingeniería Electrónica/Electrónica/Electro 6",
@@ -226,7 +242,6 @@
     "Ingeniería Electrónica/Mate/Matemática 5/Untitled.md",
     "Ingeniería Electrónica/Mate/Matemática 5",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 2 - Continuación GS y Códigos de Línea.md",
-    "Ingeniería Electrónica/Electrónica/Electro 4/Cálculos Informe I.md",
     "Ingeniería Electrónica/Electrónica/Electro 4",
     "Ingeniería Electrónica/Electrónica",
     "Ingeniería Electrónica",
