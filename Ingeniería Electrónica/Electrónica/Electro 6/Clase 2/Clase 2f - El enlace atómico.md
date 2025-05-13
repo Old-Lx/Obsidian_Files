@@ -18,4 +18,21 @@ Este enlace es un poco más fuerte que el enlace de Van der Waals
 ### Enlace covalente
 ![[Pasted image 20250513090224.png]]
 
-Acá, varias molécilas comparten pares de electrones. El enlace covalente puede ser polar o no polar y son los que caracterizan mayormente a los átomos de silicio
+Acá, varias molécilas comparten pares de electrones. El enlace covalente puede ser polar o no polar. Los enlaces covalentes son los que caracterizan mayormente a los átomos de silicio.
+
+Como el hidrógeno tiene un sólo enlace covalente, sólo se puede formar un enlace covalente, evitando que haya un cristal de hidrógeno.
+
+Sin embargo, el enlace covalente del silicio puede crecer indefinidamente, generando cristales.
+
+![[Pasted image 20250513090849.png]]
+
+Los enlaces covalentes son relativamente fuertes, pero no tan fuertes, a temperatura ambiente los átomos se agitan y se rompe el enlace, generando electrones libres.
+
+
+### Enlace Iónico
+Es el enlace más fuerte y se forma por arreglos alternados de iones positivos y negativos (como el sodio y el cloro al formar cloruro de sodio)
+
+![[Pasted image 20250513091204.png]]
+
+# Todos estos enlaces permiten formar cristales, pero varían en características
+
