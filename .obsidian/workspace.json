@@ -39,16 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2/Clase 2d - .md",
+                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2/Clase 2e - Ejemplo de estructura cristalina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 2d -"
+              "title": "Clase 2e - Ejemplo de estructura cristalina"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -213,10 +212,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fa737510f806644",
+  "active": "4eb477f67328d5a0",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2/Clase 2d - Estructura cristalina y Ley de Bragg.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2/Clase 2e - Ejemplo de estructura cristalina.md",
+    "Attachments/Pasted image 20250513082307.png",
+    "Attachments/Pasted image 20250513081900.png",
+    "Attachments/Pasted image 20250513081636.png",
+    "Attachments/Pasted image 20250513081244.png",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/1 - Conceptos Básicos.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2/Clase 2d - .md",
     "Attachments/image_370.png",
     "Attachments/image_369.png",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/Redes de Computadoras.md",
@@ -232,10 +236,6 @@
     "Attachments/image_367.png",
     "Attachments/image_366.png",
     "Attachments/image_365.png",
-    "Attachments/image_364.png",
-    "Attachments/image_363.png",
-    "Attachments/image_362.png",
-    "Attachments/image_361.png",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2c - Ejemplos de índice de Miller.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2b - Cristales e índice de Miller.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/3 - Protocolos.md",
@@ -255,7 +255,6 @@
     "Ingeniería Electrónica/Mate/Matemática 5/Práctica parcial 1 Manuel Gómez.md",
     "Ingeniería Electrónica/Mate/Matemática 5/Untitled.md",
     "Ingeniería Electrónica/Mate/Matemática 5",
-    "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 2 - Continuación GS y Códigos de Línea.md",
     "Ingeniería Electrónica/Electrónica/Electro 4",
     "Ingeniería Electrónica/Electrónica",
     "Ingeniería Electrónica",
