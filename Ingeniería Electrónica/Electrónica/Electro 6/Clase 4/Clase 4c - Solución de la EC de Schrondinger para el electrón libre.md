@@ -13,5 +13,12 @@ Lo cual representa:
 
 Con $\psi_2$ Se representa la onda viajera hacia la izquierda.
 
-![[Pasted image 20250516154834.png]]
+![[Pasted image 20250516154924.png]]
+
+De ahí se deduce que:
+![[Pasted image 20250516155118.png]]
+
+![[Pasted image 20250516155334.png]]
+
+![[Pasted image 20250516155532.png]]
 
