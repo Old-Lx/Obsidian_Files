@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d99518ade734ac66",
+        "id": "34e1b596f19a76ae",
         "type": "tabs",
         "children": [
           {
-            "id": "2c76c03ad00e9bfd",
+            "id": "299bfa439b175659",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Ingeniería Electrónica/Electrónica"
+                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4a - La ecuación de onda de Schrondinger.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Ingeniería Electrónica/Electrónica"
+              "title": "Clase 4a - La ecuación de onda de Schrondinger"
             }
           }
         ]
@@ -72,15 +74,13 @@
             }
           },
           {
-            "id": "7aeca546f57f7845",
+            "id": "76cbe13c277319e8",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
@@ -186,8 +186,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c76c03ad00e9bfd",
+  "active": "299bfa439b175659",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250516151113.png",
+    "Attachments/Pasted image 20250516151018.png",
+    "Attachments/Pasted image 20250516150414.png",
+    "Attachments/Pasted image 20250516150230.png",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4a - La ecuación de onda de Schrondinger.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3g - Propiedades de la onda piloto.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4",
@@ -199,9 +204,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3f - Dualidad onda-partícula.md",
     "Attachments/Pasted image 20250516095450.png",
     "Attachments/Pasted image 20250516095224.png",
-    "Attachments/Pasted image 20250516095042.png",
-    "Attachments/Pasted image 20250516094714.png",
-    "Attachments/Pasted image 20250516094637.png",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3e - Cuantización en función del átomo de Hidrógeno.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3d - Nivéles cuánticos de energía en el átomo de hidrógeno.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3b - el átomo de Bohr.md",
@@ -226,8 +228,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2c - Ejemplos de índice de Miller.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2b - Cristales e índice de Miller.md",
-    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/3 - Protocolos.md",
-    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/2 - Clasificación de redes.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras",
     "Ingeniería Electrónica/Electrónica/Electro 6",
     "Ingeniería Electrónica/Mate/Matemática 5",
