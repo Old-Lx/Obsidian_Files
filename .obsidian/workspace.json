@@ -25,16 +25,18 @@
             "id": "2fa737510f806644",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras/Tarea 2.md"
+                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3d - Nivéles cuánticos de energía en el átomo de hidrógeno.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Tarea 2"
+              "icon": "lucide-file",
+              "title": "Clase 3d - Nivéles cuánticos de energía en el átomo de hidrógeno"
             }
           },
           {
-            "id": "8a78769a4d60ccca",
+            "id": "6b332a48cdf2b9e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,18 +103,17 @@
             }
           },
           {
-            "id": "0aa07539f0030439",
+            "id": "7aeca546f57f7845",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,22 +215,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a78769a4d60ccca",
+  "active": "2fa737510f806644",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20250515211627.png",
-    "Attachments/Pasted image 20250515211437.png",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3a - Planck, Einstein y el efecto fotoeléctrico.md",
+    "Attachments/Pasted image 20250516092032.png",
+    "Attachments/Pasted image 20250516091953.png",
+    "Attachments/Pasted image 20250516091820.png",
+    "Attachments/Pasted image 20250516091711.png",
+    "Attachments/Pasted image 20250516091604.png",
+    "Attachments/Pasted image 20250516091354.png",
+    "Attachments/Pasted image 20250516091333.png",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3c - El átomo de hidrógeno a la luz de los postulados de Bohr.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3d - Nivéles cuánticos de energía en el átomo de hidrógeno.md",
+    "Attachments/Pasted image 20250516091051.png",
+    "Attachments/Pasted image 20250516090902.png",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3b - el átomo de Bohr.md",
-    "Attachments/Pasted image 20250515203937.png",
-    "Attachments/Pasted image 20250515203905.png",
-    "Attachments/Pasted image 20250515203711.png",
-    "Attachments/Pasted image 20250515203620.png",
-    "Attachments/Pasted image 20250515203517.png",
-    "Attachments/Pasted image 20250515203321.png",
-    "Attachments/Pasted image 20250515203305.png",
+    "Attachments/Pasted image 20250516090406.png",
+    "Ingeniería Electrónica/Electrónica/Electro 6/.md",
+    "Attachments/Pasted image 20250515211627.png",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3a - Planck, Einstein y el efecto fotoeléctrico.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3",
-    "Attachments/Pasted image 20250513094202.png",
-    "Attachments/Pasted image 20250513094018.png",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2/Clase 2f - El enlace atómico.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2/Clase 2g - Imperfecciones en los sólidos.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2/Clase 2e - Ejemplo de estructura cristalina.md",
@@ -251,12 +256,8 @@
     "Ingeniería Electrónica/Comunicaciones/Comu I/4-Modulación SSB.md",
     "Ingeniería Electrónica/Comunicaciones/Comu II/Clase 1 - Gram Schmidt.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/2-Hilbert, Señales Analíticas y Equivalente Pasa Bajo.md",
-    "Ingeniería Electrónica/Comunicaciones/Untitled.md",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras",
-    "Ingeniería Electrónica/Comunicaciones/Redes.md",
     "Ingeniería Electrónica/Electrónica/Electro 6",
-    "Ingeniería Electrónica/Electrónica/Electro 4/3.2 - Configuración reductor-elevador inversor (buck-boost).md",
-    "Ingeniería Electrónica/Mate/Matemática 5/Parcial 1.md",
     "Ingeniería Electrónica/Mate/Matemática 5",
     "Ingeniería Electrónica/Electrónica/Electro 4",
     "Ingeniería Electrónica/Electrónica",
