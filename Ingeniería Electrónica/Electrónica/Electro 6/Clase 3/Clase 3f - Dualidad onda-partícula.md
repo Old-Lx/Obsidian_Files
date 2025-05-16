@@ -1,4 +1,4 @@
-El electrón, que es una partícula, tiene asociado una longitud de onda (muy natural ahora, pero en su momento generaba dudas y dolores de cabeza, creo que aún lo hace actually)
+El electrón, que es una partícula, tiene asociado una longitud de onda (muy natural ahora, pero en su momento generaba dudas y dolores de cabeza, creo que aún lo hace actually). Los desarrollos presentados a continuación mezclan conceptos de ondas con conceptos de partículas.
 ![[Pasted image 20250516094637.png]]
 
 Un haz de electrones que choca contra un cristal, hace que los electrones se comporten como ondas:
