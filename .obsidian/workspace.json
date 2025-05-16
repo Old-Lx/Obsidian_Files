@@ -16,7 +16,7 @@
                 "path": "Ingeniería Electrónica/Electrónica"
               },
               "icon": "lucide-file",
-              "title": "Electrónica"
+              "title": "Ingeniería Electrónica/Electrónica"
             }
           }
         ]
@@ -75,10 +75,12 @@
             "id": "7aeca546f57f7845",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
