@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3a - Planck, Einstein y el efecto fotoeléctrico.md",
+                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3b - el átomo de Bohr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 3a - Planck, Einstein y el efecto fotoeléctrico"
+              "title": "Clase 3b - el átomo de Bohr"
             }
           }
         ],
@@ -104,10 +104,12 @@
             "id": "0aa07539f0030439",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
@@ -214,6 +216,10 @@
   },
   "active": "8a78769a4d60ccca",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250515211627.png",
+    "Attachments/Pasted image 20250515211437.png",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3a - Planck, Einstein y el efecto fotoeléctrico.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3b - el átomo de Bohr.md",
     "Attachments/Pasted image 20250515203937.png",
     "Attachments/Pasted image 20250515203905.png",
     "Attachments/Pasted image 20250515203711.png",
@@ -221,12 +227,9 @@
     "Attachments/Pasted image 20250515203517.png",
     "Attachments/Pasted image 20250515203321.png",
     "Attachments/Pasted image 20250515203305.png",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3a - Planck, Einstein y el efecto fotoeléctrico.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3",
     "Attachments/Pasted image 20250513094202.png",
     "Attachments/Pasted image 20250513094018.png",
-    "Attachments/Pasted image 20250513093632.png",
-    "Attachments/Pasted image 20250513093510.png",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2/Clase 2f - El enlace atómico.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2/Clase 2g - Imperfecciones en los sólidos.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2/Clase 2e - Ejemplo de estructura cristalina.md",
@@ -254,7 +257,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6",
     "Ingeniería Electrónica/Electrónica/Electro 4/3.2 - Configuración reductor-elevador inversor (buck-boost).md",
     "Ingeniería Electrónica/Mate/Matemática 5/Parcial 1.md",
-    "Ingeniería Electrónica/Comunicaciones/Comu I/3-Modulación AM.md",
     "Ingeniería Electrónica/Mate/Matemática 5",
     "Ingeniería Electrónica/Electrónica/Electro 4",
     "Ingeniería Electrónica/Electrónica",
