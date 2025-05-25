@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5e - Zonas de Brillouin.md",
+                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6a - .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 5e - Zonas de Brillouin"
+              "title": "Clase 6a -"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "703769ea02950f4c",
+            "id": "db162dca56718c4d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -186,8 +186,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "703769ea02950f4c",
+  "active": "299bfa439b175659",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6a - .md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Attachments/Pasted image 20250521094146.png",
@@ -227,7 +228,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2/Clase 2f - El enlace atómico.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2/Clase 2g - Imperfecciones en los sólidos.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2/Clase 2e - Ejemplo de estructura cristalina.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras",
