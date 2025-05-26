@@ -5,4 +5,4 @@
 
 Esas rayas azules son las zonas de Brillouin.
 
-Ese modelo de Kronig-Penney muestra que el electrón sólo puede tener la energía marcada por las bandas de Brillouin, todo el desarrollo que se hizo es para esta parte, para obtener el modelo de bandas y explicar el comportamiento elé©trico del silicio
+Ese modelo de Kronig-Penney muestra que el electrón sólo puede tener la energía marcada por las bandas de Brillouin, todo el desarrollo que se hizo es para esta parte, para obtener el modelo de bandas y explicar el comportamiento eléctrico del silicio
