@@ -74,15 +74,13 @@
             }
           },
           {
-            "id": "729ddcf58ec11bc6",
+            "id": "3bc69ac862da6e88",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
