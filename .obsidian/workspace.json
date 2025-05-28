@@ -11,17 +11,28 @@
             "id": "299bfa439b175659",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5b - Eletrón en una barrera de potencial, caso E  E_0.md",
-                "mode": "source",
-                "source": false
+                "path": "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1"
               },
               "icon": "lucide-file",
-              "title": "Clase 5b - Eletrón en una barrera de potencial, caso E  E_0"
+              "title": "Práctica Parcial 1"
+            }
+          },
+          {
+            "id": "65038c29dda12019",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/1 - Sólidos.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "1 - Sólidos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +85,7 @@
             }
           },
           {
-            "id": "3bc69ac862da6e88",
+            "id": "17cf7b5d62f9f922",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -186,8 +197,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "299bfa439b175659",
+  "active": "65038c29dda12019",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/1 - Sólidos11.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/1 - Sólidos1.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/1 - Sólidos.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Ejercicios de práctica para el parcial 1.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Untitled.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/Práctica Parcial 1.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5b - Eletrón en una barrera de potencial, caso E  E_0.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5a - Solución de la ecuación de Schrondinger en una barrera potencial.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5e - Zonas de Brillouin.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6a - Orbitales atómicos y bandas de energía.md",
@@ -213,8 +232,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5d - Modelo Kronig-Penney II.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5c - El electrón en un potencial periódico. Modelo de Kronig - Penny.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5b - Eletrón en una barrera de potencial, caso E  E_0.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Ejercicios de práctica para el parcial 1.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4c - Solución de la EC de Schrondinger para el electrón libre.md",
@@ -222,17 +239,12 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3f - Dualidad onda-partícula.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3e - Cuantización en función del átomo de Hidrógeno.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3d - Nivéles cuánticos de energía en el átomo de hidrógeno.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3b - el átomo de Bohr.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras",
     "Ingeniería Electrónica/Electrónica/Electro 6",
     "Ingeniería Electrónica/Mate/Matemática 5",
-    "Ingeniería Electrónica/Electrónica/Electro 4",
     "Mate 6/Guía 1.canvas",
     "Untitled 1.canvas"
   ]
