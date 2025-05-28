@@ -16,7 +16,7 @@
                 "path": "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1"
               },
               "icon": "lucide-file",
-              "title": "Práctica Parcial 1"
+              "title": "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1"
             }
           },
           {
@@ -25,14 +25,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/1 - Sólidos.md"
+                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2b - Cristales e índice de Miller.md"
               },
               "icon": "excalidraw-icon",
-              "title": "1 - Sólidos"
+              "title": "Clase 2b - Cristales e índice de Miller"
+            }
+          },
+          {
+            "id": "fc1efab9747eb9f0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2c - Ejemplos de índice de Miller.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Clase 2c - Ejemplos de índice de Miller"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,8 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65038c29dda12019",
+  "active": "fc1efab9747eb9f0",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 1.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 1a - Introducción.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2c - Ejemplos de índice de Miller.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Parcial 1.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/1 - Sólidos11.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/1 - Sólidos1.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/1 - Sólidos.md",
@@ -234,11 +250,7 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5c - El electrón en un potencial periódico. Modelo de Kronig - Penny.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4c - Solución de la EC de Schrondinger para el electrón libre.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3g - Propiedades de la onda piloto.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3/Clase 3f - Dualidad onda-partícula.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1",
