@@ -20,31 +20,33 @@
             }
           },
           {
-            "id": "65038c29dda12019",
+            "id": "49c6759b48ce863c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2b - Cristales e índice de Miller.md"
+                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6d - Nivel de Fermi.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Clase 2b - Cristales e índice de Miller"
+              "icon": "lucide-file",
+              "title": "Clase 6d - Nivel de Fermi"
             }
           },
           {
-            "id": "fc1efab9747eb9f0",
+            "id": "2b21810817e8b29e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "mk-space",
               "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2c - Ejemplos de índice de Miller.md"
+                "path": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6"
               },
-              "icon": "excalidraw-icon",
-              "title": "Clase 2c - Ejemplos de índice de Miller"
+              "icon": "lucide-file",
+              "title": "Clase 6"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +99,7 @@
             }
           },
           {
-            "id": "f6e7cec12e1b3c86",
+            "id": "a712b5aecd1ffb25",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -209,8 +211,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc1efab9747eb9f0",
+  "active": "49c6759b48ce863c",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4g - Pozo de potencial solución completa.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4d - Solución de la ecuación de Schrondinger en un pozo de potencial.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4c - Solución de la EC de Schrondinger para el electrón libre.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4b - Solución unidimensional de la ecuación de onda de Schrondinger.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4a - La ecuación de onda de Schrondinger.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5a - Solución de la ecuación de Schrondinger en una barrera potencial.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5b - Eletrón en una barrera de potencial, caso E  E_0.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5c - El electrón en un potencial periódico. Modelo de Kronig - Penny.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5e - Zonas de Brillouin.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6b - Bandas de energía en sólidos.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6a - Orbitales atómicos y bandas de energía.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6e - Masa efectiva.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6d - Nivel de Fermi.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6c - Electrones libres en metales.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5d - Modelo Kronig-Penney II.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 1.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 1a - Introducción.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2c - Ejemplos de índice de Miller.md",
@@ -222,18 +239,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Untitled.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/Práctica Parcial 1.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5b - Eletrón en una barrera de potencial, caso E  E_0.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5a - Solución de la ecuación de Schrondinger en una barrera potencial.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5e - Zonas de Brillouin.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6a - Orbitales atómicos y bandas de energía.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6b - Bandas de energía en sólidos.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6c - Electrones libres en metales.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6d - Nivel de Fermi.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6e - Masa efectiva.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4b - Solución unidimensional de la ecuación de onda de Schrondinger.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4a - La ecuación de onda de Schrondinger.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4g - Pozo de potencial solución completa.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4d - Solución de la ecuación de Schrondinger en un pozo de potencial.md",
     "Attachments/Pasted image 20250525215223.png",
     "Attachments/Pasted image 20250525215112.png",
     "Attachments/Pasted image 20250525215056.png",
@@ -246,9 +251,6 @@
     "Attachments/Pasted image 20250525214033.png",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5d - Modelo Kronig-Penney II.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5c - El electrón en un potencial periódico. Modelo de Kronig - Penny.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3",
