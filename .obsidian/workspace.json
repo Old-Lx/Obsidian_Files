@@ -32,18 +32,6 @@
               "icon": "lucide-file",
               "title": "Clase 6d - Nivel de Fermi"
             }
-          },
-          {
-            "id": "2b21810817e8b29e",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6"
-              },
-              "icon": "lucide-file",
-              "title": "Clase 6"
-            }
           }
         ],
         "currentTab": 1
@@ -99,7 +87,7 @@
             }
           },
           {
-            "id": "ee89b3d6a3bbab30",
+            "id": "f9a17bdb773d2b62",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -211,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49c6759b48ce863c",
+  "active": "f9a17bdb773d2b62",
   "lastOpenFiles": [
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4g - Pozo de potencial solución completa.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4d - Solución de la ecuación de Schrondinger en un pozo de potencial.md",
