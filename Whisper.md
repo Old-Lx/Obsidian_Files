@@ -6,4 +6,4 @@ whisper-env\Scripts\activate
 
 Comando de ejecucion:
 
-whisper "C:\Users\dbece\Desktop\Kosmos\por que queremos participar.mp3" --model turbo --language es --task transcribe --output_dir "C:\Users\dbece\Documents\Transcripciones Whisper" --output_format txt
+whisper "Teo_Elect_Clase_3.m4a" --model turbo --language es --task transcribe --output_dir "C:\Users\lartr\Documents\Clases\Teoría electromagnética" --output_format txt
