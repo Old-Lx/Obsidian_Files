@@ -11,30 +11,13 @@
             "id": "299bfa439b175659",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1"
-              },
-              "icon": "lucide-file",
-              "title": "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1"
-            }
-          },
-          {
-            "id": "49c6759b48ce863c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6d - Nivel de Fermi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 6d - Nivel de Fermi"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +70,7 @@
             }
           },
           {
-            "id": "f9a17bdb773d2b62",
+            "id": "31b20e71b1d6ca0d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -199,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9a17bdb773d2b62",
+  "active": "299bfa439b175659",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Comunicaciones/Comu I/1-Intro.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4g - Pozo de potencial solución completa.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4d - Solución de la ecuación de Schrondinger en un pozo de potencial.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4c - Solución de la EC de Schrondinger para el electrón libre.md",
@@ -237,7 +221,6 @@
     "Attachments/Pasted image 20250525214134.png",
     "Attachments/Pasted image 20250525214046.png",
     "Attachments/Pasted image 20250525214033.png",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4",
