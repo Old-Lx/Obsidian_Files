@@ -11,10 +11,14 @@
             "id": "299bfa439b175659",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Whisper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Whisper"
             }
           }
         ]
@@ -70,7 +74,7 @@
             }
           },
           {
-            "id": "31b20e71b1d6ca0d",
+            "id": "2ef00252589c7817",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -184,6 +188,7 @@
   },
   "active": "299bfa439b175659",
   "lastOpenFiles": [
+    "Whisper.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/1-Intro.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4g - Pozo de potencial solución completa.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4d - Solución de la ecuación de Schrondinger en un pozo de potencial.md",
@@ -209,7 +214,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/1 - Sólidos.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Ejercicios de práctica para el parcial 1.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Untitled.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/Práctica Parcial 1.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
     "Attachments/Pasted image 20250525215223.png",
     "Attachments/Pasted image 20250525215112.png",
