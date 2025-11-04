@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "34e1b596f19a76ae",
+        "id": "8841c8ae77deceb6",
         "type": "tabs",
         "children": [
           {
-            "id": "299bfa439b175659",
+            "id": "3d783e6f22503c9e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería Electrónica/Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ]
@@ -70,13 +74,13 @@
             }
           },
           {
-            "id": "9309cba15dc0ed46",
+            "id": "eb22437a2b0b4d09",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
-              "title": "Spaces"
+              "title": "Navigator"
             }
           }
         ],
@@ -161,6 +165,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "1cc764aea8584a79",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 4
@@ -172,20 +190,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "299bfa439b175659",
+  "active": "fdf42656e5aa65a6",
   "lastOpenFiles": [
-    "2025-11-04.md",
+    "Ingeniería Electrónica/Test.md",
+    "Untitled.canvas",
+    "Excalidraw/Test.md",
     "Whisper.md",
+    "2025-11-04.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/1-Intro.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4g - Pozo de potencial solución completa.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4d - Solución de la ecuación de Schrondinger en un pozo de potencial.md",
@@ -207,9 +229,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2c - Ejemplos de índice de Miller.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Parcial 1.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/1 - Sólidos11.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/1 - Sólidos1.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/1 - Sólidos.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Ejercicios de práctica para el parcial 1.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
     "Attachments/Pasted image 20250525215223.png",
     "Attachments/Pasted image 20250525215112.png",
