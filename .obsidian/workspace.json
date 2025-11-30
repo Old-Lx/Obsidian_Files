@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8841c8ae77deceb6",
+        "id": "1ce9f2c5d19dd066",
         "type": "tabs",
         "children": [
           {
-            "id": "3d783e6f22503c9e",
+            "id": "b645dc29a4f153b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -73,10 +73,13 @@
             "id": "22367ed2c6fd748e",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -197,8 +200,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "22367ed2c6fd748e",
+  "active": "b645dc29a4f153b3",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Ingeniería Electrónica.md",
+    "Ingeniería Electrónica/Proyectos de electrónica.md",
+    "1-Campos conservativos e integrales de línea y superficie.md",
     "Ingeniería Electrónica/Test.md",
     "Untitled.canvas",
     "Excalidraw/Test.md",
@@ -223,8 +229,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 1.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 1a - Introducción.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1/Clase 2c - Ejemplos de índice de Miller.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Parcial 1.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1/1 - Sólidos11.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
     "Attachments/Pasted image 20250525215223.png",
     "Attachments/Pasted image 20250525215112.png",
