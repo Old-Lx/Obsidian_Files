@@ -11,14 +11,10 @@
             "id": "3d783e6f22503c9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingeniería Electrónica/Test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "New tab"
             }
           }
         ]
@@ -74,7 +70,7 @@
             }
           },
           {
-            "id": "eb22437a2b0b4d09",
+            "id": "22367ed2c6fd748e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -201,7 +197,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fdf42656e5aa65a6",
+  "active": "22367ed2c6fd748e",
   "lastOpenFiles": [
     "Ingeniería Electrónica/Test.md",
     "Untitled.canvas",
