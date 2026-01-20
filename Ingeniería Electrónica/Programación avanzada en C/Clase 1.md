@@ -39,3 +39,4 @@ Sintaxis:
 
 ### Tarea:
 
+![[Pasted image 20260120180722.png]]
