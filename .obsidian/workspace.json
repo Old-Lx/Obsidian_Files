@@ -11,10 +11,14 @@
             "id": "b645dc29a4f153b3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería Electrónica/Proyectos de electrónica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proyectos de electrónica"
             }
           }
         ]
@@ -70,7 +74,7 @@
             }
           },
           {
-            "id": "22367ed2c6fd748e",
+            "id": "dea68574276f61d5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -200,10 +204,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b645dc29a4f153b3",
+  "active": "e36d64482f322b9d",
   "lastOpenFiles": [
-    "Ingeniería Electrónica/Ingeniería Electrónica.md",
     "Ingeniería Electrónica/Proyectos de electrónica.md",
+    "Ingeniería Electrónica/Ingeniería Electrónica.md",
     "1-Campos conservativos e integrales de línea y superficie.md",
     "Ingeniería Electrónica/Test.md",
     "Untitled.canvas",
