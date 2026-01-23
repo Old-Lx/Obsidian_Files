@@ -74,16 +74,13 @@
             }
           },
           {
-            "id": "c5e0d133cd7ebd20",
+            "id": "9d137d934127fbc1",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -188,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,6 +202,14 @@
   },
   "active": "b645dc29a4f153b3",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260123075641.png",
+    "Attachments/Pasted image 20260123075525.png",
+    "Attachments/Pasted image 20260123075330.png",
+    "Attachments/Pasted image 20260123075237.png",
+    "Attachments/Pasted image 20260123074946.png",
+    "Attachments/Pasted image 20260123074819.png",
+    "Attachments/Pasted image 20260123074749.png",
+    "Attachments/Pasted image 20260123074724.png",
     "Excalidraw/Drawing 2026-01-23 01.07.06.excalidraw.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
     "Attachments/Pasted image 20260120180722.png",
@@ -235,16 +239,8 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5c - El electrón en un potencial periódico. Modelo de Kronig - Penny.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5e - Zonas de Brillouin.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6b - Bandas de energía en sólidos.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6a - Orbitales atómicos y bandas de energía.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
     "Attachments/Pasted image 20250525215223.png",
-    "Attachments/Pasted image 20250525215112.png",
-    "Attachments/Pasted image 20250525215056.png",
-    "Attachments/Pasted image 20250525215000.png",
-    "Attachments/Pasted image 20250525214751.png",
-    "Attachments/Pasted image 20250525214736.png",
-    "Attachments/Pasted image 20250525214249.png",
-    "Attachments/Pasted image 20250525214134.png",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4",
