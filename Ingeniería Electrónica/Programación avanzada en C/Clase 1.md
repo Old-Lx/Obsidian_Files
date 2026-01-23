@@ -8,7 +8,6 @@ Definición
 Sintaxis:
 
     # Comentarios van entre numerales #
-    // Multilínea son con la barrita pero no sé si es \ o /
     
     # Variables #
     SRC := ./src # La convención de variables es mayúsculas #
