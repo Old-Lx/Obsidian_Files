@@ -77,10 +77,13 @@
             "id": "c5e0d133cd7ebd20",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -185,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,9 +206,10 @@
   },
   "active": "b645dc29a4f153b3",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-01-23 01.07.06.excalidraw.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
     "Attachments/Pasted image 20260120180722.png",
     "1-Campos conservativos e integrales de línea y superficie.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
     "Attachments/Pasted image 20260120175233.png",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Ingeniería Electrónica/Programación avanzada en C",
@@ -240,7 +245,6 @@
     "Attachments/Pasted image 20250525214736.png",
     "Attachments/Pasted image 20250525214249.png",
     "Attachments/Pasted image 20250525214134.png",
-    "Attachments/Pasted image 20250525214046.png",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4",
