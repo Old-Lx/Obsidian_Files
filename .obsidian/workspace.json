@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
+                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 1"
+              "title": "Clase 2"
             }
           }
         ]
@@ -74,16 +74,13 @@
             }
           },
           {
-            "id": "9d137d934127fbc1",
+            "id": "b39a16dd366d19b0",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -206,20 +203,22 @@
   },
   "active": "b645dc29a4f153b3",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260123175214.png",
+    "Attachments/Pasted image 20260123174610.png",
+    "Attachments/Pasted image 20260123173612.png",
+    "Attachments/Pasted image 20260123173553.png",
+    "Attachments/Pasted image 20260123173403.png",
+    "Attachments/Pasted image 20260123173348.png",
+    "Attachments/Pasted image 20260123172958.png",
+    "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
     "Attachments/Pasted image 20260123075641.png",
     "Attachments/Pasted image 20260123075525.png",
     "Attachments/Pasted image 20260123075330.png",
     "Attachments/Pasted image 20260123075237.png",
-    "Attachments/Pasted image 20260123074946.png",
-    "Attachments/Pasted image 20260123074819.png",
-    "Attachments/Pasted image 20260123074749.png",
-    "Attachments/Pasted image 20260123074724.png",
     "Excalidraw/Drawing 2026-01-23 01.07.06.excalidraw.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
-    "Attachments/Pasted image 20260120180722.png",
     "1-Campos conservativos e integrales de línea y superficie.md",
-    "Attachments/Pasted image 20260120175233.png",
-    "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Ingeniería Electrónica/Programación avanzada en C",
     "Ingeniería Electrónica/Mecatrónica/Mecatrónica.md",
     "Ingeniería Electrónica/Untitled.md",
@@ -242,9 +241,7 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5b - Eletrón en una barrera de potencial, caso E  E_0.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5c - El electrón en un potencial periódico. Modelo de Kronig - Penny.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5e - Zonas de Brillouin.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6/Clase 6b - Bandas de energía en sólidos.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
-    "Attachments/Pasted image 20250525215223.png",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4",
