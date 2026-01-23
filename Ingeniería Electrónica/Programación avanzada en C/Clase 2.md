@@ -51,8 +51,31 @@ La función en el .h debe tener el mismo nombre que en el .asm
 ![[Pasted image 20260123180629.png]]
 ![[Pasted image 20260123182144.png]]
 ![[Pasted image 20260123181727.png]]
+En esta corregir a NASM_DEPENDENCIES
 ![[Pasted image 20260123181841.png]]
 ![[Pasted image 20260123181919.png]]
+
+### El gdb es un debugger de consola:
+Revisar flags
+`` gdb -tui ./debug/bin/main ``
+
+### Para configurar la barra de acciones en VS Code:
+Descargar Activitus Bar (un plugin)
+
+se crea settings.json en .vscode
+![[Pasted image 20260123182910.png]]
+![[Pasted image 20260123182939.png]]
+va es task.build.make
+### Se crea task.json
+El label debe corresponder a lo que haya después de task. en el settings.json
+![[Pasted image 20260123183207.png]]
+
+### Se configura el debugger:
+En la misma carpeta, se crea launch.json
+![[Pasted image 20260123183444.png]]
+![[Pasted image 20260123183629.png]]
+![[Pasted image 20260123183645.png]]
+en program no aceptó el wildcard, si no logras, dale con main directamente y luego revisas cómo usar el wildcard
 
 ## script.sh:
 
@@ -72,3 +95,8 @@ La función en el .h debe tener el mismo nombre que en el .asm
     ```
    
 ![[Pasted image 20260123180037.png]]
+### Tarea:
+Hacer un programa de assembly que imprima una string que envíe un usuario.
+
+Pista:
+![[Pasted image 20260123184455.png]]
