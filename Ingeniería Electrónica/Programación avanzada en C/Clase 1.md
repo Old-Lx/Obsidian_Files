@@ -15,6 +15,8 @@ Para compilar se usa el comando:
     make -f <archivo makefile>
     ```
 
+La terminación de un archivo make es .mk pero en linux pueden hacerse sin terminación.
+
 Sintaxis:
 
     # Comentarios van entre numerales #

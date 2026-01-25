@@ -22,7 +22,7 @@ El objetivo de esta clase es crear una función en assembly y usarla en C, esto 
     }
     ```
 
-Directiva de asm para un compilador específico (no sé bien cuál)
+Directiva de asm para el compilador nasm
     ```
     %ifidn OUTPUT_FORMAT,elf64 
 	    section .note,GNU-stack noalloc noexe nowrite progbits 
@@ -87,11 +87,11 @@ en program no aceptó el wildcard, si no logras, dale con main directamente y lu
     echo "Build debug mode"
     make -f debug.mk
     
-    echo "Clear the Debug mode compilation"
-    make -f debug.mk clean
+    echo "Clear the Prod mode compilation"
+    make -f Makefile clean
     
-    echo "Build debug mode"
-    make -f debug.mk
+    echo "Build Prod mode"
+    make -f Makefile
     ```
    
 ![[Pasted image 20260123180037.png]]
