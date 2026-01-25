@@ -99,4 +99,4 @@ en program no aceptó el wildcard, si no logras, dale con main directamente y lu
 Hacer un programa de assembly que imprima una string que envíe un usuario.
 
 Pista:
-![[Pasted image 20260123184455.png]]
+![[Pasted image 20260123184455.png]] 
