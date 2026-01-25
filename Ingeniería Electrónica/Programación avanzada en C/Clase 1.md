@@ -12,7 +12,7 @@ Es una herramienta para gestionar organizadamente la compilación de archivos en
 Para compilar se usa el comando:
 
     ```
-    make 
+    make -f <archivo makefile>
     ```
 
 Sintaxis:

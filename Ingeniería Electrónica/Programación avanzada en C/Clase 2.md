@@ -36,7 +36,7 @@ La función en el .h debe tener el mismo nombre que en el .asm
 
 ## Makefiles:
 
-## compile.mk
+## compile.mk:
 
 ## debug.mk:
 
