@@ -12,8 +12,10 @@ Es una herramienta para gestionar organizadamente la compilación de archivos en
 Para compilar se usa el comando:
 
     ```
-    make 
+    make -f <archivo makefile>
     ```
+
+La terminación de un archivo make es .mk pero en linux pueden hacerse sin terminación.
 
 Sintaxis:
 

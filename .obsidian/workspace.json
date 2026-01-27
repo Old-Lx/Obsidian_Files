@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas"
             }
+          },
+          {
+            "id": "fb156a3b4ce93c5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas"
+            }
+          },
+          {
+            "id": "4607a0fcfcf2b30b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,10 +230,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b645dc29a4f153b3",
+  "active": "4607a0fcfcf2b30b",
   "lastOpenFiles": [
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
+    "Attachments/Pasted image 20260127174303.png",
+    "Attachments/Pasted image 20260127174151.png",
+    "conflict-files-obsidian-git.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
+    "Attachments/Pasted image 20260127170911.png",
+    "Attachments/Pasted image 20260127170643.png",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
     "Attachments/Pasted image 20260123184455.png",
     "Attachments/Pasted image 20260123184426.png",
@@ -213,9 +247,6 @@
     "Attachments/Pasted image 20260123183629.png",
     "Attachments/Pasted image 20260123183444.png",
     "Attachments/Pasted image 20260123183207.png",
-    "Attachments/Pasted image 20260123182939.png",
-    "Attachments/Pasted image 20260123182926.png",
-    "Attachments/Pasted image 20260123182910.png",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Excalidraw/Drawing 2026-01-23 01.07.06.excalidraw.md",
     "1-Campos conservativos e integrales de línea y superficie.md",
@@ -239,8 +270,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4a - La ecuación de onda de Schrondinger.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5a - Solución de la ecuación de Schrondinger en una barrera potencial.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5b - Eletrón en una barrera de potencial, caso E  E_0.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5c - El electrón en un potencial periódico. Modelo de Kronig - Penny.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5e - Zonas de Brillouin.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
