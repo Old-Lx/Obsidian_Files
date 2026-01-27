@@ -77,4 +77,24 @@ https://www.geeksforgeeks.org/c/variadic-functions-in-c/
 
 
 # Parte práctica
+Punteros
 ![[Pasted image 20260127175907.png]]
+
+Enteros
+![[Pasted image 20260127180650.png]]
+
+Typecasting
+![[Pasted image 20260127180813.png]]
+![[Pasted image 20260127180843.png]]
+![[Pasted image 20260127180921.png]]
+![[Pasted image 20260127181019.png]]![[Pasted image 20260127181650.png]]
+
+Tipos más pesados de la estructura arriba:
+![[Pasted image 20260127181951.png]]
+
+![[Pasted image 20260127182114.png]]
+
+![[Pasted image 20260127182314.png]]
+
+Caso de uso:
+![[Pasted image 20260127182455.png]]
