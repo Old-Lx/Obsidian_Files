@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
+                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 2"
+              "title": "Clase 1"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "b39a16dd366d19b0",
+            "id": "15f15b4678edfc43",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -206,6 +206,7 @@
   },
   "active": "b645dc29a4f153b3",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
     "Attachments/Pasted image 20260123184455.png",
     "Attachments/Pasted image 20260123184426.png",
     "Attachments/Pasted image 20260123184351.png",
@@ -216,9 +217,7 @@
     "Attachments/Pasted image 20260123182939.png",
     "Attachments/Pasted image 20260123182926.png",
     "Attachments/Pasted image 20260123182910.png",
-    "Attachments/Pasted image 20260123182144.png",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Excalidraw/Drawing 2026-01-23 01.07.06.excalidraw.md",
     "1-Campos conservativos e integrales de línea y superficie.md",
