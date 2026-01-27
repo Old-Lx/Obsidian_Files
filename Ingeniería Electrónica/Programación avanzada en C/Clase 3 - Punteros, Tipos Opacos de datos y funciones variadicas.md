@@ -69,6 +69,12 @@ Se puede usar con funciones:
 
 Se pueden crear con `stdarg.h`
 
-
+Donde `int n` es el número de argumentos
+![[Pasted image 20260127175038.png]]
+![[Pasted image 20260127175141.png]]
 
 https://www.geeksforgeeks.org/c/variadic-functions-in-c/
+
+
+# Parte práctica
+![[Pasted image 20260127175907.png]]
