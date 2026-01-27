@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
+                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 1"
+              "title": "Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas"
             }
           }
         ]
@@ -74,16 +74,13 @@
             }
           },
           {
-            "id": "15f15b4678edfc43",
+            "id": "bf0b8918b42f5072",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -207,6 +204,8 @@
   "active": "b645dc29a4f153b3",
   "lastOpenFiles": [
     "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
     "Attachments/Pasted image 20260123184455.png",
     "Attachments/Pasted image 20260123184426.png",
     "Attachments/Pasted image 20260123184351.png",
@@ -217,7 +216,6 @@
     "Attachments/Pasted image 20260123182939.png",
     "Attachments/Pasted image 20260123182926.png",
     "Attachments/Pasted image 20260123182910.png",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Excalidraw/Drawing 2026-01-23 01.07.06.excalidraw.md",
     "1-Campos conservativos e integrales de línea y superficie.md",
