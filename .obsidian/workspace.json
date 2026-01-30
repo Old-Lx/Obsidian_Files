@@ -25,14 +25,12 @@
             "id": "4607a0fcfcf2b30b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Minecraft/Redstone.md",
-                "mode": "source",
-                "source": false
+                "path": "Minecraft"
               },
               "icon": "lucide-file",
-              "title": "Redstone"
+              "title": "Minecraft"
             }
           }
         ],
@@ -89,16 +87,13 @@
             }
           },
           {
-            "id": "a8b5f5f3c0f9bae5",
+            "id": "d878c52873e65c8b",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -222,6 +217,7 @@
   "lastOpenFiles": [
     "Minecraft/Minecraft.md",
     "Minecraft/Redstone.md",
+    "Minecraft/.md",
     "Minecraft/Create and addons.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
     "Minecraft",
@@ -258,7 +254,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4d - Solución de la ecuación de Schrondinger en un pozo de potencial.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4c - Solución de la EC de Schrondinger para el electrón libre.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4b - Solución unidimensional de la ecuación de onda de Schrondinger.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4a - La ecuación de onda de Schrondinger.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
