@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
+                "file": "Minecraft/Redstone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas"
+              "title": "Redstone"
             }
           }
         ],
@@ -89,16 +89,13 @@
             }
           },
           {
-            "id": "bf0b8918b42f5072",
+            "id": "a8b5f5f3c0f9bae5",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -220,6 +217,11 @@
   },
   "active": "4607a0fcfcf2b30b",
   "lastOpenFiles": [
+    "Minecraft/Minecraft.md",
+    "Minecraft/Redstone.md",
+    "Minecraft/Create and addons.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
+    "Minecraft",
     "Attachments/Pasted image 20260127182455.png",
     "Attachments/Pasted image 20260127182314.png",
     "Attachments/Pasted image 20260127182114.png",
@@ -230,9 +232,7 @@
     "Attachments/Pasted image 20260127180843.png",
     "Attachments/Pasted image 20260127180813.png",
     "Attachments/Pasted image 20260127180650.png",
-    "Attachments/Pasted image 20260127180609.png",
     "conflict-files-obsidian-git.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
@@ -256,8 +256,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4c - Solución de la EC de Schrondinger para el electrón libre.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4b - Solución unidimensional de la ecuación de onda de Schrondinger.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4a - La ecuación de onda de Schrondinger.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5a - Solución de la ecuación de Schrondinger en una barrera potencial.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5/Clase 5b - Eletrón en una barrera de potencial, caso E  E_0.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
@@ -266,7 +264,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1",
     "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras",
-    "Ingeniería Electrónica/Electrónica/Electro 6",
     "Mate 6/Guía 1.canvas",
     "Untitled 1.canvas"
   ]

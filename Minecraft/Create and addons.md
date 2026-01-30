@@ -1,0 +1,6 @@
+- Craft and additions: Electricidad y puedes alimentar motores a vapor con tuberías https://www.curseforge.com/minecraft/mc-mods/createaddition
+- New Age: Electricidad y máquinas de calor, incluyendo reactor nuclear https://www.curseforge.com/minecraft/mc-mods/create-new-age/gallery
+- Enchantment Industry: automatización de encantamientos https://modrinth.com/mod/create-enchantment-industry
+- Wizardry: automatización de Iron's Spells and Books https://modrinth.com/mod/create-wizardry
+- Radars: radares para detectar mobs https://www.curseforge.com/minecraft/mc-mods/create-radars/files/all?page=1&pageSize=20&showAlphaFiles=hide
+- Gears and kinetics: Nuevos engranajes con distintas dinámicas https://www.curseforge.com/minecraft/mc-mods/gears-n-kinetics
