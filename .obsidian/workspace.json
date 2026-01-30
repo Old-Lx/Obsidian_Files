@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
+                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas"
+              "title": "Clase 4 - Uniones y bitfields"
             }
           }
         ],
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -200,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,13 +219,13 @@
   },
   "active": "4607a0fcfcf2b30b",
   "lastOpenFiles": [
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 4.md",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
     "Minecraft/Minecraft.md",
     "Minecraft/Redstone.md",
     "Minecraft/.md",
     "Minecraft/Create and addons.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
     "Minecraft",
     "Attachments/Pasted image 20260127182455.png",
     "Attachments/Pasted image 20260127182314.png",
