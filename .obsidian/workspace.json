@@ -87,16 +87,13 @@
             }
           },
           {
-            "id": "d878c52873e65c8b",
+            "id": "38104d5771817b90",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -216,7 +213,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4607a0fcfcf2b30b",
+  "active": "e9265aeca4b9c987",
   "lastOpenFiles": [
     "Minecraft/Minecraft.md",
     "Minecraft/Redstone.md",
