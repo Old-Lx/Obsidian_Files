@@ -9,4 +9,14 @@ https://www.geeksforgeeks.org/c/c-unions/
 # Bitfield:
 "In C, we can specify the size (in bits) of the structure and union members. The idea of bit-field is to use memory efficiently when we know that the value of a field or group of fields will never exceed a limit or is within a small range. C Bit fields are used when the storage of our program is limited."
 
-Te permite acceder a bits individualmente 
+https://www.geeksforgeeks.org/c/bit-fields-c/
+
+Te permite acceder a bits individualmente, definiendo dentro de una estructura valores de data que accedan a información de bits de manera individual.
+
+
+# Parte práctica
+![[Pasted image 20260130152555.png]]
+![[Pasted image 20260130153155.png]]
+Un micro tiene profundidad de stack limitada, es decir, sólo puede ejecutar 4 funciones anidadas antes de ejecutar en la ram
+
+![[Pasted image 20260130153819.png]]

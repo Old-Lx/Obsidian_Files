@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
+                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 4 - Uniones y bitfields"
+              "title": "Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas"
             }
           }
         ],
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bcb93a0b9425d007",
@@ -219,9 +218,14 @@
   },
   "active": "4607a0fcfcf2b30b",
   "lastOpenFiles": [
-    "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
+    "Attachments/Pasted image 20260130153819.png",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
+    "Attachments/Pasted image 20260130153155.png",
+    "Attachments/Pasted image 20260130152940.png",
+    "Attachments/Pasted image 20260130152555.png",
+    "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Minecraft/Minecraft.md",
     "Minecraft/Redstone.md",
     "Minecraft/.md",
@@ -233,12 +237,7 @@
     "Attachments/Pasted image 20260127181951.png",
     "Attachments/Pasted image 20260127181650.png",
     "Attachments/Pasted image 20260127181019.png",
-    "Attachments/Pasted image 20260127180921.png",
-    "Attachments/Pasted image 20260127180843.png",
-    "Attachments/Pasted image 20260127180813.png",
-    "Attachments/Pasted image 20260127180650.png",
     "conflict-files-obsidian-git.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
     "Excalidraw/Drawing 2026-01-23 01.07.06.excalidraw.md",
     "1-Campos conservativos e integrales de línea y superficie.md",
@@ -257,7 +256,6 @@
     "Ingeniería Electrónica/Comunicaciones/Comu I/1-Intro.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4g - Pozo de potencial solución completa.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4d - Solución de la ecuación de Schrondinger en un pozo de potencial.md",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4c - Solución de la EC de Schrondinger para el electrón libre.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
