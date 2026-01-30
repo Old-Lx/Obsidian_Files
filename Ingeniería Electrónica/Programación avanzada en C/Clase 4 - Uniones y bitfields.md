@@ -20,3 +20,11 @@ Te permite acceder a bits individualmente, definiendo dentro de una estructura v
 Un micro tiene profundidad de stack limitada, es decir, sólo puede ejecutar 4 funciones anidadas antes de ejecutar en la ram
 
 ![[Pasted image 20260130153819.png]]
+
+![[Pasted image 20260130160253.png]]
+![[Pasted image 20260130160307.png]]
+![[Pasted image 20260130160318.png]]
+![[Pasted image 20260130160434.png]]
+![[Pasted image 20260130160444.png]]
+![[Pasted image 20260130161152.png]]
+![[Pasted image 20260130161225.png]]
