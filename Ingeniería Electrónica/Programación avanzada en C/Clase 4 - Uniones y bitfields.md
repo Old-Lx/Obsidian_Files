@@ -28,3 +28,10 @@ Un micro tiene profundidad de stack limitada, es decir, sólo puede ejecutar 4 f
 ![[Pasted image 20260130160444.png]]
 ![[Pasted image 20260130161152.png]]
 ![[Pasted image 20260130161225.png]]
+Pendiente si la pc es little endian o big endian
+![[Pasted image 20260130161800.png]]
+![[Pasted image 20260130161908.png]]
+![[Pasted image 20260130161921.png]]
+
+# Tarea
+Implementar lo que se hizo en la clase sin referencias
