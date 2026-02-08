@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "38104d5771817b90",
+            "id": "5b38135002e4c21c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -177,8 +177,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -212,12 +212,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4607a0fcfcf2b30b",
   "lastOpenFiles": [
+    "Tags",
     "Attachments/Pasted image 20260130161225.png",
     "Attachments/Pasted image 20260130161152.png",
     "Attachments/Pasted image 20260130160825.png",
@@ -231,7 +232,6 @@
     "Attachments/Pasted image 20260130153819.png",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
     "Attachments/Pasted image 20260130153155.png",
-    "Attachments/Pasted image 20260130152940.png",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Minecraft/Minecraft.md",
     "Minecraft/Redstone.md",
