@@ -39,14 +39,12 @@
             "id": "4d00abb372094872",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
-                "mode": "source",
-                "source": false
+                "path": "Ingeniería Electrónica/Programación avanzada en C"
               },
               "icon": "lucide-file",
-              "title": "Clase 4 - Uniones y bitfields"
+              "title": "Programación avanzada en C"
             }
           }
         ],
@@ -231,10 +229,11 @@
   },
   "active": "4d00abb372094872",
   "lastOpenFiles": [
-    "Ingeniería Electrónica/Proyectos de electrónica.md",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
+    "Notas.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
+    "Ingeniería Electrónica/Proyectos de electrónica.md",
     "Attachments/Pasted image 20260208112814.png",
     "conflict-files-obsidian-git.md",
     "Attachments/Pasted image 20260208103901.png",
@@ -261,7 +260,6 @@
     "Ingeniería Electrónica/Mecatrónica/Mecatrónica.md",
     "Ingeniería Electrónica/Untitled.md",
     "Ingeniería Electrónica/.md",
-    "Notas.md",
     "Ingeniería Electrónica/Ingeniería Electrónica.md",
     "Ingeniería Electrónica/Test.md",
     "Untitled.canvas",
