@@ -1,0 +1,160 @@
+# Stack
+
+# Heap
+
+# malloc
+
+Se usa para alojar memoria, hay que recordar liberar la memoria.
+
+Se puede alojar y desalojar memoria dinámicamente.
+
+## Alojamiento de memoria estática tipo arena:
+
+Aloja una sección grande y dentro va reservando pedazos de memoria del tamaño que se necesite. Es un alojador lineal de memoria.
+
+Para implementarla se necesita malloc, memset y free.
+
+![[Pasted image 20260208103901.png]]
+
+- Se puede tener varios tipos de variables
+- Si liberamos, toda la data dentro de la arena se irá, es decir, no hay que liberar punteros de manera individual
+- Tiene funciones complementarias como verificar cuánta memoria queda
+- Si desalojamos una sección de memoria anterior al punto de tracking, queda sin usarse hasta que destruyamos la arena o se cree una nueva dentro de ese mismo espacio
+
+# Stack/Pila (diferente al primero, hay que revisar)
+
+Es memoria que se va apilando, para consultar, se consulta uno a uno
+
+Para una pila básica existen cuatro operaciones
+- Push: Mete un dato en la pila
+- Pop: Saca el último dato de la pila
+- Count: Devuelve el número de elementos de la pila
+- Size: Devuelve el tamaño del stack
+
+La manera más sencilla y óptima de hacerlo es con punteros
+
+# Parte práctica
+
+### Arena sencilla:
+``` C
+    #include <stdint.h>
+    #include <stddef.h>
+    #include <stdlib.h>
+    
+    // Se puede usar uint8_t para usar menos memoria
+    
+    void* arena_ptr = nullptr;
+    size_t arena_size = 0;
+    size_t arena_offset = 0;
+    
+    void* arena_create(size_t size) {
+	    void* _arena = malloc(size; // las variables privadas en C se declaran con uno o dos _
+	    if(_arena == NULL) {
+		    exit(2);
+	    }
+	    
+	    arena_size = size;
+	    
+	    return arena;
+    }
+    
+    void* arena_alloc(size_t, void* arena) {
+	    
+	    void* _memory = arena + arena_offset;
+	    
+	    arena_offset += size;
+	    
+	    return _offset;
+    }
+    
+    void* arena_free(void* arena) {
+	    free(arena);
+	    
+	    if(arena != NULL) {
+		    exit(2);
+	    }
+    }
+    
+    void arena_get_memory() {
+	    reutrn arena_size - arena_offset;
+    }
+    
+    int main() {
+    
+	    arena_ptr = arena_create(10);
+	    int* int_data = arena_alloc(sizeof(int), arena_ptr);
+	    *int_data = 5;
+	    
+	    float* float_data = arena_alloc(sizeof(float), arena_ptr);
+	    *float_data = 10.1;
+	    
+	    return 0;
+    }
+
+```
+## Alojador tipo stack
+
+``` C
+    #include <stdint.h>
+    #include <stddef.h>
+    #include <stdlib.h>
+    
+    // Se puede usar uint8_t para usar menos memoria
+    
+    void* stack;
+    size_t stack_size = 0;
+    size_t stack_count = 0;
+    
+    void* stack_create(size_t size) {
+	    void* _stack = malloc(size * sizeof(int)); // las variables privadas en C se declaran con uno o dos _
+	    if(_stack == NULL) {
+		    exit(2);
+	    }
+	    
+	    stack_size = size;
+	    
+	    return stack;
+    }
+    
+    void* stack_push(int item) {
+	    if(stack_count + 1 = stack_size) {
+		    return;
+	    }
+	    
+	    *((int*) (stack + stack_count)) = item
+	    
+	    stack_count++;
+    }
+    
+    void* stack_pop() {
+	    
+	    if(stack_count < 1) {
+		    return 0;
+	    }
+	    
+	    stack_count--;
+	    int _item = *((int*) (stack + stack_count));
+	    
+	    return _item;
+    }
+    
+    size_t stack_count() {
+	    return stack_count;
+    };
+    
+    int main() {
+    
+	    stack_ptr = stack_create(10);
+	    stack_push(5);
+	    stack_push(7);
+	    stack_push(2);
+	    stack_push(1);
+	    
+	    printf("%i\n", stack_pop());
+	    
+	    return 0;
+    }
+```
+
+![[Pasted image 20260208112814.png]]
+

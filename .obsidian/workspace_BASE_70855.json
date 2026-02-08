@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "Clase 4 - Uniones y bitfields"
             }
-          },
-          {
-            "id": "4d00abb372094872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 5"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             }
           },
           {
-            "id": "5b38135002e4c21c",
+            "id": "38104d5771817b90",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -226,35 +212,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4d00abb372094872",
+  "active": "4607a0fcfcf2b30b",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260208112814.png",
-    "conflict-files-obsidian-git.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
-    "Attachments/Pasted image 20260208103901.png",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
-    "Attachments/Pasted image 20260130161921.png",
-    "Attachments/Pasted image 20260130161908.png",
-    "Attachments/Pasted image 20260130161800.png",
-    "Tags",
     "Attachments/Pasted image 20260130161225.png",
     "Attachments/Pasted image 20260130161152.png",
     "Attachments/Pasted image 20260130160825.png",
     "Attachments/Pasted image 20260130160444.png",
     "Attachments/Pasted image 20260130160434.png",
     "Attachments/Pasted image 20260130160318.png",
+    "Attachments/Pasted image 20260130160307.png",
+    "Attachments/Pasted image 20260130160253.png",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
+    "Attachments/Pasted image 20260130153819.png",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
+    "Attachments/Pasted image 20260130153155.png",
+    "Attachments/Pasted image 20260130152940.png",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Minecraft/Minecraft.md",
     "Minecraft/Redstone.md",
     "Minecraft/.md",
     "Minecraft/Create and addons.md",
     "Minecraft",
+    "conflict-files-obsidian-git.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
     "Excalidraw/Drawing 2026-01-23 01.07.06.excalidraw.md",
     "1-Campos conservativos e integrales de línea y superficie.md",
@@ -272,6 +256,7 @@
     "2025-11-04.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/1-Intro.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4g - Pozo de potencial solución completa.md",
+    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4d - Solución de la ecuación de Schrondinger en un pozo de potencial.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
@@ -279,6 +264,7 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 2",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 1",
+    "Ingeniería Electrónica/Comunicaciones/Redes de Computadoras",
     "Mate 6/Guía 1.canvas",
     "Untitled 1.canvas"
   ]
