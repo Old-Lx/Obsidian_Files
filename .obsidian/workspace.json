@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
+                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 5"
+              "title": "Clase 4 - Uniones y bitfields"
             }
           }
         ],
@@ -231,11 +231,13 @@
   },
   "active": "4d00abb372094872",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Proyectos de electrónica.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
     "Attachments/Pasted image 20260208112814.png",
     "conflict-files-obsidian-git.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
     "Attachments/Pasted image 20260208103901.png",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
     "Attachments/Pasted image 20260130161921.png",
     "Attachments/Pasted image 20260130161908.png",
     "Attachments/Pasted image 20260130161800.png",
@@ -245,10 +247,8 @@
     "Attachments/Pasted image 20260130160825.png",
     "Attachments/Pasted image 20260130160444.png",
     "Attachments/Pasted image 20260130160434.png",
-    "Attachments/Pasted image 20260130160318.png",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Minecraft/Minecraft.md",
     "Minecraft/Redstone.md",
     "Minecraft/.md",
@@ -260,7 +260,6 @@
     "Ingeniería Electrónica/Programación avanzada en C",
     "Ingeniería Electrónica/Mecatrónica/Mecatrónica.md",
     "Ingeniería Electrónica/Untitled.md",
-    "Ingeniería Electrónica/Proyectos de electrónica.md",
     "Ingeniería Electrónica/.md",
     "Notas.md",
     "Ingeniería Electrónica/Ingeniería Electrónica.md",
