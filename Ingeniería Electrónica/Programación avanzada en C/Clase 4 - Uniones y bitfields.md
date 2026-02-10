@@ -34,4 +34,4 @@ Pendiente si la pc es little endian o big endian
 ![[Pasted image 20260130161921.png]]
 
 # Tarea
-Implementar lo que se hizo en la clase sin referencias
+Implementar lo que se hizo en la clase sin referencias (Nota: si usas una union dentro de un struct, se usa el mismo espacio para todos los bitfields, si lo usas al revés, cada bitfield son bits diferentes en la memoria usada)

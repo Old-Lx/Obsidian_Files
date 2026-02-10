@@ -11,28 +11,12 @@
             "id": "b645dc29a4f153b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
-                "mode": "source",
-                "source": false
+                "file": "Ingeniería Electrónica/Mecatrónica/8-Velocidad cinemática-Jacobiano.md"
               },
-              "icon": "lucide-file",
-              "title": "Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas"
-            }
-          },
-          {
-            "id": "4607a0fcfcf2b30b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 4 - Uniones y bitfields"
+              "icon": "excalidraw-icon",
+              "title": "8-Velocidad cinemática-Jacobiano"
             }
           },
           {
@@ -47,8 +31,12 @@
               "title": "Programación avanzada en C"
             }
           }
+<<<<<<< HEAD
+        ]
+=======
         ],
         "currentTab": 2
+>>>>>>> f774f50fbc2af2b8c2d79563d4a9331630bf18db
       }
     ],
     "direction": "vertical"
@@ -101,7 +89,11 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "34a163b98db23606",
+=======
             "id": "5b38135002e4c21c",
+>>>>>>> f774f50fbc2af2b8c2d79563d4a9331630bf18db
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -227,6 +219,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< HEAD
+  "active": "b645dc29a4f153b3",
+  "lastOpenFiles": [
+    "Ingeniería Electrónica/Mecatrónica/6-Cinemática inversa y ejemplos.md",
+    "Ingeniería Electrónica/Mecatrónica/5-DH Ejemplos y Cinemática Inversa.md",
+    "Ingeniería Electrónica/Mecatrónica/4-Representaciones eje-ángulo y transformaciones homogéneas.md",
+    "Ingeniería Electrónica/Mecatrónica/3.2-Matrices de rotación y comienzo de las mates de un robot.md",
+    "Ingeniería Electrónica/Mecatrónica/3.1-Actuadores, Transmisiones y Reductores.md",
+    "Ingeniería Electrónica/Mecatrónica/2-Aplicaciones especiales.md",
+    "Ingeniería Electrónica/Mecatrónica/1-Intro.md",
+    "Ingeniería Electrónica/Mecatrónica/8-Velocidad cinemática-Jacobiano.md",
+    "Ingeniería Electrónica/Mecatrónica/9-Dinámica de un manipulador.md",
+    "Ingeniería Electrónica/Mecatrónica/10-Formulación de Newton-Euler.md",
+    "Ingeniería Electrónica/Mecatrónica/Mecatrónica.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
+=======
   "active": "4d00abb372094872",
   "lastOpenFiles": [
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
@@ -237,6 +247,7 @@
     "Attachments/Pasted image 20260208112814.png",
     "conflict-files-obsidian-git.md",
     "Attachments/Pasted image 20260208103901.png",
+>>>>>>> f774f50fbc2af2b8c2d79563d4a9331630bf18db
     "Attachments/Pasted image 20260130161921.png",
     "Attachments/Pasted image 20260130161908.png",
     "Attachments/Pasted image 20260130161800.png",
@@ -246,7 +257,12 @@
     "Attachments/Pasted image 20260130160825.png",
     "Attachments/Pasted image 20260130160444.png",
     "Attachments/Pasted image 20260130160434.png",
+<<<<<<< HEAD
+    "Attachments/Pasted image 20260130160318.png",
+    "Attachments/Pasted image 20260130160307.png",
+=======
     "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
+>>>>>>> f774f50fbc2af2b8c2d79563d4a9331630bf18db
     "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
     "Minecraft/Minecraft.md",
     "Minecraft/Redstone.md",
@@ -257,8 +273,11 @@
     "Excalidraw/Drawing 2026-01-23 01.07.06.excalidraw.md",
     "1-Campos conservativos e integrales de línea y superficie.md",
     "Ingeniería Electrónica/Programación avanzada en C",
-    "Ingeniería Electrónica/Mecatrónica/Mecatrónica.md",
     "Ingeniería Electrónica/Untitled.md",
+<<<<<<< HEAD
+    "Ingeniería Electrónica/Proyectos de electrónica.md",
+    "Untitled.canvas",
+=======
     "Ingeniería Electrónica/.md",
     "Ingeniería Electrónica/Ingeniería Electrónica.md",
     "Ingeniería Electrónica/Test.md",
@@ -268,6 +287,7 @@
     "2025-11-04.md",
     "Ingeniería Electrónica/Comunicaciones/Comu I/1-Intro.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4/Clase 4g - Pozo de potencial solución completa.md",
+>>>>>>> f774f50fbc2af2b8c2d79563d4a9331630bf18db
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",

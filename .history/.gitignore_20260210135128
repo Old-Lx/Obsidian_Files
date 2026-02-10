@@ -31,4 +31,10 @@
 *.out
 *.app
 
-./.obsidian/workspace.json
+# Cache de Make.md
+.makemd/
+# Estado del espacio de trabajo (ventanas abiertas, etc)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+# Cache de plugins
+.obsidian/plugins/**/*.json
