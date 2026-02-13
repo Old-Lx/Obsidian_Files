@@ -27,28 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
+                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 4 - Uniones y bitfields"
-            }
-          },
-          {
-            "id": "4d00abb372094872",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Ingeniería Electrónica/Programación avanzada en C"
-              },
-              "icon": "lucide-file",
-              "title": "Programación avanzada en C"
+              "title": "Clase 6"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +89,7 @@
             }
           },
           {
-            "id": "5b38135002e4c21c",
+            "id": "72405053b927610c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -227,8 +215,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d00abb372094872",
+  "active": "4607a0fcfcf2b30b",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 6.md",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Notas.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
