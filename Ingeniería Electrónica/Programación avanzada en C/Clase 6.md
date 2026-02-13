@@ -14,4 +14,5 @@ No tiene que liberarse en orden secuencial
 
 Es como el stack pero se libera como en el pool, de cualquier forma y a diferencia del pool, los bloques pueden ser de tamaños distintos. Cuando bloques subsecuentes de memoria se liberaan, se asimilan en un sólo bloque
 
-Su complejidad es O(h) donde h es el número de elementos
+Su complejidad es O(h) donde h es el número de elementos.
+
