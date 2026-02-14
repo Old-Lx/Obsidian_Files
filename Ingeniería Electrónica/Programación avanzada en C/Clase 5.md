@@ -8,6 +8,17 @@ Se usa para alojar memoria, hay que recordar liberar la memoria.
 
 Se puede alojar y desalojar memoria dinámicamente.
 
+Información extra sobre arenas:
+https://www.bytesbeneath.com/p/the-arena-custom-memory-allocators
+
+https://alonsozamorano.me/how-to-actually-use-arenas-and-program-in-c/
+
+https://lobste.rs/s/sutuvh/arena_allocator_tips_tricks
+
+https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator
+
+https://cs61.seas.harvard.edu/site/2022/Datarep7/#gsc.tab=0
+
 ## Alojamiento de memoria estática tipo arena:
 
 Aloja una sección grande y dentro va reservando pedazos de memoria del tamaño que se necesite. Es un alojador lineal de memoria.

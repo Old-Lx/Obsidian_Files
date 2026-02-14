@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 6.md",
+                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 6"
+              "title": "Clase 5"
             }
           }
         ],
@@ -89,13 +89,16 @@
             }
           },
           {
-            "id": "72405053b927610c",
+            "id": "d2e2ab69a299489d",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -200,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
