@@ -14,3 +14,13 @@ Son instrucciones que se ejecutan sobre una sección de la memoria. <[Vector Fun
 ![[Pasted image 20260220173013.png]]
 ![[Pasted image 20260220173111.png]]
 ![[Pasted image 20260220173403.png]]
+# Tarea:
+
+Usar los vectores para implementar un tipo de data custom para una partícula (posición $(x, y)$)
+
+![[Pasted image 20260220180736.png]]
+
+Debe ser capaz de sumar colecciones de partículas o partículas individuales.
+
+Cada partícula debe tener una función que imprima sus coordenadas.
+![[Pasted image 20260220180807.png]]
