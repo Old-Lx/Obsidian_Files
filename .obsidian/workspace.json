@@ -25,14 +25,12 @@
             "id": "4607a0fcfcf2b30b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
-                "mode": "source",
-                "source": false
+                "path": "Ingeniería Electrónica/Programación avanzada en C"
               },
               "icon": "lucide-file",
-              "title": "Clase 5"
+              "title": "Programación avanzada en C"
             }
           }
         ],
@@ -89,16 +87,13 @@
             }
           },
           {
-            "id": "d2e2ab69a299489d",
+            "id": "3aeb7394e72cdcd4",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -221,10 +216,10 @@
   },
   "active": "4607a0fcfcf2b30b",
   "lastOpenFiles": [
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 6.md",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
-    "Notas.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 6.md",
+    "Notas.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
     "Ingeniería Electrónica/Proyectos de electrónica.md",
     "Attachments/Pasted image 20260208112814.png",
