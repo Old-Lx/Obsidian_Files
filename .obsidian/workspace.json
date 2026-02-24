@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ce9f2c5d19dd066",
+        "id": "ee76195570fc4181",
         "type": "tabs",
         "children": [
           {
-            "id": "b645dc29a4f153b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas"
-            }
-          },
-          {
-            "id": "4607a0fcfcf2b30b",
+            "id": "474e3320d61b6c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Clase 8 - Árboles binarios"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,12 +201,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4607a0fcfcf2b30b",
+  "active": "474e3320d61b6c49",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 8 - Árboles binarios.md",
     "Attachments/Pasted image 20260224174347.png",
     "Attachments/Pasted image 20260224172205.png",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 7 - Instrucciones Vectoriales.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 8 - Árboles binarios.md",
     "Attachments/Pasted image 20260220180807.png",
     "Attachments/Pasted image 20260220180736.png",
     "Attachments/Pasted image 20260220173403.png",
@@ -230,7 +218,6 @@
     "Attachments/Pasted image 20260220173025.png",
     "Attachments/Pasted image 20260220173013.png",
     "Attachments/Pasted image 20260220172939.png",
-    "Attachments/Pasted image 20260220172659.png",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 6.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
@@ -239,14 +226,11 @@
     "Ingeniería Electrónica/Proyectos de electrónica.md",
     "conflict-files-obsidian-git.md",
     "Tags",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
     "Minecraft/Minecraft.md",
     "Minecraft/Redstone.md",
     "Minecraft/.md",
     "Minecraft/Create and addons.md",
     "Minecraft",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
     "Excalidraw/Drawing 2026-01-23 01.07.06.excalidraw.md",
     "1-Campos conservativos e integrales de línea y superficie.md",
     "Ingeniería Electrónica/Programación avanzada en C",

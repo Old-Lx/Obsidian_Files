@@ -18,3 +18,5 @@ Usaremos Init(max_size, )
 
 Buffer circular: Simplifica a O(1) la inserción y extracción de elementos en una cola
 ![[Pasted image 20260224174347.png]]
+
+Se pueden ejecutar funciones desde la cola haciendo una cola de funciones.
