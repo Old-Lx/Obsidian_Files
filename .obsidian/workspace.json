@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 8 - Árboles binarios.md",
+                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 7 - Instrucciones Vectoriales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 8 - Árboles binarios"
+              "title": "Clase 7 - Instrucciones Vectoriales"
             }
           }
         ]
@@ -74,13 +74,16 @@
             }
           },
           {
-            "id": "10f87f85eb0c4ab8",
+            "id": "57e627c8738f8a11",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -203,10 +206,10 @@
   },
   "active": "474e3320d61b6c49",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 8 - Árboles binarios.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 8 - Árboles binarios.md",
     "Attachments/Pasted image 20260224174347.png",
     "Attachments/Pasted image 20260224172205.png",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 7 - Instrucciones Vectoriales.md",
