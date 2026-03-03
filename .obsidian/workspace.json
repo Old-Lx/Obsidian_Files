@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 7 - Instrucciones Vectoriales.md",
+                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 9 - Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 7 - Instrucciones Vectoriales"
+              "title": "Clase 9 - Classes"
             }
           }
         ]
@@ -74,16 +74,13 @@
             }
           },
           {
-            "id": "57e627c8738f8a11",
+            "id": "e8bb23fa748d43bb",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -206,21 +203,23 @@
   },
   "active": "474e3320d61b6c49",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260303172602.png",
+    "Attachments/Pasted image 20260303172209.png",
+    "Attachments/Pasted image 20260303172157.png",
+    "Attachments/Pasted image 20260303172001.png",
+    "Attachments/Pasted image 20260303171814.png",
+    "Attachments/Pasted image 20260303171628.png",
+    "Attachments/Pasted image 20260303171035.png",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 8 - Árboles binarios.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 9 - Classes.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 7 - Instrucciones Vectoriales.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
     "Attachments/Pasted image 20260224174347.png",
     "Attachments/Pasted image 20260224172205.png",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 7 - Instrucciones Vectoriales.md",
     "Attachments/Pasted image 20260220180807.png",
     "Attachments/Pasted image 20260220180736.png",
-    "Attachments/Pasted image 20260220173403.png",
-    "Attachments/Pasted image 20260220173111.png",
-    "Attachments/Pasted image 20260220173041.png",
-    "Attachments/Pasted image 20260220173025.png",
-    "Attachments/Pasted image 20260220173013.png",
-    "Attachments/Pasted image 20260220172939.png",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 6.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
@@ -244,7 +243,6 @@
     "Ingeniería Electrónica/Test.md",
     "Untitled.canvas",
     "Excalidraw/Test.md",
-    "Whisper.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
