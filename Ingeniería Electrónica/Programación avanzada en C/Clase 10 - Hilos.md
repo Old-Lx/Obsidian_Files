@@ -21,10 +21,22 @@ Función que se queda en un ciclo infinito hasta que le permiten parar
 
 ![[Pasted image 20260310172437.png]]
 
+# Atomic
+<[Handling Critical Sections in C Multithreading: Atomic, Mutex, and Semaphore](https://medium.com/@akshatarhabib/handling-critical-sections-in-c-multithreading-atomic-mutex-and-semaphore-79c1c73231e6)>
 
+<[Atomic Types](https://stackoverflow.com/questions/36955884/what-are-atomic-types-in-the-c-language)>
 # Mutexes
-Variable del procesador que bloquea secciones específicas de có
+Variable del procesador que bloquea secciones específicas de código cuando se está ejecutando
+
+<[What is a Mutex?](https://stackoverflow.com/questions/34524/what-is-a-mutex)>
+
+<[Mutex vs Semaphore](https://www.geeksforgeeks.org/operating-systems/mutex-vs-semaphore/)>
 # Semaphores
 
+<[What is a Semaphore?](https://www.geeksforgeeks.org/operating-systems/semaphores-in-process-synchronization/)>
+
 # Process
+Es cualquier ejecución en un sistema operativo, es tal cual lo que ves con ``ps`` en Linux
+
+<[Process](https://www.geeksforgeeks.org/operating-systems/process-in-operating-system/)>
 
