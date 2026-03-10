@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 9 - Classes.md",
+                "file": "Ingeniería Electrónica/Programación avanzada en C/Clase 10 - Hilos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 9 - Classes"
+              "title": "Clase 10 - Hilos"
             }
           }
         ]
@@ -74,16 +74,13 @@
             }
           },
           {
-            "id": "e8bb23fa748d43bb",
+            "id": "8130fca2e1bd1642",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -206,23 +203,24 @@
   },
   "active": "474e3320d61b6c49",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260310172437.png",
+    "Attachments/Pasted image 20260310171808.png",
+    "Attachments/Pasted image 20260310171638.png",
+    "Attachments/Pasted image 20260310171615.png",
+    "Attachments/Pasted image 20260310170652.png",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 9 - Classes.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 10 - Hilos.md",
+    "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
     "Attachments/Pasted image 20260303172602.png",
     "Attachments/Pasted image 20260303172209.png",
     "Attachments/Pasted image 20260303172157.png",
     "Attachments/Pasted image 20260303172001.png",
     "Attachments/Pasted image 20260303171814.png",
     "Attachments/Pasted image 20260303171628.png",
-    "Attachments/Pasted image 20260303171035.png",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 8 - Árboles binarios.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 9 - Classes.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 7 - Instrucciones Vectoriales.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
-    "Attachments/Pasted image 20260224174347.png",
-    "Attachments/Pasted image 20260224172205.png",
-    "Attachments/Pasted image 20260220180807.png",
-    "Attachments/Pasted image 20260220180736.png",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 6.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
@@ -245,7 +243,6 @@
     "Ingeniería Electrónica/Ingeniería Electrónica.md",
     "Ingeniería Electrónica/Test.md",
     "Untitled.canvas",
-    "Excalidraw/Test.md",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
