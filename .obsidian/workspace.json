@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 1.md",
+                "file": "Whisper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 1"
+              "title": "Whisper"
             }
           }
         ]
@@ -77,10 +77,13 @@
             "id": "6657c9545def8031",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -202,13 +205,14 @@
   },
   "active": "9dd174e544782535",
   "lastOpenFiles": [
-    "Tags",
+    "Ingeniería Electrónica/Proyectos de electrónica.md",
+    "1-Campos conservativos e integrales de línea y superficie.md",
     "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 1.md",
+    "Tags",
     "Ingeniería Electrónica/Sistemas Embebidos 1/Sistemas Embebidos 1.md",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Ingeniería Electrónica/Sistemas Embebidos 1",
     "Ingeniería Electrónica/Comunicaciones/Comunicaciones.md",
-    "Ingeniería Electrónica/Proyectos de electrónica.md",
     "Ingeniería Electrónica/Mecatrónica/Sistemas Embebidos 1/Sistemas Embebidos 1.md",
     "Ingeniería Electrónica/Mecatrónica/Sistemas Embebidos 1",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 12 (creo) - Proyecto.md",
@@ -240,7 +244,6 @@
     "Minecraft/Create and addons.md",
     "Minecraft",
     "Excalidraw/Drawing 2026-01-23 01.07.06.excalidraw.md",
-    "1-Campos conservativos e integrales de línea y superficie.md",
     "Ingeniería Electrónica/Programación avanzada en C",
     "Untitled.canvas",
     "Ingeniería Electrónica/Electrónica/Electro 6/Práctica Parcial 1",
