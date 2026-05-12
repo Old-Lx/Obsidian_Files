@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 3.md",
+                "file": "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 4 - Microcontroladores PIC16F13145.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 3"
+              "title": "Clase 4 - Microcontroladores PIC16F13145"
             }
           }
         ]
@@ -74,16 +74,13 @@
             }
           },
           {
-            "id": "26aaed80f1566ad9",
+            "id": "76e98168c066b8a8",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -205,9 +202,10 @@
   },
   "active": "9dd174e544782535",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 3.md",
+    "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 4 - Microcontroladores PIC16F13145.md",
     "Attachments/Pasted image 20260508190620.png",
     "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 1.md",
-    "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 3.md",
     "Whisper.md",
     "Ingeniería Electrónica/Proyectos de electrónica.md",
     "1-Campos conservativos e integrales de línea y superficie.md",
@@ -231,7 +229,6 @@
     "Attachments/Pasted image 20260303172209.png",
     "Attachments/Pasted image 20260303172157.png",
     "Attachments/Pasted image 20260303172001.png",
-    "Attachments/Pasted image 20260303171814.png",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 8 - Árboles binarios.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 7 - Instrucciones Vectoriales.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
