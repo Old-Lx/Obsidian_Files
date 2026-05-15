@@ -6,6 +6,7 @@
 - Salida con DAC
 - PWM y Duty Cycle
 - Watchdog Timers
+- SPI - I2C - OneWire
 
 
 En esta clase hicimos blinking led
