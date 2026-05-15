@@ -22,8 +22,10 @@ Decorators are flexible way to modify or extend behavior of functions or methods
 ![[Pasted image 20260515115109.png]]
 ![[Pasted image 20260515115301.png]]
 ![[Pasted image 20260515115410.png]]
-
-
+![[Pasted image 20260515115556.png]]
+![[Pasted image 20260515120023.png]]
+![[Pasted image 20260515120335.png]]
+![[Pasted image 20260515120958.png]]
 
 ## Ejemplo:
 
