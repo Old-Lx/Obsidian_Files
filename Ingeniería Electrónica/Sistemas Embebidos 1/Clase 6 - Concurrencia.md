@@ -30,6 +30,13 @@ La última forma es con asyncio:
 [Multiprocessing en Python](https://www.geeksforgeeks.org/python/multiprocessing-python-set-1/)
 [Atomicidad](https://codescoddler.medium.com/concurrency-made-simple-the-role-of-atomic-variables-8327b9b35023)
 
+## Parte 2 - Microcontroladores
 
+### FSM (Finite State Machines)
+[Finite State Machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+[What are FSM?](https://www.spiceworks.com/soft-tech/what-is-fsm/)
+[Otra definición de FSM](https://brilliant.org/wiki/finite-state-machines/)
 
+[Interrupciones](https://www.ibm.com/docs/en/zos-basic-skills?topic=system-what-is-interrupt-processing)
+[Interrupciones otra definición](https://ece353.engr.wisc.edu/firmware-basics/interrupts/)
 
