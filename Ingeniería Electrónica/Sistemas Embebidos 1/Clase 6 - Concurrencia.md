@@ -19,6 +19,8 @@ La última forma es con asyncio:
 ![[Pasted image 20260519164126.png]]
 ![[Pasted image 20260519164750.png]]
 ![[Pasted image 20260519165236.png]]
+![[Pasted image 20260519170221.png]]
+
 
 
 [Concurrencia en Python](https://www.geeksforgeeks.org/python/python-program-with-concurrency/) 
