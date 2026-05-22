@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 6 - Concurrencia.md",
+                "file": "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 6 - Concurrencia"
+              "title": "Clase 7"
             }
           }
         ]
@@ -74,16 +74,13 @@
             }
           },
           {
-            "id": "8807c7e5f99b3a10",
+            "id": "276f0eb34b86c9af",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -205,6 +202,9 @@
   },
   "active": "9dd174e544782535",
   "lastOpenFiles": [
+    "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 4 - Microcontroladores PIC16F13145.md",
+    "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 7.md",
+    "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 6 - Concurrencia.md",
     "Attachments/Pasted image 20260519170221.png",
     "Attachments/Pasted image 20260519165236.png",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 7 - Instrucciones Vectoriales.md",
@@ -212,7 +212,6 @@
     "Ingeniería Electrónica/Programación avanzada en C/Clase 9 - Classes.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 12 (creo) - Proyecto.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 10 - Hilos, Spinlock, Atomic, Mutexes, Semaphores y Processes.md",
-    "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 6 - Concurrencia.md",
     "Attachments/Pasted image 20260519164750.png",
     "Attachments/Pasted image 20260519164126.png",
     "Attachments/Pasted image 20260519163407.png",
@@ -221,9 +220,7 @@
     "Attachments/Pasted image 20260519162032.png",
     "Attachments/Pasted image 20260519161841.png",
     "Attachments/Pasted image 20260519161736.png",
-    "Attachments/Pasted image 20260519161657.png",
     "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 5.md",
-    "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 4 - Microcontroladores PIC16F13145.md",
     "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 3.md",
     "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 1.md",
     "Whisper.md",
