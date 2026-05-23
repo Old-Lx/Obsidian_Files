@@ -1,0 +1,1 @@
+Es una herramienta para usar tu teléfono en la computadora a través de USB debugging

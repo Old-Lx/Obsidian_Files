@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 7.md",
+                "file": "scrcpy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 7"
+              "title": "scrcpy"
             }
           }
         ]
@@ -202,8 +202,9 @@
   },
   "active": "9dd174e544782535",
   "lastOpenFiles": [
-    "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 4 - Microcontroladores PIC16F13145.md",
     "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 7.md",
+    "scrcpy.md",
+    "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 4 - Microcontroladores PIC16F13145.md",
     "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 6 - Concurrencia.md",
     "Attachments/Pasted image 20260519170221.png",
     "Attachments/Pasted image 20260519165236.png",
@@ -240,7 +241,6 @@
     "Ingeniería Electrónica/Programación avanzada en C/Clase 5.md",
     "Notas.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 4 - Uniones y bitfields.md",
-    "conflict-files-obsidian-git.md",
     "Minecraft",
     "Ingeniería Electrónica/Programación avanzada en C",
     "Untitled.canvas",
