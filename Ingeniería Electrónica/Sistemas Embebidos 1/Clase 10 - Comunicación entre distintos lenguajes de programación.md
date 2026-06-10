@@ -23,5 +23,18 @@ La clase 9 fue el laboratorio
 ![[Pasted image 20260609202310.png]]
 ![[Pasted image 20260609202542.png]]
 ![[Pasted image 20260609202748.png]]
+![[Pasted image 20260609203302.png]]
+![[Pasted image 20260609203617.png]]
+![[Pasted image 20260609203658.png]]
+![[Pasted image 20260609203721.png]]
+![[Pasted image 20260609204506.png]]
+![[Pasted image 20260609204513.png]]
+Cambiar números a atomic ulong
 
+En Python
+![[Pasted image 20260609204953.png]]
+![[Pasted image 20260609205247.png]]
+![[Pasted image 20260609205537.png]]
+![[Pasted image 20260609205937.png]]
+![[Pasted image 20260609205956.png]]
 
