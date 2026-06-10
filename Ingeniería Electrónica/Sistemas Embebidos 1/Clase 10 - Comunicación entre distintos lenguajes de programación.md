@@ -37,4 +37,5 @@ En Python
 ![[Pasted image 20260609205537.png]]
 ![[Pasted image 20260609205937.png]]
 ![[Pasted image 20260609205956.png]]
+![[Pasted image 20260609210147.png]]
 
