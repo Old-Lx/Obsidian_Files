@@ -15,3 +15,13 @@ La clase 9 fue el laboratorio
 
 
 
+![[Pasted image 20260609200619.png]]
+![[Pasted image 20260609201445.png]]![[Pasted image 20260609201813.png]]
+
+![[Pasted image 20260609202047.png]]
+
+![[Pasted image 20260609202310.png]]
+![[Pasted image 20260609202542.png]]
+![[Pasted image 20260609202748.png]]
+
+
