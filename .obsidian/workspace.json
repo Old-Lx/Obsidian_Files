@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Whisper.md",
+                "file": "Developing/Mis dominios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Whisper"
+              "title": "Mis dominios"
             }
           }
         ]
@@ -202,6 +202,15 @@
   },
   "active": "9dd174e544782535",
   "lastOpenFiles": [
+    "Developing/Mis dominios.md",
+    "Developing/Developing.md",
+    "Developing",
+    "Ingeniería Electrónica/Ingeniería Electrónica.md",
+    "Untitled.md",
+    "Minecraft/Minecraft.md",
+    "Minecraft/Redstone.md",
+    "Minecraft/Create and addons.md",
+    "Whisper.md",
     "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 10 - Comunicación entre distintos lenguajes de programación.md",
     "Attachments/Pasted image 20260609210147.png",
     "Attachments/Pasted image 20260609205956.png",
@@ -214,7 +223,6 @@
     "Attachments/Pasted image 20260609203721.png",
     "Attachments/Pasted image 20260609203658.png",
     "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 8.md",
-    "Ingeniería Electrónica/Ingeniería Electrónica.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 7 - Instrucciones Vectoriales.md",
     "Ingeniería Electrónica/Programación avanzada en C/Clase 8 - Árboles binarios.md",
     "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 7.md",
@@ -227,19 +235,13 @@
     "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 5.md",
     "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 3.md",
     "Ingeniería Electrónica/Sistemas Embebidos 1/Clase 1.md",
-    "Whisper.md",
     "Ingeniería Electrónica/Proyectos de electrónica.md",
     "1-Campos conservativos e integrales de línea y superficie.md",
     "Tags",
     "Ingeniería Electrónica/Sistemas Embebidos 1/Sistemas Embebidos 1.md",
     "Ingeniería Electrónica/Programación avanzada en C/Programación avanzada en C.md",
     "Ingeniería Electrónica/Sistemas Embebidos 1",
-    "Ingeniería Electrónica/Comunicaciones/Comunicaciones.md",
-    "Ingeniería Electrónica/Mecatrónica/Sistemas Embebidos 1/Sistemas Embebidos 1.md",
     "Ingeniería Electrónica/Mecatrónica/Sistemas Embebidos 1",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 1.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 3 - Punteros, Tipos Opacos de datos y funciones variadicas.md",
-    "Ingeniería Electrónica/Programación avanzada en C/Clase 2.md",
     "Minecraft",
     "Ingeniería Electrónica/Programación avanzada en C",
     "Untitled.canvas",
@@ -247,7 +249,6 @@
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 6",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 5",
     "Ingeniería Electrónica/Electrónica/Electro 6/Clase 4",
-    "Ingeniería Electrónica/Electrónica/Electro 6/Clase 3",
     "Mate 6/Guía 1.canvas",
     "Untitled 1.canvas"
   ]
